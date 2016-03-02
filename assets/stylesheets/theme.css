@@ -1,0 +1,18 @@
+header {
+  background: url("//dk2u9hjtzeje1.cloudfront.net/assets/welcome/banner@2x-673913ae18b31208b2013570bf641ff4.png") top center no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  float: left;
+  padding: 1rem 0;
+  width: 100%;
+}
+header .hubbub_logo {
+  background: url("//dk2u9hjtzeje1.cloudfront.net/assets/logos/hubbub_logo_white_large@2x-dbd8f3349b235837caab269c0b94ad77.png") center center no-repeat;
+  background-size: cover;
+  float: left;
+  height: 76px;
+  width: 215px;
+}
+header + .container {
+  padding-top: 80px;
+}
