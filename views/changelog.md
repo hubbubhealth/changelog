@@ -1,5 +1,18 @@
 # Changelog
 
+## release-3461..release-3649 
+
+* [313b0b5](https://github.com/hubbubhealth/hubbub-main/commit/313b0b5e3360e64e75e9571a6614a00e998dc271) Merge pull request 3649 from hubbubhealth js 3621 batch_invitation_actions create error [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [a2272e7](https://github.com/hubbubhealth/hubbub-main/commit/a2272e7b3c703bc1c1862ee6585bf5a68780b7e3) Merge pull request 3631 from hubbubhealth jv hapi v1 hubbub360 result controller specs [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [29ec5c5](https://github.com/hubbubhealth/hubbub-main/commit/29ec5c53795058ef16739f0c1451d4dfaac09771) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [f542b85](https://github.com/hubbubhealth/hubbub-main/commit/f542b855ec975158e56677b3e89bde567d63d31d) use preferred empty instead of present [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [0c61df2](https://github.com/hubbubhealth/hubbub-main/commit/0c61df260ae95e7c6216bfaa0a907ddee687b745) modify batch_invitation_action save to use error messages [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [7c86f3f](https://github.com/hubbubhealth/hubbub-main/commit/7c86f3fdbb5116e99699270afefd8d8cd05e67f7) replace map to_i in initialize [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [3c4480c](https://github.com/hubbubhealth/hubbub-main/commit/3c4480ce6a87da27c0a09caf1e259bdbc54b612a) add new paw request [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [8378bb3](https://github.com/hubbubhealth/hubbub-main/commit/8378bb3bf7a65da945bf2752d320fdec6c3834ac) add specs code for single invitations [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [7561384](https://github.com/hubbubhealth/hubbub-main/commit/7561384876c99caf9a0dc484d089ed4013007d17) DRY out json parse call [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [343391b](https://github.com/hubbubhealth/hubbub-main/commit/343391ba1636b089ff0c43b7ff843066c461ad6c) Added specs for HAPI V1 Hubbub360ResultsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3656..release-3461 
 
 * [332f21c](https://github.com/hubbubhealth/hubbub-main/commit/332f21c239be56188095fb2927714959735ad5c1) Merge pull request 3461 from hubbubhealth le global config host [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
