@@ -1,5 +1,18 @@
 # Changelog
 
+## release-3671..release-3667 
+
+* [8131a69](https://github.com/hubbubhealth/hubbub-main/commit/8131a6935db2acd706a51e671e615a11daf4e60c) Merge pull request 3667 from hubbubhealth mt cms middleware [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [b5f9125](https://github.com/hubbubhealth/hubbub-main/commit/b5f9125a4188bee9548f613b1378cbf8f6262baa) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [59172b2](https://github.com/hubbubhealth/hubbub-main/commit/59172b2221023510268424ca96036da369046af2) Merge branch master of github.com hubbubhealth hubbub main [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [8e92f2c](https://github.com/hubbubhealth/hubbub-main/commit/8e92f2ce6ea00e2d2dc3c9168453aaf683ddb83e) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [5c90078](https://github.com/hubbubhealth/hubbub-main/commit/5c90078eb518e49b9df376b790cb487bb5e958eb) Handle 201 links via in body link replacement [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [86edad9](https://github.com/hubbubhealth/hubbub-main/commit/86edad9472e34429853c06f6db8cf09e44180136) Refactor for QA launch [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [c859f6a](https://github.com/hubbubhealth/hubbub-main/commit/c859f6ab54a1057ee0099b4180afbd036eb6c1ee) Redirect to main site for login admin [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [b76d714](https://github.com/hubbubhealth/hubbub-main/commit/b76d714e35af3de5abee448f55e42b4da496d343) Switch from BK demo to content demo [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [9a71911](https://github.com/hubbubhealth/hubbub-main/commit/9a71911b0b8770705bf018fc09f385b0e99d6396) Proof of concept for CMS middleware [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [2bcb54d](https://github.com/hubbubhealth/hubbub-main/commit/2bcb54d2036600cbd1574d3600de98e17d6d095f) Add middleware to stack [Mark Tabler](mailto:mark@hubbubhealth.com)
+
 ## release-3649..release-3671 
 
 * [f2c72fb](https://github.com/hubbubhealth/hubbub-main/commit/f2c72fbd905eb139fe513070a2a42c3cb4db66f6) Merge pull request 3671 from hubbubhealth ld 3471 redo omniauth twitter [Loren Delamarter](mailto:loren.delamarter@gmail.com)
