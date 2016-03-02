@@ -1,5 +1,11 @@
 # Changelog
 
+## release-3649..release-3671 
+
+* [f2c72fb](https://github.com/hubbubhealth/hubbub-main/commit/f2c72fbd905eb139fe513070a2a42c3cb4db66f6) Merge pull request 3671 from hubbubhealth ld 3471 redo omniauth twitter [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [5a0b84d](https://github.com/hubbubhealth/hubbub-main/commit/5a0b84d2d2ecca8f469891579fd3912c1acfe23f) fixes for dangling chad errors [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [dbb3b7c](https://github.com/hubbubhealth/hubbub-main/commit/dbb3b7c25da0fbd56f5e32ede798e274dac59f71) Revert Revert Publish to Twitter via Omniauth authentication [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
 ## release-3461..release-3649 
 
 * [313b0b5](https://github.com/hubbubhealth/hubbub-main/commit/313b0b5e3360e64e75e9571a6614a00e998dc271) Merge pull request 3649 from hubbubhealth js 3621 batch_invitation_actions create error [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
