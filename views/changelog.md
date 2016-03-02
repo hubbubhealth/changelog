@@ -1,5 +1,54 @@
 # Changelog
 
+## release-3656..release-3461 
+
+* [332f21c](https://github.com/hubbubhealth/hubbub-main/commit/332f21c239be56188095fb2927714959735ad5c1) Merge pull request 3461 from hubbubhealth le global config host [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [76c0186](https://github.com/hubbubhealth/hubbub-main/commit/76c018668e635f80bdd81d0697afc4ccb776d264) remove unecesary host config for spec helper [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [0cedc24](https://github.com/hubbubhealth/hubbub-main/commit/0cedc242582767b13d627b71732eabb85ed71ce6) step back https to http due loren changes for this class [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [7b44686](https://github.com/hubbubhealth/hubbub-main/commit/7b4468600f4feb65a3ca6f22c73b906d44ee5e54) replace api urls for web urls on hapi fistbump controller [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [9abe568](https://github.com/hubbubhealth/hubbub-main/commit/9abe568cf746a3c0ae9e0903bb19771075e736dd) replace api urls for web urls [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [5cbc1d5](https://github.com/hubbubhealth/hubbub-main/commit/5cbc1d5a8c4b462251991d5af9786b3308fc37f4) remove duplicated code [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [6e0dde1](https://github.com/hubbubhealth/hubbub-main/commit/6e0dde1607d72231f329805bfbe7ef62c18d1b7f) fix readable code [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [9d1414f](https://github.com/hubbubhealth/hubbub-main/commit/9d1414fb6f4cedf756d9acc84ad442bd116ec2b0) fix broken tests [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [ac7a8ac](https://github.com/hubbubhealth/hubbub-main/commit/ac7a8ac3c7bba3297e0a18207779df94f4a75de9) replace all hardcoded localhost 3000 with global variable HOST [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [8a9a191](https://github.com/hubbubhealth/hubbub-main/commit/8a9a191348ef528e039beed803f635017995b1c1) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+
+## release-3615..release-3656 
+
+* [1df0782](https://github.com/hubbubhealth/hubbub-main/commit/1df07824b14c710251f11bb68295235c89aa55be) Merge pull request 3656 from hubbubhealth revert 3615 ld 3471 omniauth twitter publish [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [0228754](https://github.com/hubbubhealth/hubbub-main/commit/022875472b1d6a293b02a0143ada9cc156a22fbf) Revert Publish to Twitter via Omniauth authentication [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [4323093](https://github.com/hubbubhealth/hubbub-main/commit/4323093788fdb7e130f4b138780c9f32afed636f) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+
+## release-3638..release-3615 
+
+* [e2a483f](https://github.com/hubbubhealth/hubbub-main/commit/e2a483f0f052ae80cb37b4b3add7a0146448bfb4) Merge pull request 3615 from hubbubhealth ld 3471 omniauth twitter publish [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [33f5537](https://github.com/hubbubhealth/hubbub-main/commit/33f55377c1d9597624993a00169899b9b62884ab) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [e3234eb](https://github.com/hubbubhealth/hubbub-main/commit/e3234eb5e2a5fa5587304ee2b86c208ed081d38c) Merge pull request 3640 from hubbubhealth mo hapi company goals sponsor [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [9bde99e](https://github.com/hubbubhealth/hubbub-main/commit/9bde99eb7842d7ccef6da41e52fe5f9eef131b97) update to new hash syntax [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [a9aa8f8](https://github.com/hubbubhealth/hubbub-main/commit/a9aa8f8f954017cc184a5ba0803554fcf459e646) Remove uneccessary variable [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [1360f26](https://github.com/hubbubhealth/hubbub-main/commit/1360f26d882ab32e3a6dc3cb18644536a5c9d7d2) clean up string and remove commented code [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [4710a0f](https://github.com/hubbubhealth/hubbub-main/commit/4710a0f7888b68a0941cbb55ffda8fde8a9e9e38) Remove twitter token and secret from logging [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [015cd99](https://github.com/hubbubhealth/hubbub-main/commit/015cd99763ab9de9651335cc193bcc7cc83b050b) Merge pull request 3634 from hubbubhealth mo challenges application specs [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [8a69620](https://github.com/hubbubhealth/hubbub-main/commit/8a696204c2da57ed1444c259685c6e0b0bcc4ebd) Fix action of the authorize method [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [0e7edc8](https://github.com/hubbubhealth/hubbub-main/commit/0e7edc8fa30a6940b4975ba99f7dd35d0c1b4079) Improve return a json response when the sponsor id is not valid [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [c2e31bf](https://github.com/hubbubhealth/hubbub-main/commit/c2e31bf76f25d4a02c878a84b3c5cd41257ed655) Merge pull request 3643 from hubbubhealth le fix 3639 [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [3ae7513](https://github.com/hubbubhealth/hubbub-main/commit/3ae7513359917b60b9758045bc3014d0703d727a) fix message render on deleted or invalid resource team [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [a15c091](https://github.com/hubbubhealth/hubbub-main/commit/a15c091a2de631130090adc48eb05303787a898b) Fix for mobile monkey business [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [57b89dd](https://github.com/hubbubhealth/hubbub-main/commit/57b89ddf5bdd62fd106fc4fe47fb4c330aee6c25) Unset all twitter fields on disconnect [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [078cea7](https://github.com/hubbubhealth/hubbub-main/commit/078cea79e1120560655aa7d7cbc18f6f1f710d9b) Updates for backwards compatibility and continue using rpx_twitter_id column [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [634c9ca](https://github.com/hubbubhealth/hubbub-main/commit/634c9cab68ee26e12bb4ee0858bdcaf17af071ec) Modify the guard test before publishing [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [a41d844](https://github.com/hubbubhealth/hubbub-main/commit/a41d8444a93a53598425ba0cd5d0a247e981598e) Add method name to log entry [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [ee754ba](https://github.com/hubbubhealth/hubbub-main/commit/ee754ba352adffcb222266a1f5b926515f908e77) Add more logging to publish_twitter_message [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [bfc10ce](https://github.com/hubbubhealth/hubbub-main/commit/bfc10ce93c6cf8d902f211385e4ca1b34bd8ba21) Modify views [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [b421a42](https://github.com/hubbubhealth/hubbub-main/commit/b421a42ad5bd5145a0fef36429d342e059cdb490) Modify controllers and models [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [14d8141](https://github.com/hubbubhealth/hubbub-main/commit/14d8141f022f2513871b0355391762ff7e3236ce) Add twitter callback and route [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [0db7447](https://github.com/hubbubhealth/hubbub-main/commit/0db7447dd78f68de2c36f39842db566bd9b46868) Configure omniauth twitter [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [6be0b44](https://github.com/hubbubhealth/hubbub-main/commit/6be0b44423403b36f7b8e9fcf5196d088d3fec68) Cleanup by rubocop [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [2d68bd1](https://github.com/hubbubhealth/hubbub-main/commit/2d68bd101975a83ff655209a4c1accb3b4429b31) Improve spec tests for sponsors helper [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [a918a38](https://github.com/hubbubhealth/hubbub-main/commit/a918a38dcfdb47df62495c6d22ca1e340463687b) Improve spec test for challenges helper [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [d4909d3](https://github.com/hubbubhealth/hubbub-main/commit/d4909d3a55b9de0c80c4a5d029c199bf073a55e3) Continue WIP spec test for challenges helper [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [2fc510a](https://github.com/hubbubhealth/hubbub-main/commit/2fc510a0e9bca5cbe0f5ea44ecb0d9fe41fc0fb9) Improve WIP spec test for challenges helper [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
 ## release-3613..release-3638 
 
 * [8d67237](https://github.com/hubbubhealth/hubbub-main/commit/8d672371dc8f59860ef3557e8b2709e5444d1483) Release notes for 1.1.354 [Mark Tabler](mailto:mark@hubbubhealth.com)
