@@ -1,5 +1,16 @@
 # Changelog
 
+## release-3676..release-3642 
+
+* [ed8d37e](https://github.com/hubbubhealth/hubbub-main/commit/ed8d37e7a73bfad40edbd9422a652dbf2f5a870d) Merge pull request 3642 from hubbubhealth mo users controller profile id [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [b2419aa](https://github.com/hubbubhealth/hubbub-main/commit/b2419aabc76c47e7148aadef8af3f236563a42b2) Merge pull request 3645 from hubbubhealth mo issue 3561 company news item [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [624db54](https://github.com/hubbubhealth/hubbub-main/commit/624db54c5878294b38d90b0757c9de83f4ee37ec) Improve return a json response when the user id is not valid [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [b052385](https://github.com/hubbubhealth/hubbub-main/commit/b052385d7237b1dfbff7b8a7b59b663515646910) Improve return a json response when the sponsor id is not valid [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [6f45e13](https://github.com/hubbubhealth/hubbub-main/commit/6f45e13975edb421afb323c46e2f64b1c1fe9485) Merge pull request 3679 from hubbubhealth mt reboot script [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [11f8aa6](https://github.com/hubbubhealth/hubbub-main/commit/11f8aa6d039e1ae0d62c311dd4918b8d75964eef) Restart worker dynos also [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [176aae0](https://github.com/hubbubhealth/hubbub-main/commit/176aae06c1477e9c68d9e321b55d70505e8099b4) Add reboot script for seamless dyno restart [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [78061b1](https://github.com/hubbubhealth/hubbub-main/commit/78061b1632f9f37e34666c6b33a3e5611c2bb6ea) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+
 ## release-3667..release-3676 
 
 * [86f59d6](https://github.com/hubbubhealth/hubbub-main/commit/86f59d646e7d56c3eafce212c2199b325cce86bc) Merge pull request 3676 from hubbubhealth le hotfix coaching confirmation email [Loren Delamarter](mailto:loren.delamarter@gmail.com)
