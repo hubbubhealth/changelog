@@ -1,5 +1,17 @@
 # Changelog
 
+## release-3667..release-3676 
+
+* [86f59d6](https://github.com/hubbubhealth/hubbub-main/commit/86f59d646e7d56c3eafce212c2199b325cce86bc) Merge pull request 3676 from hubbubhealth le hotfix coaching confirmation email [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [96116b9](https://github.com/hubbubhealth/hubbub-main/commit/96116b926d804756b17599fffd73399068350e69) coaching confirmation email replace path to url [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [f304679](https://github.com/hubbubhealth/hubbub-main/commit/f30467922f054ae0eaab433e046a8c679e2a0fdb) Merge pull request 3668 from hubbubhealth jv challenge promotions controller specs [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [4274f23](https://github.com/hubbubhealth/hubbub-main/commit/4274f23c04ff948556aba5506d9a84e17b2be170) Merge branch master of github.com hubbubhealth hubbub main [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [840cf6a](https://github.com/hubbubhealth/hubbub-main/commit/840cf6a3d5dcfc6800d009c1fd8de4decf8315a1) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [f015795](https://github.com/hubbubhealth/hubbub-main/commit/f015795ea327a143fa7697b9abf911752c20633a) Merge pull request 3661 from hubbubhealth jv hapi v1 teams controller specs [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [6360469](https://github.com/hubbubhealth/hubbub-main/commit/6360469daa59c4c0f158f5482b22d2f13e5357b9) Cover not authenticated scenario and small code fixes [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [83ff17c](https://github.com/hubbubhealth/hubbub-main/commit/83ff17ce9cc87a913593ad7b2d28f3eb8d992bc8) Remove white spaces [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [0d37b6d](https://github.com/hubbubhealth/hubbub-main/commit/0d37b6dfc46393ebacd0cccb973f20c24e53f9f6) Added missing specs for HAPI V1 TeamsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3671..release-3667 
 
 * [8131a69](https://github.com/hubbubhealth/hubbub-main/commit/8131a6935db2acd706a51e671e615a11daf4e60c) Merge pull request 3667 from hubbubhealth mt cms middleware [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
