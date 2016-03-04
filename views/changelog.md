@@ -1,5 +1,15 @@
 # Changelog
 
+## release-3642..release-3664 
+
+* [14c99f7](https://github.com/hubbubhealth/hubbub-main/commit/14c99f73177823c65b0715cf98329ea85b2bc538) Merge pull request 3664 from hubbubhealth gd 3627 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [82fcf20](https://github.com/hubbubhealth/hubbub-main/commit/82fcf20c4657d6e01767fbe3867a31cd726c63ac) Merge pull request 3683 from hubbubhealth jv hub controller specs [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [07ae067](https://github.com/hubbubhealth/hubbub-main/commit/07ae06767b6cce6bcab600c7474fa7eb5179dff2) Merge branch master of github.com hubbubhealth hubbub main [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [403d5b2](https://github.com/hubbubhealth/hubbub-main/commit/403d5b2472fd776d3fb6b47421c45ced7d00cc96) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [425fab2](https://github.com/hubbubhealth/hubbub-main/commit/425fab242b822f330c5141220bfeec5f54b9816b) Explicitely create one user challenge to fix broken spec [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [e6c0efc](https://github.com/hubbubhealth/hubbub-main/commit/e6c0efcad81a98091dac5751931f9d2b6a401915) Added specs for HubController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [7b1bc2b](https://github.com/hubbubhealth/hubbub-main/commit/7b1bc2bea6bf16fb7a56a7a8ecb8464bafe3b7d1) March contest. Resolves 3627 [Gerad Davis](mailto:geraddavis@gmail.com)
+
 ## release-3676..release-3642 
 
 * [ed8d37e](https://github.com/hubbubhealth/hubbub-main/commit/ed8d37e7a73bfad40edbd9422a652dbf2f5a870d) Merge pull request 3642 from hubbubhealth mo users controller profile id [Michel Ocon](mailto:soun.xrt@gmail.com)
