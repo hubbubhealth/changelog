@@ -1,5 +1,28 @@
 # Changelog
 
+## release-3664..release-3675 
+
+* [4100b79](https://github.com/hubbubhealth/hubbub-main/commit/4100b792d37fcf46b87fb74418d94af0240b73d0) Merge pull request 3675 from hubbubhealth le fix config files [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [61fd2a7](https://github.com/hubbubhealth/hubbub-main/commit/61fd2a75fada61f467fb946f162970a4e9c2e2e1) Merge pull request 3665 from hubbubhealth mo 3662 bug select for nil [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [4ed4967](https://github.com/hubbubhealth/hubbub-main/commit/4ed496729d14201f3fae76f730a8b9fb80d86cd5) Merge pull request 3670 from hubbubhealth mo 3669 duplicatedkey sponsorbadgeincentive [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [8494bf8](https://github.com/hubbubhealth/hubbub-main/commit/8494bf82aee5dcfcdb080165ffce58f824fb53a0) Merge pull request 3660 from hubbubhealth mo 3658 undefined method user devices [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [d83fdca](https://github.com/hubbubhealth/hubbub-main/commit/d83fdcaed8a4e78404e1676f9d5f78165b44ba9d) Merge pull request 3693 from hubbubhealth gd 3635 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [61512a2](https://github.com/hubbubhealth/hubbub-main/commit/61512a24fb7bf565ae8b2868d58313586d0d7739) Removed Credit Union badge image from footer. Resolves 3635 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [6a870d8](https://github.com/hubbubhealth/hubbub-main/commit/6a870d8b680497618d41376d0ed606c02bf9f56d) Merge pull request 3650 from hubbubhealth mo issue 3647 challenges jointeam [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [fb81c8d](https://github.com/hubbubhealth/hubbub-main/commit/fb81c8d60b4cccf46cf75c34cd5583c06a948ee0) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [1d04b22](https://github.com/hubbubhealth/hubbub-main/commit/1d04b22b9a056bfce9472989a4d355531ad14a6e) comments taked into account [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [1cded25](https://github.com/hubbubhealth/hubbub-main/commit/1cded2588ba4dd3293fae4bb20bc426bd2a80815) move emails from I18n to config file [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [5703c20](https://github.com/hubbubhealth/hubbub-main/commit/5703c2002bda9747da8f794c62782c9560a8cd35) add default I18n files [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [db8fb2e](https://github.com/hubbubhealth/hubbub-main/commit/db8fb2ee6ea6f5f1858a4c1cd106c19002c3a0e9) Clean up by rubocop [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [3dd34fb](https://github.com/hubbubhealth/hubbub-main/commit/3dd34fb6103f3061d70bc083e11353774b629e48) Improve test for device action [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [82d884c](https://github.com/hubbubhealth/hubbub-main/commit/82d884c72ce9bc3283e7861988639f4c1529d517) Fix newline at EOF missing [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [8e5daf9](https://github.com/hubbubhealth/hubbub-main/commit/8e5daf9cbda2e7e26b93bc42da1887fc5c5e6a27) Add spec test for model sponsor_badge_incentive [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [aef8139](https://github.com/hubbubhealth/hubbub-main/commit/aef8139af2a735b0d1a15fbe5b29848a7d909e4c) Add unique validation on the model [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [d8353a9](https://github.com/hubbubhealth/hubbub-main/commit/d8353a91a3a9200e86ad2e5602a252eb931f2e48) Add nil check before calling select on object small code clean up and refactor of the symbols.to_s to string [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [45e7d48](https://github.com/hubbubhealth/hubbub-main/commit/45e7d48dc5a150b42019ac08ceada53cb82cf4a6) Refactor variable current_user is set to user [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [401532e](https://github.com/hubbubhealth/hubbub-main/commit/401532ea4653a513a4c45487c87d2806ddd37d15) Add authorization check for devise action on registrations controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [3926bf2](https://github.com/hubbubhealth/hubbub-main/commit/3926bf2050e6778f4c50dc5b6eb2f63fd22f11a9) Check than sponsor is set before calling the method [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
 ## release-3642..release-3664 
 
 * [14c99f7](https://github.com/hubbubhealth/hubbub-main/commit/14c99f73177823c65b0715cf98329ea85b2bc538) Merge pull request 3664 from hubbubhealth gd 3627 [Gerad Davis](mailto:geraddavis@gmail.com)
