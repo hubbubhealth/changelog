@@ -1,5 +1,22 @@
 # Changelog
 
+## release-3699..release-3702 
+
+* [876d935](https://github.com/hubbubhealth/hubbub-main/commit/876d935c492f8dff1012429ac24ba418fd5a7e6b) Merge pull request 3702 from hubbubhealth ld 3471 twitter friends [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [3da8dae](https://github.com/hubbubhealth/hubbub-main/commit/3da8dae6684b6cdb79c37a1bd5a168669f417e50) Fix a few omniauth paths that were missed in refactor [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [3a5f84b](https://github.com/hubbubhealth/hubbub-main/commit/3a5f84bc7a2bf91940210456c1f575c3f6929122) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [2f595c9](https://github.com/hubbubhealth/hubbub-main/commit/2f595c978dfd282e4c93b6fdb9a9003e08e0844d) Complete the facebook thentication. 3471 [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [8169c9a](https://github.com/hubbubhealth/hubbub-main/commit/8169c9aecdcde6023ef2cc09803a3b1a844053d1) Fix spec can t share to facebook even if token present [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [cea6abd](https://github.com/hubbubhealth/hubbub-main/commit/cea6abd264a33c1461350f362f33b49f243c0932) Disable a janrain window opener [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [ad2b15f](https://github.com/hubbubhealth/hubbub-main/commit/ad2b15f5b738011bc487bcd6cca54c46efe74a87) Disable posting to Facebook [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [87f08f0](https://github.com/hubbubhealth/hubbub-main/commit/87f08f01d100c7a45e3bc908c2d4efdb19725e6e) Hide Facebook connecting for publishing sharing [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [e4aaff4](https://github.com/hubbubhealth/hubbub-main/commit/e4aaff4d1a9773f7e0b7f22c4c888c7178c034ad) Fix twitter friends link [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [9f935b7](https://github.com/hubbubhealth/hubbub-main/commit/9f935b767a8066c02e0f17cea505169c668c1a68) Refactor to twitter_reload_caller [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [42a7362](https://github.com/hubbubhealth/hubbub-main/commit/42a7362785a387cc270824ba7e853f5b7ab45356) Adjust to twitter_connect strategy [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [0535cc9](https://github.com/hubbubhealth/hubbub-main/commit/0535cc97f49295d901630c3a824f8111606492a3) Convert twitter friends to omniauth [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [37c2b41](https://github.com/hubbubhealth/hubbub-main/commit/37c2b410d8e784d9d8d192815949cbf64a644c06) Add callback methods for the alternate twitter strategies [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [073e6ef](https://github.com/hubbubhealth/hubbub-main/commit/073e6ef448f883ce588c3b413fafc19601d405e2) Add alternate strategies for twitter [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
 ## release-3675..release-3699 
 
 * [5ed07c5](https://github.com/hubbubhealth/hubbub-main/commit/5ed07c5e5a968d0e950b534475fcc96ccdb2aa08) Merge pull request 3699 from hubbubhealth gd 3698 [Gerad Davis](mailto:geraddavis@gmail.com)
