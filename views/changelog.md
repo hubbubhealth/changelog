@@ -1,5 +1,14 @@
 # Changelog
 
+## release-3703..release-3707 
+
+* [e12c337](https://github.com/hubbubhealth/hubbub-main/commit/e12c3371f7a1f8378bf6217695ca780763ddf2ba) Merge pull request 3707 from hubbubhealth gd 3701 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [5d5339e](https://github.com/hubbubhealth/hubbub-main/commit/5d5339efac471c7142b5dba985f2a2c9f0912bfa) Merge pull request 3709 from hubbubhealth le hotfix [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [3931657](https://github.com/hubbubhealth/hubbub-main/commit/3931657bd3c5e6be50b0478381096a493ff5bfff) fix contact email key on mailers [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [731b051](https://github.com/hubbubhealth/hubbub-main/commit/731b051a3dff55ba75ca901797de4f078b73fd8f) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [b437f3d](https://github.com/hubbubhealth/hubbub-main/commit/b437f3d5109ed651af6d168ae1cf79eccf91c30e) hotfix safe email [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [2a7688a](https://github.com/hubbubhealth/hubbub-main/commit/2a7688af8beefb4344552c7100d441cfcb0d599d) Updated player terms. Resolves 3701 [Gerad Davis](mailto:geraddavis@gmail.com)
+
 ## release-3702..release-3703 
 
 * [86cc738](https://github.com/hubbubhealth/hubbub-main/commit/86cc738fe209b61b742e20c00e5a40aaa6cbe4a9) Merge pull request 3703 from hubbubhealth mt 3648 team xfer [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
