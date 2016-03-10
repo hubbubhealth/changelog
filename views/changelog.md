@@ -1,5 +1,11 @@
 # Changelog
 
+## release-3702..release-3703 
+
+* [86cc738](https://github.com/hubbubhealth/hubbub-main/commit/86cc738fe209b61b742e20c00e5a40aaa6cbe4a9) Merge pull request 3703 from hubbubhealth mt 3648 team xfer [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [88265b5](https://github.com/hubbubhealth/hubbub-main/commit/88265b522ed3e726186ddbfd87c1c12587834bdb) Narrow team transfer to current members only [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [959c6a5](https://github.com/hubbubhealth/hubbub-main/commit/959c6a5f6ec0846eb83403063741047bd23a9f79) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+
 ## release-3699..release-3702 
 
 * [876d935](https://github.com/hubbubhealth/hubbub-main/commit/876d935c492f8dff1012429ac24ba418fd5a7e6b) Merge pull request 3702 from hubbubhealth ld 3471 twitter friends [Loren Delamarter](mailto:loren.delamarter@gmail.com)
@@ -14916,7 +14922,7 @@
 * [99fbee7](https://github.com/hubbubhealth/hubbub-main/commit/99fbee70ace60f7fe04aaf62af117b5bd86fb456) unhardcoded sponsor [yalestar](mailto:yalestar@gmail.com)
 * [d4dd628](https://github.com/hubbubhealth/hubbub-main/commit/d4dd6283efaa0b92cf83a631a90214ce970fb1b1) mobile sign out button moved to hub only fixed issues with active top nav background [Gerad Davis](mailto:geraddavis@gmail.com)
 * [20579cf](https://github.com/hubbubhealth/hubbub-main/commit/20579cf48fb8eff6f81c57b12996b9688de820c5) Merge branch master into sprint [yalestar](mailto:yalestar@gmail.com)
-* [122f372](https://github.com/hubbubhealth/hubbub-main/commit/122f372458433e935aa901180b29aeb5c406ea47) Merge branch release_20120515 of github.com healthengine projectv into release_20120515 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [122f3724](https://github.com/hubbubhealth/hubbub-main/commit/122f372458433e935aa901180b29aeb5c406ea47) Merge branch release_20120515 of github.com healthengine projectv into release_20120515 [Gerad Davis](mailto:geraddavis@gmail.com)
 * [65ce1ff](https://github.com/hubbubhealth/hubbub-main/commit/65ce1ff8b965039dad79c111ecb7efe619979388) badge drag and drop fix [Gerad Davis](mailto:geraddavis@gmail.com)
 * [3539399](https://github.com/hubbubhealth/hubbub-main/commit/35393996c11fc0329ba4bf3b4878b74c42365d6e) Fixed badge widget [Nate Borrebach](mailto:nateb2@gmail.com)
 * [05c7126](https://github.com/hubbubhealth/hubbub-main/commit/05c7126a3fcf9fe12492e1b4729164282ce05726) Merge branch release_20120515 of github.com healthengine projectv into release_20120515 [Gerad Davis](mailto:geraddavis@gmail.com)
