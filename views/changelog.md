@@ -1,5 +1,11 @@
 # Changelog
 
+## release-3617..release-3723 
+
+* [54b2ac7](https://github.com/hubbubhealth/hubbub-main/commit/54b2ac7078953e7c42695c27d354d3fb774e6a16) Merge pull request 3723 from hubbubhealth gd 3708 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [a969946](https://github.com/hubbubhealth/hubbub-main/commit/a969946c77b595164f84020774e44fe8a2c4c25f) Removed employer subscription page. Resolves 3708 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [95cebc0](https://github.com/hubbubhealth/hubbub-main/commit/95cebc0b4a63eb8479becd62151f841b7976c654) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+
 ## release-3707..release-3617 
 
 * [7859929](https://github.com/hubbubhealth/hubbub-main/commit/78599292d6cec69faf1f4f4a7ee9890be06e61b5) Merge pull request 3716 from hubbubhealth js fix move sponsor past paywall [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
