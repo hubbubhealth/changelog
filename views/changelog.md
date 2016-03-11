@@ -1,5 +1,12 @@
 # Changelog
 
+## release-3707..release-3617 
+
+* [7859929](https://github.com/hubbubhealth/hubbub-main/commit/78599292d6cec69faf1f4f4a7ee9890be06e61b5) Merge pull request 3716 from hubbubhealth js fix move sponsor past paywall [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [039e254](https://github.com/hubbubhealth/hubbub-main/commit/039e254e4eaba4405262c58b2227f0099d50e84f) remove pesky binding.pry [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [d13e315](https://github.com/hubbubhealth/hubbub-main/commit/d13e31519a1f2b05d8ce5f2068e91d42d64a8a38) add logic to move sponsor past the pay wall for real [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [c8a7362](https://github.com/hubbubhealth/hubbub-main/commit/c8a7362e84b5317ad6f3105b8fc26f4505e907b8) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+
 ## release-3703..release-3707 
 
 * [e12c337](https://github.com/hubbubhealth/hubbub-main/commit/e12c3371f7a1f8378bf6217695ca780763ddf2ba) Merge pull request 3707 from hubbubhealth gd 3701 [Gerad Davis](mailto:geraddavis@gmail.com)
