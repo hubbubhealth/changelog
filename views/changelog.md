@@ -1,5 +1,26 @@
 # Changelog
 
+## release-3723..release-3718 
+
+* [98655e5](https://github.com/hubbubhealth/hubbub-main/commit/98655e5facd05040890d178cdba3c8270e403609) Merge pull request 3718 from hubbubhealth mt 3137 fitbit oauth2 [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [cfa3dd4](https://github.com/hubbubhealth/hubbub-main/commit/cfa3dd413b9c47617baf01768291149dfabdf752) Spec tweak mock client was overly optimistic [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [a90b47a](https://github.com/hubbubhealth/hubbub-main/commit/a90b47a731df3b9efffabce49e66ad949422022a) Temp fix for schema.rb generation issues [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [1b5f537](https://github.com/hubbubhealth/hubbub-main/commit/1b5f5373a3d7ca1bb268fea6b0d88409154af054) Update schema [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [5a67dc0](https://github.com/hubbubhealth/hubbub-main/commit/5a67dc09f039a6c875f9f46b2e166b5127217a38) Re testing in local tweaks [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [55933d8](https://github.com/hubbubhealth/hubbub-main/commit/55933d8427c680089eab582c105496b68220c1f5) Addtl spec [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [a350dde](https://github.com/hubbubhealth/hubbub-main/commit/a350dde744fc256f248b5909130f4c16f621fb52) Spec adjustments for Fitbit Oauth2 conversion [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [6a51f24](https://github.com/hubbubhealth/hubbub-main/commit/6a51f2410351e122aa4433c7ab9ad48f9fe50e9d) Remove Fitgem update fitbit wearable device [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [53c5494](https://github.com/hubbubhealth/hubbub-main/commit/53c5494ba7f678733b08cbbffc2554db9eb1e240) Plausible Oauth2 flow exhanging auth_code for tokens [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [cb69167](https://github.com/hubbubhealth/hubbub-main/commit/cb69167ed2917ecb20fc76ef9532b1f0e22ae2ac) Add HOST_URL as global constant [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [a983e7e](https://github.com/hubbubhealth/hubbub-main/commit/a983e7ea817a3cca10ab10b1ba5bce2cbab8753b) Tidying [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [4f9e475](https://github.com/hubbubhealth/hubbub-main/commit/4f9e475f44fc1c5f103f27ee6cabedb37fe12ac0) Separate classes into separate files [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [3c53c4c](https://github.com/hubbubhealth/hubbub-main/commit/3c53c4c0ee926bbd766ee843999b080ef1371dcf) Getting sleep data works need to vaildate that it stayd in the same format [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [ace7a2d](https://github.com/hubbubhealth/hubbub-main/commit/ace7a2d0cbbb5d4d17cbda547c2c79994b2b1862) Create delete subscriptions [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [5921df6](https://github.com/hubbubhealth/hubbub-main/commit/5921df60718213fe67b25e887f1b102106ee0491) Existing data calls now working over Oauth2 [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [2a52dc2](https://github.com/hubbubhealth/hubbub-main/commit/2a52dc268fb38302e31d4845d31ede714b1c9f95) Adding Oauth2 Client [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [2851cb5](https://github.com/hubbubhealth/hubbub-main/commit/2851cb54e34118c7c4146a94a8bd1f8be851620c) WIP working on Oauth2 conversion requests [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [6a3efee](https://github.com/hubbubhealth/hubbub-main/commit/6a3efee19f2914af546ecdc6c065d01480e78147) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+
 ## release-3617..release-3723 
 
 * [54b2ac7](https://github.com/hubbubhealth/hubbub-main/commit/54b2ac7078953e7c42695c27d354d3fb774e6a16) Merge pull request 3723 from hubbubhealth gd 3708 [Gerad Davis](mailto:geraddavis@gmail.com)
