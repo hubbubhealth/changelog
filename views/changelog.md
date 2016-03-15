@@ -1,5 +1,20 @@
 # Changelog
 
+## release-3718..release-3715 
+
+* [8a5bf26](https://github.com/hubbubhealth/hubbub-main/commit/8a5bf26d3ba63484da9ff530aa105894455541a0) Merge pull request 3715 from hubbubhealth mt proxy refinement [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [1a16a2f](https://github.com/hubbubhealth/hubbub-main/commit/1a16a2f08ec9e3a54d7da51f0843b1e4a0bcf500) Replace all relative links in presented body fixes pagination [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [6c187f8](https://github.com/hubbubhealth/hubbub-main/commit/6c187f80d18b11581eb503e221c5f5c43d5927b3) remove changelog from project [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [7b4ba3d](https://github.com/hubbubhealth/hubbub-main/commit/7b4ba3da117220bcab7b67c6e1fb3394e2bf46e7) Merge pull request 3678 from hubbubhealth mo 3677 order for nil [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [ed3938e](https://github.com/hubbubhealth/hubbub-main/commit/ed3938e26e8a36554ad243de3adb171b7539fb70) Update changelog [bubbot](mailto:adam+hubot@hubbubhealth.com)
+* [bf203f9](https://github.com/hubbubhealth/hubbub-main/commit/bf203f95fc019a5adea31ef82f09e47bf2c2fa18) Merge branch master of github.com hubbubhealth hubbub main into mt proxy refinement [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [a75dc8e](https://github.com/hubbubhealth/hubbub-main/commit/a75dc8eb967dff47762b933c7dbcd7a2ced0e74c) Allow 20 minute cache of graphic assets [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [e55abd5](https://github.com/hubbubhealth/hubbub-main/commit/e55abd5f58ddca906848e5749caf3e98a0a9c075) Fix nil case when stripping HTTParty request headers [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [b5dc67e](https://github.com/hubbubhealth/hubbub-main/commit/b5dc67eb24cbd2c0764c58b46432fdecf95f44fc) Allow passthrough of conditional GET headers [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [3d3334e](https://github.com/hubbubhealth/hubbub-main/commit/3d3334eb4a00abd703789e4714b39e83173b2851) Add validate than the user is signed in for the category action otherwise redirect to sign in [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [a75d138](https://github.com/hubbubhealth/hubbub-main/commit/a75d138c8756e828ff44d61906d288fc52ebfb7a) Add test case for the order on nil object [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [766a224](https://github.com/hubbubhealth/hubbub-main/commit/766a22406f78c14726f0fd9fa399866b23d8fd9b) Avoid call order method on a nil object [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
 ## release-3723..release-3718 
 
 * [98655e5](https://github.com/hubbubhealth/hubbub-main/commit/98655e5facd05040890d178cdba3c8270e403609) Merge pull request 3718 from hubbubhealth mt 3137 fitbit oauth2 [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
