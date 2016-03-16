@@ -1,5 +1,14 @@
 # Changelog
 
+## release-3720..release-3740 
+
+* [baf6dbe](https://github.com/hubbubhealth/hubbub-main/commit/baf6dbe652c41aa0bd403f551f455c445921e4fe) Merge pull request 3740 from hubbubhealth js 3711 add markdown ability to app for company news [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [bdc2c8c](https://github.com/hubbubhealth/hubbub-main/commit/bdc2c8c5051b944c9908a1e417a74184aa16fe9d) fix wacky 2nd paragraph spacing [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [1993006](https://github.com/hubbubhealth/hubbub-main/commit/199300630108d45ac9413bfda87a232b7689e411) no bold italics numbered headings [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [b2a1b3b](https://github.com/hubbubhealth/hubbub-main/commit/b2a1b3bdade8b8fc49bea47d4f74227ba3e74da8) remove lowercase of title on show.html.erb [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [7dc64c2](https://github.com/hubbubhealth/hubbub-main/commit/7dc64c22e4ad26ac7996abd7f03aa12e67886c3a) remove unused RedCloth gem [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [ee807a5](https://github.com/hubbubhealth/hubbub-main/commit/ee807a513acce19e4adfd567a36fff64db0bf795) add hyperlink ability to web version for company_news_item.body [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3743..release-3720 
 
 * [be8035e](https://github.com/hubbubhealth/hubbub-main/commit/be8035e919c2097b9da7141ffb4bf23b0ccaa4b4) Merge pull request 3720 from hubbubhealth ld 3471 remove rpx [Loren Delamarter](mailto:loren.delamarter@gmail.com)
