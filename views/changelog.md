@@ -1,5 +1,11 @@
 # Changelog
 
+## release-3742..release-3743 
+
+* [973a200](https://github.com/hubbubhealth/hubbub-main/commit/973a200012dd737ccba82d201cd02401a361626d) Merge pull request 3743 from hubbubhealth gd 3738 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [1559a90](https://github.com/hubbubhealth/hubbub-main/commit/1559a90e9c5422e5257467797a80fa8462124c3b) Removed number field spinner styles [Gerad Davis](mailto:geraddavis@gmail.com)
+* [583ac4f](https://github.com/hubbubhealth/hubbub-main/commit/583ac4f361c8798b4869d44395f1e8cbc069f9c5) Referenced sponsors update page in the css to fix missing styles. Changed number only text fields to number fields to prevent obvious errors. Resolves 3738 [Gerad Davis](mailto:geraddavis@gmail.com)
+
 ## release-3739..release-3742 
 
 * [7fb47d9](https://github.com/hubbubhealth/hubbub-main/commit/7fb47d9d9c9e5cee83cdbb8207d080b94c220b1e) Merge pull request 3742 from hubbubhealth gd 3734 3735 [Gerad Davis](mailto:geraddavis@gmail.com)
