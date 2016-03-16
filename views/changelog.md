@@ -1,5 +1,10 @@
 # Changelog
 
+## release-3739..release-3742 
+
+* [7fb47d9](https://github.com/hubbubhealth/hubbub-main/commit/7fb47d9d9c9e5cee83cdbb8207d080b94c220b1e) Merge pull request 3742 from hubbubhealth gd 3734 3735 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [41042df](https://github.com/hubbubhealth/hubbub-main/commit/41042dfccb581efdc5532594ccd4f30d5dfd234b) Replaced reference to Direct Health Solutions with hubbub health Inc. Resolves 3734 735 [Gerad Davis](mailto:geraddavis@gmail.com)
+
 ## release-3715..release-3739 
 
 * [cf2e2e9](https://github.com/hubbubhealth/hubbub-main/commit/cf2e2e90a802086c9d6006404da23bb73a1db63f) Merge pull request 3739 from hubbubhealth mt proxy refinement [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
