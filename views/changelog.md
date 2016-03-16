@@ -1,5 +1,12 @@
 # Changelog
 
+## release-3715..release-3739 
+
+* [cf2e2e9](https://github.com/hubbubhealth/hubbub-main/commit/cf2e2e90a802086c9d6006404da23bb73a1db63f) Merge pull request 3739 from hubbubhealth mt proxy refinement [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [195ac91](https://github.com/hubbubhealth/hubbub-main/commit/195ac914539a8a00140cec0113bf55b57268b235) Merge pull request 3712 from hubbubhealth jv friendship invitation controller flash messages localization [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [1e0d721](https://github.com/hubbubhealth/hubbub-main/commit/1e0d72193d17b9c25684db8384b77b74a8f27171) Switch from environment check to feature switch for CMS middleware [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [d400568](https://github.com/hubbubhealth/hubbub-main/commit/d400568539e45183831450283c8764590b8c0a7d) Localise flash messages on FriendshipInvitationsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3718..release-3715 
 
 * [8a5bf26](https://github.com/hubbubhealth/hubbub-main/commit/8a5bf26d3ba63484da9ff530aa105894455541a0) Merge pull request 3715 from hubbubhealth mt proxy refinement [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
