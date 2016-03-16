@@ -1,5 +1,16 @@
 # Changelog
 
+## release-3743..release-3720 
+
+* [be8035e](https://github.com/hubbubhealth/hubbub-main/commit/be8035e919c2097b9da7141ffb4bf23b0ccaa4b4) Merge pull request 3720 from hubbubhealth ld 3471 remove rpx [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [6fb02cf](https://github.com/hubbubhealth/hubbub-main/commit/6fb02cfcc0e2e981de997e76a0611482f57b3818) remove a couple no longer used helper methods [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [59b9200](https://github.com/hubbubhealth/hubbub-main/commit/59b9200dbe950014e567f514e73dea813bacb0c6) Replaced embedded facebook connect image tags with css [Gerad Davis](mailto:geraddavis@gmail.com)
+* [e96cc17](https://github.com/hubbubhealth/hubbub-main/commit/e96cc17abff8e156876273bff8e66533a24ddb54) Fix spec by adding empty set ENV vars [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [8cf08d0](https://github.com/hubbubhealth/hubbub-main/commit/8cf08d0f1bd82df16d01502aee5c53f650e5a11c) fix generating a fb_client for publishing [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [46226a5](https://github.com/hubbubhealth/hubbub-main/commit/46226a5fef825a3b0db55a5405df3b8d7807a907) TEMPORAL REMOVE gem devise_rpx [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [0c15a47](https://github.com/hubbubhealth/hubbub-main/commit/0c15a47f840304b8fd50b4618a4f3cfa6fec3b76) remove the library [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [4b676b3](https://github.com/hubbubhealth/hubbub-main/commit/4b676b323b1e9cd564c24b009766ee505b39b8c7) Remove the janrain. 3471 [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
 ## release-3742..release-3743 
 
 * [973a200](https://github.com/hubbubhealth/hubbub-main/commit/973a200012dd737ccba82d201cd02401a361626d) Merge pull request 3743 from hubbubhealth gd 3738 [Gerad Davis](mailto:geraddavis@gmail.com)
