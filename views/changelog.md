@@ -1,5 +1,39 @@
 # Changelog
 
+## release-3740..release-3714 
+
+* [33b4794](https://github.com/hubbubhealth/hubbub-main/commit/33b4794fe6e7b2571ce507c2160b83c90001ee05) Merge pull request 3714 from hubbubhealth mo localization dates [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [06376d2](https://github.com/hubbubhealth/hubbub-main/commit/06376d266c16b5906976d07e97d8ce134fe6be90) Merge pull request 3717 from hubbubhealth hotfix 3713 add index to challenge stream entry [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [2324849](https://github.com/hubbubhealth/hubbub-main/commit/2324849c86b2b9990990afa6e1d360b691a26f4a) comment out migration code for now [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [55dd0d9](https://github.com/hubbubhealth/hubbub-main/commit/55dd0d9961d6a26702284bc8c680eaee368cf592) add index to improve query performance [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [9563aee](https://github.com/hubbubhealth/hubbub-main/commit/9563aeef68937c1c0d72fe604ba918b26b708dfd) Remove pct_hash check [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [fa39a43](https://github.com/hubbubhealth/hubbub-main/commit/fa39a4301722f6d8a8c808da8b6e4d983d0974fa) Clean up remove unused key [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [2cfee08](https://github.com/hubbubhealth/hubbub-main/commit/2cfee089285296d9488df8a8f3ffe32069c43e49) Improve _form_js time format for new Date [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [5cdd5bb](https://github.com/hubbubhealth/hubbub-main/commit/5cdd5bb0674f1809cbc80d7244491a4f3aacd6c3) Cleanup [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [781f2a9](https://github.com/hubbubhealth/hubbub-main/commit/781f2a976e40126bba58ffb6b9fd92aaa2b2106a) Fix application_helper_spec [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [72c6d03](https://github.com/hubbubhealth/hubbub-main/commit/72c6d033a3b1f94b7b500f97b1d2135454299767) Cleanup by rubocop reward_account_transaction_controller_spec [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [9b73d67](https://github.com/hubbubhealth/hubbub-main/commit/9b73d67a7dd9f7cc9020a67775b4c86aaa016c5a) Fix test for reward_account_transaction_controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [b7fb457](https://github.com/hubbubhealth/hubbub-main/commit/b7fb4575e60762ab040e44741be8613dae47f794) Cleanup [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [e8d9dff](https://github.com/hubbubhealth/hubbub-main/commit/e8d9dffc291f5bb9be1684b38e2e95d0c5c6154f) Date Localization Normalization application_helper [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [4176d8d](https://github.com/hubbubhealth/hubbub-main/commit/4176d8d3c42c0f041bc5fac073722ea1c90e547a) Date localization normalization some ISO8601 and clean up of the views [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [6ac6d36](https://github.com/hubbubhealth/hubbub-main/commit/6ac6d360a2f5812b781bed15a6d089c634c4f836) Date localization normalization good day bad day [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [d1fc23f](https://github.com/hubbubhealth/hubbub-main/commit/d1fc23f7fe662abde94770a9f9e6bf57dd81bcf4) Date localization nomalization Hubbub360 User Challenge Motion Accounts [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [80def20](https://github.com/hubbubhealth/hubbub-main/commit/80def208244c0ed71057d13062184ab06e7fa682) Date localize normalize Biometric Screening [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [586139a](https://github.com/hubbubhealth/hubbub-main/commit/586139ae5bebc5f5cae148452f08c7e82e561537) Date localized normalized Subscriptions [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [d5a4fbd](https://github.com/hubbubhealth/hubbub-main/commit/d5a4fbd16b7f2214cf854f496e90d86c4268760d) Date normalize localize Reward Account Transactions [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [dbf83cc](https://github.com/hubbubhealth/hubbub-main/commit/dbf83ccafad607da9fff03b0b6d34a1ef978feff) Serialized Challenge Templates [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [240abda](https://github.com/hubbubhealth/hubbub-main/commit/240abdac2aa0ab5a43e2a8187c5abb9fa54a5dd8) Date localization normalization for sponsor roster [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [ef8c97f](https://github.com/hubbubhealth/hubbub-main/commit/ef8c97f5a6e214e863cceb3b75ff4622a0f36bc0) I18n date for Admin view controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [8b85b6a](https://github.com/hubbubhealth/hubbub-main/commit/8b85b6a7a1e93eed978b5190c777915ee446093c) Date localization normalization for mailers [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [91bca01](https://github.com/hubbubhealth/hubbub-main/commit/91bca015f0c0a6b6c68dccc6e327c9ea4cb18147) Date normalization for controllers models and some views most of them only appear 1 or 2 times [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [ea43c4e](https://github.com/hubbubhealth/hubbub-main/commit/ea43c4e4c35ec39b403098194e6d155ec931c7b8) Date format used in 1 place [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [426c897](https://github.com/hubbubhealth/hubbub-main/commit/426c8977c4e6fe0d44f266d454370ac4c603880c) Controller reward funds [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [05e1c8b](https://github.com/hubbubhealth/hubbub-main/commit/05e1c8b5e51a0722dcf8b8482bbe987a98263868) Localization views different formats [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [cd9e8d0](https://github.com/hubbubhealth/hubbub-main/commit/cd9e8d0c74190a46f62941964715266a60f716f9) Localization of format m d Y [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [6abe3c0](https://github.com/hubbubhealth/hubbub-main/commit/6abe3c0bf12a80d1fde84762a3b23cea5f8de2fc) Add month_day_year format for time on default.en.yml [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [7d51681](https://github.com/hubbubhealth/hubbub-main/commit/7d51681ab7eaba04335577faffcaf5d27913a988) Merge pull request 3751 from hubbubhealth le update schema [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [e61454c](https://github.com/hubbubhealth/hubbub-main/commit/e61454c42ead220201ac7634e084491c68126643) update schema [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-3720..release-3740 
 
 * [baf6dbe](https://github.com/hubbubhealth/hubbub-main/commit/baf6dbe652c41aa0bd403f551f455c445921e4fe) Merge pull request 3740 from hubbubhealth js 3711 add markdown ability to app for company news [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
