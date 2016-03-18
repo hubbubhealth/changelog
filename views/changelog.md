@@ -1,5 +1,25 @@
 # Changelog
 
+## release-3747..release-3745 
+
+* [9ed3790](https://github.com/hubbubhealth/hubbub-main/commit/9ed37905408e3d6bfb51d9a1ace512fe9f8a8375) Merge pull request 3745 from hubbubhealth js 3733 show parent company challenges [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [b4c2f22](https://github.com/hubbubhealth/hubbub-main/commit/b4c2f222cd39e419c09071239163a81f68b40397) dry up code [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [5227fa2](https://github.com/hubbubhealth/hubbub-main/commit/5227fa24ed1583a8d33cb6e00dcc1a8112652a97) remove private sponsored challenges not available to sub sponsored [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [5ef753b](https://github.com/hubbubhealth/hubbub-main/commit/5ef753bf3dcb1d50253607edb594255364894a2a) account for additional edge case [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [7edc356](https://github.com/hubbubhealth/hubbub-main/commit/7edc35656ce5e890b740009b8e3da2660c757c40) correct and dry up failing spec [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [ec5bdce](https://github.com/hubbubhealth/hubbub-main/commit/ec5bdceac47036701172b516e8add3eafe0d06dc) increase specs and cover edge cases [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [32c3b00](https://github.com/hubbubhealth/hubbub-main/commit/32c3b00c7d2d4448dd9c0f15986524e31e563279) refactor all_associated_sponsors_order_by_super_sponsor [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [34f06e3](https://github.com/hubbubhealth/hubbub-main/commit/34f06e334f0afa4717eb5dea80d532fef69ce7be) styles for parent child challenge list [Gerad Davis](mailto:geraddavis@gmail.com)
+* [c9fedfd](https://github.com/hubbubhealth/hubbub-main/commit/c9fedfd52b47c492fde77ab0cf52551db5cbdfe8) use existing user methods [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [b1b92d2](https://github.com/hubbubhealth/hubbub-main/commit/b1b92d297a49719a4778f0d7747f8cd39b347da1) correct naming in spec [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [88ae4fc](https://github.com/hubbubhealth/hubbub-main/commit/88ae4fcf29806846664b41e78446cd139144f450) add spec for user associated_sponsors_sorted_by_super_sponsor [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [841325d](https://github.com/hubbubhealth/hubbub-main/commit/841325dd539085d9227d4efba09ae05b4ec0b247) use reject to shorten line [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [038124f](https://github.com/hubbubhealth/hubbub-main/commit/038124f2297114d3f0c7b6dd2ff478a0b54df8e7) add user associated_sponsors_sorted_by_super_sponsor to always render super sponsor first [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [0e82f19](https://github.com/hubbubhealth/hubbub-main/commit/0e82f19bc7ea04b1cac4f774b016daa9dacbee3f) order by asc id of sponsors so that parent is first [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [766731f](https://github.com/hubbubhealth/hubbub-main/commit/766731fa6d4084b6b1fc049756efa2787c07a6b1) add ability to differentiate challenges by parent sub sponsor [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [3b92475](https://github.com/hubbubhealth/hubbub-main/commit/3b924754426aeff947cd82cb589b691afe131841) add associated_sponsors to views [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [c944ad4](https://github.com/hubbubhealth/hubbub-main/commit/c944ad44558674a22a0fcc8ec8a8cac05bc0febb) correct horrible indentations to make file readable [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3714..release-3747 
 
 * [e8417ec](https://github.com/hubbubhealth/hubbub-main/commit/e8417ec5a1387c1ec3edf32aca108fbb3d99dcaf) Merge pull request 3747 from hubbubhealth mw 3727 fix leaderboard graph [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
