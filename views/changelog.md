@@ -1,5 +1,13 @@
 # Changelog
 
+## release-3714..release-3747 
+
+* [e8417ec](https://github.com/hubbubhealth/hubbub-main/commit/e8417ec5a1387c1ec3edf32aca108fbb3d99dcaf) Merge pull request 3747 from hubbubhealth mw 3727 fix leaderboard graph [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [f5f726d](https://github.com/hubbubhealth/hubbub-main/commit/f5f726dedcfe5af73254eb4f9fcdcfb6153f35e9) reload graph data after checkin [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [871464a](https://github.com/hubbubhealth/hubbub-main/commit/871464ab804266eaf41dc40ed9b66804895b93af) clean up specs and env settings [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [236f228](https://github.com/hubbubhealth/hubbub-main/commit/236f2288dd54aa28f54486941a27b62523c84a69) clean where clause and remove accidental pluck [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [f24b795](https://github.com/hubbubhealth/hubbub-main/commit/f24b795b62dd3bb3cc4c8430cf354632bc37c5c8) include old orphaned answers [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+
 ## release-3740..release-3714 
 
 * [33b4794](https://github.com/hubbubhealth/hubbub-main/commit/33b4794fe6e7b2571ce507c2160b83c90001ee05) Merge pull request 3714 from hubbubhealth mo localization dates [Michel Ocon](mailto:soun.xrt@gmail.com)
