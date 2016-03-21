@@ -1,5 +1,15 @@
 # Changelog
 
+## release-3745..release-3759 
+
+* [6b842ed](https://github.com/hubbubhealth/hubbub-main/commit/6b842edd3485cf04633d7cf5293215927869e130) Merge pull request 3759 from hubbubhealth mt 3736 ordering challenges [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [61e2c90](https://github.com/hubbubhealth/hubbub-main/commit/61e2c90e6defa34412f3f087ea5c7c89ff62b1cd) Fix order of my_company_challenges filter in Challenge model [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [f589973](https://github.com/hubbubhealth/hubbub-main/commit/f58997308bbc3e9b6124e93c3d63b1b4809141b9) Merge pull request 3761 from hubbubhealth le access token specs [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [c024f62](https://github.com/hubbubhealth/hubbub-main/commit/c024f620693c94328793bb3af070de8d4a15a533) small refactor on users controller mobile login action [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [b3f7eaa](https://github.com/hubbubhealth/hubbub-main/commit/b3f7eaa93f89c5e816c88a314d1836991a92cd32) add spec for mobile login action on user controller [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [14af581](https://github.com/hubbubhealth/hubbub-main/commit/14af58166a39e01bec0f5c762ddc5af7e70fec98) use factory for client [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [3144a28](https://github.com/hubbubhealth/hubbub-main/commit/3144a28dab9b685fb0e8fe68cc7380865767124f) inlcude specs for used models in token authentication [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-3747..release-3745 
 
 * [9ed3790](https://github.com/hubbubhealth/hubbub-main/commit/9ed37905408e3d6bfb51d9a1ace512fe9f8a8375) Merge pull request 3745 from hubbubhealth js 3733 show parent company challenges [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
