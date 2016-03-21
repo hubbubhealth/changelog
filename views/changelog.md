@@ -1,5 +1,13 @@
 # Changelog
 
+## release-3759..release-3774 
+
+* [fc4afc4](https://github.com/hubbubhealth/hubbub-main/commit/fc4afc4e836f13546672e802a18b72abc0d23ed8) Merge pull request 3774 from hubbubhealth mt fix fitbit data type [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [f367c66](https://github.com/hubbubhealth/hubbub-main/commit/f367c6677e99f2a65467c23e26985ddfb2a5bd63) Merge pull request 3719 from hubbubhealth jv hubbub360 flash messages localization [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [5415b31](https://github.com/hubbubhealth/hubbub-main/commit/5415b315bf1d1d59f10228f36b383b523ecd57b4) Specify en_US to receive data from Fitbit in Imperial [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [58a84cd](https://github.com/hubbubhealth/hubbub-main/commit/58a84cdeda830f9583607e2c5f5ccf1c7de545e8) Localise flash error message on Hubbub360 questions_and_choices [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [a2e96cf](https://github.com/hubbubhealth/hubbub-main/commit/a2e96cf87c2f26d5161f4dc20677ec635a91d43f) Added missing specs for Hubbub360 questions_and_choices [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3745..release-3759 
 
 * [6b842ed](https://github.com/hubbubhealth/hubbub-main/commit/6b842edd3485cf04633d7cf5293215927869e130) Merge pull request 3759 from hubbubhealth mt 3736 ordering challenges [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
