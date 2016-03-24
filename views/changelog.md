@@ -17995,7 +17995,7 @@
 * [736df4c](https://github.com/hubbubhealth/hubbub-main/commit/736df4c72deac82ce52f1f566b89a1e955e48ee6) made ticker remember to stay closed or open for 1 day [yalestar](mailto:yalestar@gmail.com)
 * [0a6540f](https://github.com/hubbubhealth/hubbub-main/commit/0a6540f82342559af40d0921c31a832507ab601c) Reducing max tag length for challenges to 11 characters. Includes Rake task to shorten long tags currently in Beta [Nate Borrebach](mailto:nateb2@gmail.com)
 * [93f59c7](https://github.com/hubbubhealth/hubbub-main/commit/93f59c77bb5309152ab311dcddc999bb019e3c2d) fixed opacityon tooltip [yalestar](mailto:yalestar@gmail.com)
-* [8d72e20](https://github.com/hubbubhealth/hubbub-main/commit/8d72e2055d46e2bebebd14d0b6c3a771bb711549) Merge branch kookie into sprint [yalestar](mailto:yalestar@gmail.com)
+* [8d72e205](https://github.com/hubbubhealth/hubbub-main/commit/8d72e2055d46e2bebebd14d0b6c3a771bb711549) Merge branch kookie into sprint [yalestar](mailto:yalestar@gmail.com)
 * [9db5064](https://github.com/hubbubhealth/hubbub-main/commit/9db50643ceb3a290950059aed77832e23831f830) Added informational tooltip to fistbump ticker [yalestar](mailto:yalestar@gmail.com)
 * [71e41b1](https://github.com/hubbubhealth/hubbub-main/commit/71e41b1253ce8e4f1ac1e583d3c6515a761c90ad) close button on youtube video [Srihari Muthyala](mailto:iamsrihari@gmail.com)
 * [7507ad1](https://github.com/hubbubhealth/hubbub-main/commit/7507ad1484fd47f6cd85a929572cbb7488c2473f) Merge branch health_coach into sprint [Srihari Muthyala](mailto:iamsrihari@gmail.com)
