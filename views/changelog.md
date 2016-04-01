@@ -4005,7 +4005,7 @@
 * [3336b96](https://github.com/hubbubhealth/hubbub-main/commit/3336b964d25adc315e7530d36f3bc8b26e5ddf7c) Tweak challenge broadcast muting logic [Nate Borrebach](mailto:nate@hubbubhealth.com)
 * [3104562](https://github.com/hubbubhealth/hubbub-main/commit/310456299654fec30c6966a9a46e5a3044f693fa) Implement Challenge is_series [Nate Borrebach](mailto:nate@hubbubhealth.com)
 * [38460ed](https://github.com/hubbubhealth/hubbub-main/commit/38460edfae466b0bd422b1838c7a88a2fc7a8e1b) Implement getters for series step result messages [Nate Borrebach](mailto:nate@hubbubhealth.com)
-* [5f6526d](https://github.com/hubbubhealth/hubbub-main/commit/5f6526d5bb939238670269e8f0c1908bec192257) Refactor Extract partial for recommendations [Nate Borrebach](mailto:nate@hubbubhealth.com)
+* [5f6526d5](https://github.com/hubbubhealth/hubbub-main/commit/5f6526d5bb939238670269e8f0c1908bec192257) Refactor Extract partial for recommendations [Nate Borrebach](mailto:nate@hubbubhealth.com)
 * [8fd6679](https://github.com/hubbubhealth/hubbub-main/commit/8fd667957a90e6e30877e7eb015b0fe83ddbb324) Extract more conclusion message copy into locale [Nate Borrebach](mailto:nate@hubbubhealth.com)
 * [5a8c28a](https://github.com/hubbubhealth/hubbub-main/commit/5a8c28a5b9160e0cbb31e5d2375fd9f7c9e0894c) Refactor Rename challenge results view partial [Nate Borrebach](mailto:nate@hubbubhealth.com)
 * [0a5787d](https://github.com/hubbubhealth/hubbub-main/commit/0a5787d075668a0159ed74f3d53930856809d888) Remove Challenge handle_results_broadcast [Nate Borrebach](mailto:nate@hubbubhealth.com)
