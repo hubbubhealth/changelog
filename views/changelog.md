@@ -1,5 +1,17 @@
 # Changelog
 
+## release-3837..release-3835 
+
+* [f677e5f](https://github.com/hubbubhealth/hubbub-main/commit/f677e5f3ae299d2b2272c6367e9bdaca816618b1) Merge pull request 3835 from hubbubhealth gd 3832 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [c3d4963](https://github.com/hubbubhealth/hubbub-main/commit/c3d4963e971ed93e1d7f8d82ba6e1f4039a7b0e4) added padding to friends view player cards. Resolves 3832 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [da58da9](https://github.com/hubbubhealth/hubbub-main/commit/da58da9bec9b7a6b234cd60bf5f557f7e822b066) Merge pull request 3837 from hubbubhealth mw hotfix sponsor import [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [5ca75db](https://github.com/hubbubhealth/hubbub-main/commit/5ca75db3e4c4fa0ddaf772746dc7b1cc83dcfce8) Debugging output statements for Fitbit sleep subscriptions [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [1d50a7f](https://github.com/hubbubhealth/hubbub-main/commit/1d50a7f4a99d5a94c7c409b6efa88048686b8c14) Debug output bugfixes for Fitbit sleep [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [ca31126](https://github.com/hubbubhealth/hubbub-main/commit/ca311261aa524490f9041f53333db320b2c8f29d) do not use relative time in specs and present is your friend [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [50978af](https://github.com/hubbubhealth/hubbub-main/commit/50978af8d573564e82bbdeae66099c23a135b6b5) use parse not read [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [5f9688b](https://github.com/hubbubhealth/hubbub-main/commit/5f9688bb37fed768004e0c0fd94d669114237525) Merge branch master of github.com hubbubhealth hubbub main [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [de3b394](https://github.com/hubbubhealth/hubbub-main/commit/de3b39493e38f3171d2780c7975861b996fc69ee) Merge branch master of github.com hubbubhealth hubbub main [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+
 ## release-3824..release-3837 
 
 * [4f98b0a](https://github.com/hubbubhealth/hubbub-main/commit/4f98b0a8c156d1e05035d45071b3efbaab02fc2a) Merge pull request 3841 from hubbubhealth mt fitbit sleep patch [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
