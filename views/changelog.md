@@ -1,5 +1,42 @@
 # Changelog
 
+## release-3824..release-3837 
+
+* [4f98b0a](https://github.com/hubbubhealth/hubbub-main/commit/4f98b0a8c156d1e05035d45071b3efbaab02fc2a) Merge pull request 3841 from hubbubhealth mt fitbit sleep patch [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [ab8ad70](https://github.com/hubbubhealth/hubbub-main/commit/ab8ad70db7a6daa4bfb2822d1b68945cc7bbd3ec) Debugging output statements for Fitbit sleep subscriptions [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [e576ad3](https://github.com/hubbubhealth/hubbub-main/commit/e576ad3d009e50790d7001f21a3d57447129a4d9) Debug output bugfixes for Fitbit sleep [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [d9f96df](https://github.com/hubbubhealth/hubbub-main/commit/d9f96dfc1f840a41e39444acfc10740691c076da) Merge branch master of heroku.com hubbub prod [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [2fcee30](https://github.com/hubbubhealth/hubbub-main/commit/2fcee30cc8a24c6c43f6f1f49729bd90a5ee9af2) Merge branch master of github.com hubbubhealth hubbub main [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [dcd9486](https://github.com/hubbubhealth/hubbub-main/commit/dcd94862c6b00296389e659be0a335946432700b) goodby squeel sad [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+
+## release-3810..release-3824 
+
+* [1868d91](https://github.com/hubbubhealth/hubbub-main/commit/1868d91e9b4eb2f560f10b14906ed9db93ae159f) Merge pull request 3824 from hubbubhealth jv team invitations body link [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [2060fcd](https://github.com/hubbubhealth/hubbub-main/commit/2060fcdeacf1db237784151ca18c3d8b4a82cf22) Merge pull request 3821 from hubbubhealth mw sponsor import [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [45f1ec7](https://github.com/hubbubhealth/hubbub-main/commit/45f1ec74dae5b6208fc95ad6f6c2428378b92f62) Fix broken spec on conversations helper [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [4e02129](https://github.com/hubbubhealth/hubbub-main/commit/4e021294687c6b74f6793e287e84580b18a616a6) Update subject and body message [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [e8d45a8](https://github.com/hubbubhealth/hubbub-main/commit/e8d45a881e2c25f7cb4a07b224154f62bb4058ce) add subscription plan [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [6b71590](https://github.com/hubbubhealth/hubbub-main/commit/6b71590ccf431b973e7b0bc9e88ab799a2721278) Change spec to test challenge and team full url paths [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [8a6a34b](https://github.com/hubbubhealth/hubbub-main/commit/8a6a34b52bd11c291c0dc75819cca5518c90d765) Add subject with urls to team and challenge [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [011d516](https://github.com/hubbubhealth/hubbub-main/commit/011d516c3aa73b42b65c38ace60867bdbd9580e9) i said delete son [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [8fb5668](https://github.com/hubbubhealth/hubbub-main/commit/8fb56683cf64a4f01760c0239de83867e27fd49e) remove squeel go back to arel [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [87959d3](https://github.com/hubbubhealth/hubbub-main/commit/87959d342388db82e6f0d8f68ff9ac283d90bac3) clean whitespace [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [9523266](https://github.com/hubbubhealth/hubbub-main/commit/952326690f2f59628012bb6c41094b41e128147b) derp destroy not delete [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [0ebcdbe](https://github.com/hubbubhealth/hubbub-main/commit/0ebcdbeaa8165ae60f236e16d7b5cf3933a98117) refactor callbacks because they were bad and causing issues [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [2e57596](https://github.com/hubbubhealth/hubbub-main/commit/2e57596009a99b3dce475ee4e961746b1b4c1ef6) set better message [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [b2d5e8d](https://github.com/hubbubhealth/hubbub-main/commit/b2d5e8db7b4b0ee315ea8d8811d68d33665eafc1) add squeel for more querying power clean up import and delete logic [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [02bbf4d](https://github.com/hubbubhealth/hubbub-main/commit/02bbf4df4f8651e3a7ff677d47c24a15ca5221d4) Improve spec syntax [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [625cc44](https://github.com/hubbubhealth/hubbub-main/commit/625cc44a9cd76d4c59f779c1c3995c35d2aecfc4) Find team if resource id is not empty [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [a78939c](https://github.com/hubbubhealth/hubbub-main/commit/a78939c7f9ba7b332d332af3b767541c39906098) UsersController code cleanup [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [0a8d4b7](https://github.com/hubbubhealth/hubbub-main/commit/0a8d4b7a335c2e7b7b51f243429253c3d11e258c) Send links to challenge and team on team invitation message [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [ddea949](https://github.com/hubbubhealth/hubbub-main/commit/ddea94940470c5a9c53a59e2bdadfc996508a821) bundle install [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [b768ede](https://github.com/hubbubhealth/hubbub-main/commit/b768edef66816f6cb6636963f86414ab59116d5d) nix roo [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [7c69991](https://github.com/hubbubhealth/hubbub-main/commit/7c6999149ec8956c5bc3f032dd730ae4939b011c) read csv from remote location [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [95587b9](https://github.com/hubbubhealth/hubbub-main/commit/95587b9245c4c93965ce0f19a0dc14d82a5136c6) build objects validation and error handles provide way to clean up [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [5a08c64](https://github.com/hubbubhealth/hubbub-main/commit/5a08c648d7f03646888fa3f4f5e4558f42805cfb) setup csv row parsing [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [dae0f40](https://github.com/hubbubhealth/hubbub-main/commit/dae0f4035d0675d8078f707bf8405d47642f6103) add rake task to hit model [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [56d99ba](https://github.com/hubbubhealth/hubbub-main/commit/56d99bacf27c669f735f8d76570f4d6e80f1ed93) add roo and setup sponsor importer files [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+
 ## release-3774..release-3810 
 
 * [0828fb3](https://github.com/hubbubhealth/hubbub-main/commit/0828fb35b639d7f8823004e94b90292327841125) Merge pull request 3810 from hubbubhealth mt fix sleep subscriptions [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
