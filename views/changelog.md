@@ -1,5 +1,12 @@
 # Changelog
 
+## release-3812..release-3858 
+
+* [b10c88a](https://github.com/hubbubhealth/hubbub-main/commit/b10c88a049f36378ddcca89b2ae8175c9160e71a) Merge pull request 3858 from hubbubhealth le coach status [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [f360520](https://github.com/hubbubhealth/hubbub-main/commit/f3605207b8db18950454e1f3c52a179cfa0553bf) fix broken test on health coach specs [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [98e9b83](https://github.com/hubbubhealth/hubbub-main/commit/98e9b83b9dd3601787c4b768a10c423f6330a45d) change display value from index to show action [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [8628011](https://github.com/hubbubhealth/hubbub-main/commit/8628011ec0b32ee0a594258edc30af1cd306130c) show user if user historic state for coach on coach show hapi endpoint [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-3835..release-3812 
 
 * [906b492](https://github.com/hubbubhealth/hubbub-main/commit/906b492d034b5e182110954675c39727bd74152a) Merge pull request 3812 from hubbubhealth jv v2 challenges is unique name error [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
