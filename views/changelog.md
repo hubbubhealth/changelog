@@ -1,5 +1,12 @@
 # Changelog
 
+## release-3835..release-3812 
+
+* [906b492](https://github.com/hubbubhealth/hubbub-main/commit/906b492d034b5e182110954675c39727bd74152a) Merge pull request 3812 from hubbubhealth jv v2 challenges is unique name error [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [4b8581e](https://github.com/hubbubhealth/hubbub-main/commit/4b8581eb227533169c3e52e011a57c4b403a028c) Show error correct error message [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [b6a2997](https://github.com/hubbubhealth/hubbub-main/commit/b6a2997f396bfa425ead88bbc3359fa7e7931418) Fix typo on spec description [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [0b87538](https://github.com/hubbubhealth/hubbub-main/commit/0b87538135e7ddbc7f0e8685cfd093e179de34ce) Respond with error json message when no name param is sent [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3837..release-3835 
 
 * [f677e5f](https://github.com/hubbubhealth/hubbub-main/commit/f677e5f3ae299d2b2272c6367e9bdaca816618b1) Merge pull request 3835 from hubbubhealth gd 3832 [Gerad Davis](mailto:geraddavis@gmail.com)
