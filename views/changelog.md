@@ -1,5 +1,21 @@
 # Changelog
 
+## release-3749..release-3879 
+
+* [23bd662](https://github.com/hubbubhealth/hubbub-main/commit/23bd662bf202faeb57ea25c5305edd7d53ccd1a1) Merge pull request 3879 from hubbubhealth gd 3871 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [a6e44e5](https://github.com/hubbubhealth/hubbub-main/commit/a6e44e58d336a9f2fab4cc28f0ab9d16bd4c4fc9) restore User.subscribed_to with .pluck id [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [ffbc956](https://github.com/hubbubhealth/hubbub-main/commit/ffbc9564512f68bcaad0903863a75bdda3326a9d) add edge case spec [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [49940a4](https://github.com/hubbubhealth/hubbub-main/commit/49940a448f9b7332e8e67eac12403cd2db1ff748) Merge pull request 3881 from hubbubhealth mt fix coaching packages api [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [2c2387c](https://github.com/hubbubhealth/hubbub-main/commit/2c2387c9136494fc96b0be961ad3013f044fd596) Make non endpoint methods private [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [e1425cd](https://github.com/hubbubhealth/hubbub-main/commit/e1425cd88687c3c1240ca889221a2a9ba3fd6b69) fix syntax [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [8651ca4](https://github.com/hubbubhealth/hubbub-main/commit/8651ca4514f08799fc0387b42a2a8a226cd51763) remove l il indicator spec [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [9d6e80e](https://github.com/hubbubhealth/hubbub-main/commit/9d6e80e4d3d177a622489f1d407b42e8a9dac4cb) remove extra line [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [23b35df](https://github.com/hubbubhealth/hubbub-main/commit/23b35df313e55c7083a0640195fc3df6edb91349) fix broken User.subscribed_to scope no really [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [a6f5913](https://github.com/hubbubhealth/hubbub-main/commit/a6f5913322de6eb16da1e143c53d977b8c35e5ef) Refactor remove complexity [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [5a04d0c](https://github.com/hubbubhealth/hubbub-main/commit/5a04d0c1b36d4b01ec252286072bf76dbd5676ff) Fix behavior of available_to_user method in HAPI sponsors controller [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [86386be](https://github.com/hubbubhealth/hubbub-main/commit/86386be169c02ff629b4cb66ad4b09a8f10c1151) fix broken User subscribed_to scope [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [0aacf08](https://github.com/hubbubhealth/hubbub-main/commit/0aacf0842da3895bc41662c03ca68d2768bd5188) april contest wip 1 [Gerad Davis](mailto:geraddavis@gmail.com)
+
 ## release-3844..release-3749 
 
 * [7f0453b](https://github.com/hubbubhealth/hubbub-main/commit/7f0453b8b4a2a3c2277863aa97aa302d3a074a38) Merge pull request 3749 from hubbubhealth mo currency display [Michel Ocon](mailto:soun.xrt@gmail.com)
