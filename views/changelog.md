@@ -1,5 +1,28 @@
 # Changelog
 
+## release-3879..release-3874 
+
+* [f82e6b6](https://github.com/hubbubhealth/hubbub-main/commit/f82e6b656555f7ce617eabe20454b450eeb2e694) Merge pull request 3874 from hubbubhealth gd 3870 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [20c424e](https://github.com/hubbubhealth/hubbub-main/commit/20c424e2ddab4f8ef7d95333637d078c52b4645e) Conditionally use the fast_avatar method [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [490c42d](https://github.com/hubbubhealth/hubbub-main/commit/490c42dfc10f7f8f49f7c707ed8c0c98f36fa8f7) Merge pull request 3867 from hubbubhealth mw issue 3757 [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [2c72093](https://github.com/hubbubhealth/hubbub-main/commit/2c7209311bd5058497359bb66c48fd6cc468f2cd) remove gowalla references from codebase [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [bd11e40](https://github.com/hubbubhealth/hubbub-main/commit/bd11e40afb7d5212eeecf31774190e0a59d975eb) Merge pull request 3903 from hubbubhealth mw missing attr move count and friends [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [b1f4973](https://github.com/hubbubhealth/hubbub-main/commit/b1f49732cb769467bc5ca8f367b3c04393dfe39d) add the attrs its expecting to the pseudo object [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [25c4499](https://github.com/hubbubhealth/hubbub-main/commit/25c449960222cd505886f9deb5c1a2632bcb39c2) Merge pull request 3895 from hubbubhealth mw issue 3893 comprehensive ilike query times out [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [c7f66bb](https://github.com/hubbubhealth/hubbub-main/commit/c7f66bbeda1dd0b4e50a83da9de29fad0c1fa8c0) do not perform ilike query against empty string [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [7ca2c65](https://github.com/hubbubhealth/hubbub-main/commit/7ca2c651bbc5a905a71e7d729764b9d311ac679c) Merge pull request 3889 from hubbubhealth mw issue 3883 [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [375116a](https://github.com/hubbubhealth/hubbub-main/commit/375116ac683d4563780f8640946cf92a10dd321d) Copy edit to the april contest email [Gerad Davis](mailto:geraddavis@gmail.com)
+* [b3ef233](https://github.com/hubbubhealth/hubbub-main/commit/b3ef233b1653fe19b7ad7349a73f1d2d7681762a) Fix lite_user_data to return abs path for avatars [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [246e940](https://github.com/hubbubhealth/hubbub-main/commit/246e940995901a89b6c8f1e861ec267831837198) Add a little test [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [8432f2b](https://github.com/hubbubhealth/hubbub-main/commit/8432f2b887eb41628fbb85b3536e0c2b4668531d) Add class directive in path and prepend HOST_URL [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [0c298eb](https://github.com/hubbubhealth/hubbub-main/commit/0c298eb821696478dee7d0578b7494c0af4ed495) Set HOST HOST_URL during initialization [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [ea0090f](https://github.com/hubbubhealth/hubbub-main/commit/ea0090f4841f0d01f3d5ad0ec20a565b8495bd52) fix for broken preview avatar [Gerad Davis](mailto:geraddavis@gmail.com)
+* [4382f7f](https://github.com/hubbubhealth/hubbub-main/commit/4382f7f6c5156a794db88ecc16c5907c71df993f) Fix for broken images related to the Rails 4 upgrade. Resolves 3870 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [6440931](https://github.com/hubbubhealth/hubbub-main/commit/64409312fbd3024c355fb579b9193ed0900f125e) move that down one [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [5c059ff](https://github.com/hubbubhealth/hubbub-main/commit/5c059ffa8753efcfdd24bce9bfb8f31408e85619) add more descriptors to specs [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [42f8202](https://github.com/hubbubhealth/hubbub-main/commit/42f8202769ad003b8e400b791f742d9c425a12a2) refactor specs to be cleaner and faster which fixes failures [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [b1cd840](https://github.com/hubbubhealth/hubbub-main/commit/b1cd840821a19c46a0e05c78d0d76ba58d6b54f4) override devise failed login [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+
 ## release-3749..release-3879 
 
 * [23bd662](https://github.com/hubbubhealth/hubbub-main/commit/23bd662bf202faeb57ea25c5305edd7d53ccd1a1) Merge pull request 3879 from hubbubhealth gd 3871 [Gerad Davis](mailto:geraddavis@gmail.com)
