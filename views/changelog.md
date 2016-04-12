@@ -1,5 +1,41 @@
 # Changelog
 
+## release-3864..release-3704 
+
+* [007d692](https://github.com/hubbubhealth/hubbub-main/commit/007d692fa97747fd4f65e14beea8d7b47950c22b) Merge pull request 3704 from hubbubhealth jv model validation messages localization [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [7486987](https://github.com/hubbubhealth/hubbub-main/commit/74869870d56e6e42d145e696357fb94111b423cb) Fix broken spec [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [3513b9e](https://github.com/hubbubhealth/hubbub-main/commit/3513b9ebf24b613fc0ebf28b68d957955a6b6d85) Fix error message on User model validation specs [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [8447224](https://github.com/hubbubhealth/hubbub-main/commit/844722433f648e02f97ffd1cccf6d33e167ebf20) Update error message for User screen name [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [e1814b4](https://github.com/hubbubhealth/hubbub-main/commit/e1814b455fa6f1d5dbc95d3efb7d70a6049e3a21) Add localization error messages for Challenge and UserChallengeActivity models [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [878a5d2](https://github.com/hubbubhealth/hubbub-main/commit/878a5d2679ef7ef47d6bd38d891effba817f7008) Added missing validation specs for UserPushNotifyRule [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [718c4ac](https://github.com/hubbubhealth/hubbub-main/commit/718c4ac7e3c28d8cc5c9726ea4ad7adabea04ad6) Added missing validation specs for User model [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [0eb493f](https://github.com/hubbubhealth/hubbub-main/commit/0eb493f694ced8f894988cb43bbe4689d2e22a6f) Update validation specs for SponsorBadgeIncentive model [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [0e5f46c](https://github.com/hubbubhealth/hubbub-main/commit/0e5f46c91334663ad269bc104cad9b6e0b2d4422) Added missing validation spec for RolesUser model [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [c5a4035](https://github.com/hubbubhealth/hubbub-main/commit/c5a403546405952c55d280f208c4d6bf6f902089) Update sintax of PeriodicalSponsorStat validation specs [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [9abb872](https://github.com/hubbubhealth/hubbub-main/commit/9abb87224868427b2b9e7de7e4983fcef876b0e8) Add missing validation specs for Message model [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [d8fa98a](https://github.com/hubbubhealth/hubbub-main/commit/d8fa98a053410e0c6d4c2435a374caf359bb7b2f) Added missing validation specs for HubbubConsultant [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [6873170](https://github.com/hubbubhealth/hubbub-main/commit/6873170c1e631d8fb6e1f3017ebd11022a54576f) Add missing validation specs for HealthCoach model [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [e29d8e0](https://github.com/hubbubhealth/hubbub-main/commit/e29d8e07db98d6e56c84eacf2f37f6730ae7e16b) Add missing validation specs for Address model [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [fff2738](https://github.com/hubbubhealth/hubbub-main/commit/fff2738c33b57131299c620205b760c2a75887a2) Update syntax on Fisbump specs file [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [0bd2b1f](https://github.com/hubbubhealth/hubbub-main/commit/0bd2b1f0145c133dddcd0933233ca1c1a3efed4a) Merge localisation active_record error keys on en.yml [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [6c68df1](https://github.com/hubbubhealth/hubbub-main/commit/6c68df18e84c1eca186ce1763d99088175f59c62) Added missing validation specs for CompanyNewsItem [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [e7618c8](https://github.com/hubbubhealth/hubbub-main/commit/e7618c8b223d72a84de51b66730e0119f434bb9d) Update BiometricScreening validation specs [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [144fa62](https://github.com/hubbubhealth/hubbub-main/commit/144fa62de32c6755ded5e2948314985e7dd9b990) Fix broken validation integration spec on User profile [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [fea323d](https://github.com/hubbubhealth/hubbub-main/commit/fea323ddc6bddceec2b9e6408e4de295b190d8d6) Remove unnecessary message key on User validations [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [9b710bc](https://github.com/hubbubhealth/hubbub-main/commit/9b710bc2ebb64dcc6ca9193f4a9dc2621f99e68a) Localize UserPushNotifyRule validation error messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [ad8301b](https://github.com/hubbubhealth/hubbub-main/commit/ad8301b815e56562a57d21bf4b73b47eccd43038) Localize User validation error messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [1ef6e07](https://github.com/hubbubhealth/hubbub-main/commit/1ef6e07356d799f340f02dd6d9a3cc97c4ef7959) Localize SponsorBadgeIncentive validation error messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [41f47aa](https://github.com/hubbubhealth/hubbub-main/commit/41f47aa0672c77543522457d0ea67797e1a3f020) Localize RoleUser validation error messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [a5a88cf](https://github.com/hubbubhealth/hubbub-main/commit/a5a88cf3c3ceba690fdd45d61ce29780beacbb66) Localize PeriodicalSponsorStat validation error messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [007c85b](https://github.com/hubbubhealth/hubbub-main/commit/007c85bac68c3966021b8263684faaf13316f0aa) Localize Message validation error messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [74a72d8](https://github.com/hubbubhealth/hubbub-main/commit/74a72d8b312b435b8b44ba3db85ac0c4f212bca4) Localize HubbubConsultant validation error messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [89d2ccb](https://github.com/hubbubhealth/hubbub-main/commit/89d2ccb724f5fce69b6a20b02a50185e68ca92bf) Localize HealthCoach validation errors [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [08f01fe](https://github.com/hubbubhealth/hubbub-main/commit/08f01fec47f509c5312a6c696d685211d68784bd) Fix identation and remove trailing whitespaces [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [ca77cf2](https://github.com/hubbubhealth/hubbub-main/commit/ca77cf237d9e7f5b13a0a48ecc5ce74c873f394a) Localize Fistbump validations [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [1c67d2b](https://github.com/hubbubhealth/hubbub-main/commit/1c67d2b7e701e0f1c1c36ef1e89b25d4bbe141e2) Remove uneccessary validation message on ComapyNewsItem [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [870d23c](https://github.com/hubbubhealth/hubbub-main/commit/870d23c685fbf810dca9a82f78da4408844c174c) Translate BiometricScreening validations [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [5fc28ae](https://github.com/hubbubhealth/hubbub-main/commit/5fc28ae44f43e92366f3f9b7dd6fc2522364b226) Localize Address validations [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3874..release-3864 
 
 * [ff1411d](https://github.com/hubbubhealth/hubbub-main/commit/ff1411d22f836a263f11d738971dd9b3a775dab9) Merge pull request 3864 from hubbubhealth js 3852 enhance system promotion to subs [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
