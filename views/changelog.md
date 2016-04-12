@@ -1,5 +1,20 @@
 # Changelog
 
+## release-3874..release-3864 
+
+* [ff1411d](https://github.com/hubbubhealth/hubbub-main/commit/ff1411d22f836a263f11d738971dd9b3a775dab9) Merge pull request 3864 from hubbubhealth js 3852 enhance system promotion to subs [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [9d95feb](https://github.com/hubbubhealth/hubbub-main/commit/9d95feba497b673117b7f0fcc5ecb59c1b3e03c9) Merge pull request 3872 from hubbubhealth mw issue 3755 [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [c3cacff](https://github.com/hubbubhealth/hubbub-main/commit/c3cacff851ae3e8dd790eaca75f450d6842a52ea) remove moonshado and related sms functionality [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [5cd3702](https://github.com/hubbubhealth/hubbub-main/commit/5cd370278180e847f7641ccd2042ff345c8a894a) move logic from methods to variables [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [b86848d](https://github.com/hubbubhealth/hubbub-main/commit/b86848d71f4765272e7d2d53613643a63680af61) use I18n.t for notice description in specs [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [745db1c](https://github.com/hubbubhealth/hubbub-main/commit/745db1cbec1e69cc30c5b2476a42e791e3ad1c0c) update en.yml [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [52a90f2](https://github.com/hubbubhealth/hubbub-main/commit/52a90f283d6365476a97d9ddc9fa002437f1ccc1) modify code per code review [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [d34c3d4](https://github.com/hubbubhealth/hubbub-main/commit/d34c3d465d09c346b5f56eb471a12472d11ac523) add specs to cover new logic [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [a7c65ce](https://github.com/hubbubhealth/hubbub-main/commit/a7c65ce1bb1a08e63aea12452a6b93a4b6b13549) improve readablity of new logic in system_promotions_controller.rb [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [5cdba43](https://github.com/hubbubhealth/hubbub-main/commit/5cdba4315e60ef1739facbdc7c5eb97f03474a71) modify logic in system_promotions_controller for parent sub promotions [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [0ec66f5](https://github.com/hubbubhealth/hubbub-main/commit/0ec66f5624ed1c3fa73e6cf61960e30d5f465e72) add sponsor_association_selection to system_promotion [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [84d34fa](https://github.com/hubbubhealth/hubbub-main/commit/84d34fa7baaaf84bb14dbb42a34ec629f4933a84) update forms [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3879..release-3874 
 
 * [f82e6b6](https://github.com/hubbubhealth/hubbub-main/commit/f82e6b656555f7ce617eabe20454b450eeb2e694) Merge pull request 3874 from hubbubhealth gd 3870 [Gerad Davis](mailto:geraddavis@gmail.com)
