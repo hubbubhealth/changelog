@@ -1,5 +1,12 @@
 # Changelog
 
+## release-3935..release-3923 
+
+* [4f18471](https://github.com/hubbubhealth/hubbub-main/commit/4f18471e9dc605c2eef3d7ea4e440bd8908bb6e8) Merge pull request 3923 from hubbubhealth jv bugfix hubbub_consultant [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [0521dc5](https://github.com/hubbubhealth/hubbub-main/commit/0521dc53b126ed27271380de45720cbbad1853b7) Use save without bang [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [f26b20a](https://github.com/hubbubhealth/hubbub-main/commit/f26b20a7817a10e1fae62e40c4d0acdf08fd42d6) Localise flash messages on HubbubConsultantsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [379f3c2](https://github.com/hubbubhealth/hubbub-main/commit/379f3c22ccbe63904ae78d9b12e8f14e04f6d1c4) Use save method to perform validation on create and clean code [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3932..release-3935 
 
 * [bad93ca](https://github.com/hubbubhealth/hubbub-main/commit/bad93ca22f95d80c6b40dca51c15b08216238e8b) Merge pull request 3935 from hubbubhealth ld 3911 continued api missing avatar [Loren Delamarter](mailto:loren.delamarter@gmail.com)
