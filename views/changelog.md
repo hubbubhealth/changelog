@@ -1,5 +1,13 @@
 # Changelog
 
+## release-3932..release-3935 
+
+* [bad93ca](https://github.com/hubbubhealth/hubbub-main/commit/bad93ca22f95d80c6b40dca51c15b08216238e8b) Merge pull request 3935 from hubbubhealth ld 3911 continued api missing avatar [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [a019c42](https://github.com/hubbubhealth/hubbub-main/commit/a019c42279eab3e6f7f324d5371c88cfabba417b) Found a straggler with old hard coded default avatar [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [379a66a](https://github.com/hubbubhealth/hubbub-main/commit/379a66a45ad9598b9de71cdab186b649c8e55bed) Switch everywhere to use served public dir default avatar [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [00b0d05](https://github.com/hubbubhealth/hubbub-main/commit/00b0d054dc4af3056b8efe30395f1586ea3d3e37) Remove ActionController Base.helpers.image_url [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [6ec7964](https://github.com/hubbubhealth/hubbub-main/commit/6ec7964f38ad34736b9e432bbdacc5803f394228) Fix up friendships kludged up default user avatars [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
 ## release-3704..release-3932 
 
 * [d8fd312](https://github.com/hubbubhealth/hubbub-main/commit/d8fd3122549a3cd0ecf4ac1650d8f622812c5656) Merge pull request 3932 from hubbubhealth ld 3911 api missing avatar [Loren Delamarter](mailto:loren.delamarter@gmail.com)
