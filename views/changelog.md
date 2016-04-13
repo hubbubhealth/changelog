@@ -1,5 +1,33 @@
 # Changelog
 
+## release-3704..release-3932 
+
+* [d8fd312](https://github.com/hubbubhealth/hubbub-main/commit/d8fd3122549a3cd0ecf4ac1650d8f622812c5656) Merge pull request 3932 from hubbubhealth ld 3911 api missing avatar [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [3dc1caa](https://github.com/hubbubhealth/hubbub-main/commit/3dc1caa9db76dfe7b10727a852fa7bfef5c3b109) Merge pull request 3930 from hubbubhealth mo spec biometric screenings c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [8f393d0](https://github.com/hubbubhealth/hubbub-main/commit/8f393d0a599faad4614918f5222e4f35144cdaf4) Fix for invalid default images from API [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [c72ec9c](https://github.com/hubbubhealth/hubbub-main/commit/c72ec9c6430820ea6d76d38bb4692445a450630c) Fix broken test experiences controller spec caused by conversations controller spec [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [9fc0510](https://github.com/hubbubhealth/hubbub-main/commit/9fc0510e567de56301dc2f29098eeaee2be7810f) Spec test for biometric screenings controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [bff4e5f](https://github.com/hubbubhealth/hubbub-main/commit/bff4e5f6c0e467b7a00d11d7bad5b57453fed6d3) Merge pull request 3912 from hubbubhealth mo spec reward amazon codes c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [61a38f1](https://github.com/hubbubhealth/hubbub-main/commit/61a38f1ffb697c3a781c2dd0089de9b372e249da) Merge pull request 3922 from hubbubhealth mo spec emails userids maps c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [57c7560](https://github.com/hubbubhealth/hubbub-main/commit/57c75605643f53f7027130e6a2dde27abb7104dc) Merge pull request 3921 from hubbubhealth mo spec batch invitations controller [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [a648098](https://github.com/hubbubhealth/hubbub-main/commit/a6480983f971861552cfd924e982ca038988d22c) Merge pull request 3919 from hubbubhealth mo spec coaching accounts c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [b6418a1](https://github.com/hubbubhealth/hubbub-main/commit/b6418a16e56336c5f0f88fa85e5e73e9ae601bae) Merge pull request 3907 from hubbubhealth mo spec sessions packages c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [3e32aea](https://github.com/hubbubhealth/hubbub-main/commit/3e32aead47390fbc9c68b2e98130d4b332222571) Merge pull request 3905 from hubbubhealth mo spec categories controller [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [d218e3c](https://github.com/hubbubhealth/hubbub-main/commit/d218e3cf2176818e3b15acca3f72e4e199a9d555) Merge pull request 3904 from hubbubhealth mo spec challenge series c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [4304d31](https://github.com/hubbubhealth/hubbub-main/commit/4304d31cf660b813c4e75dca05642f10abc0e160) Merge pull request 3900 from hubbubhealth mo spec coaching transactions c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [65172c9](https://github.com/hubbubhealth/hubbub-main/commit/65172c9ec62ac4b4546b9ef09a4e4c613ac56724) Merge pull request 3898 from hubbubhealth mo spec coaching plans c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [bf5a5b1](https://github.com/hubbubhealth/hubbub-main/commit/bf5a5b13ab3dc34b3935eb1d5085deeccae0cde2) Merge pull request 3886 from hubbubhealth le deprecation warngings [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [7b92d1a](https://github.com/hubbubhealth/hubbub-main/commit/7b92d1a437f86a9570c9bbf9d324c697c9327aec) Spec test for emails userids maps controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [2302a4e](https://github.com/hubbubhealth/hubbub-main/commit/2302a4e9d3d7b161849cd3a005a94bc70fd4fe6a) Spec test for batch invitations controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [7ca5af3](https://github.com/hubbubhealth/hubbub-main/commit/7ca5af3d3a50cfed125741a11984f7ac2dd280df) Spec test for coaching accounts controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [33d3844](https://github.com/hubbubhealth/hubbub-main/commit/33d38443e88b2938dc03863ebdd3e131a8ad4810) Spec test for reward amazon codes controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [425fee6](https://github.com/hubbubhealth/hubbub-main/commit/425fee6210f7886f63e67ada82a760d205955d9a) Spec test for sessions packages controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [f5a52a0](https://github.com/hubbubhealth/hubbub-main/commit/f5a52a0616db5cf52ebdfb5e6f3747c3474f7c10) Spec test for categories controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [7c6f9d1](https://github.com/hubbubhealth/hubbub-main/commit/7c6f9d193ea2dda4fe3f387b640743309cd83d4a) Spec test for challenge series controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [76a2ae7](https://github.com/hubbubhealth/hubbub-main/commit/76a2ae737d092ba785a18768a0e57ac12a386a98) Spec test for coaching transactions controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [228339b](https://github.com/hubbubhealth/hubbub-main/commit/228339bc8de3fd6ae716beba15fbade93901ea7b) Spec test for coaching plans controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [113b744](https://github.com/hubbubhealth/hubbub-main/commit/113b744c63ab704d0ff274b2ae6c67e571097978) remove deprecation warnings on controllers [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-3864..release-3704 
 
 * [007d692](https://github.com/hubbubhealth/hubbub-main/commit/007d692fa97747fd4f65e14beea8d7b47950c22b) Merge pull request 3704 from hubbubhealth jv model validation messages localization [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
