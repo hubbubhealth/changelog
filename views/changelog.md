@@ -1,5 +1,17 @@
 # Changelog
 
+## release-3839..release-3842 
+
+* [ed0fdbd](https://github.com/hubbubhealth/hubbub-main/commit/ed0fdbdedb773affacaef53eb93ed2db1b48a39f) Merge pull request 3842 from hubbubhealth jv sponsor badge incentives flash messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [a65587b](https://github.com/hubbubhealth/hubbub-main/commit/a65587b34ba29ea84a32d8b1248f9850cb0a6239) Fix wrong indentation on en.yml file [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [45f15af](https://github.com/hubbubhealth/hubbub-main/commit/45f15afde7eabb59a6dfec582a0c2aed3b5bc640) Merge pull request 3887 from hubbubhealth mo spec hubbub consultants controller [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [a3334a5](https://github.com/hubbubhealth/hubbub-main/commit/a3334a59fadb72864a13092f4fa87c26dd2d516c) Merge pull request 3936 from hubbubhealth mo spec challenge series steps c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [3f05d11](https://github.com/hubbubhealth/hubbub-main/commit/3f05d11247a51605a066e4df6ea2a20ac66a1443) Merge pull request 3939 from hubbubhealth mo spec package notes c [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [9a65364](https://github.com/hubbubhealth/hubbub-main/commit/9a653648c1291fb8aefc26d2894b6fa2e76f474c) Localise flash messages on SponsorBadgeIncentives [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [2bcf772](https://github.com/hubbubhealth/hubbub-main/commit/2bcf7728206aa6aa2aa25605f8cddce52403a03c) Spec test for package notes controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [bfa9e12](https://github.com/hubbubhealth/hubbub-main/commit/bfa9e12340bd49d45c64973efa23cc83668e3248) Spec test for challenge series step controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [762f3c2](https://github.com/hubbubhealth/hubbub-main/commit/762f3c2aefe612212481746948fe7c09da98c42e) Spec test for hubbub consultants controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
 ## release-3923..release-3839 
 
 * [2e70278](https://github.com/hubbubhealth/hubbub-main/commit/2e702781f5deea58e82b07c67aa9709bb983809d) Merge pull request 3839 from hubbubhealth jv reward funds flash messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
