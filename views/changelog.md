@@ -1,5 +1,17 @@
 # Changelog
 
+## release-3842..release-3862 
+
+* [61a162f](https://github.com/hubbubhealth/hubbub-main/commit/61a162fd70b88bbdf41d07226a00389dfa6e5999) Merge pull request 3862 from hubbubhealth jv registrations controller messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [1fdb394](https://github.com/hubbubhealth/hubbub-main/commit/1fdb39481a9f1962d81c9640ae9da9ddf5fc87f9) Fix bad indentation on en.yml file translation keys [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [52c8328](https://github.com/hubbubhealth/hubbub-main/commit/52c8328dcec2135c1f2e79ce9fa543aba6f9f843) Merge pull request 3941 from hubbubhealth mw increase character limit for comments [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [b115e59](https://github.com/hubbubhealth/hubbub-main/commit/b115e59daab52a1fe002b20b0589696a87e44369) Use lazy lookup for localisation messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [80d5e20](https://github.com/hubbubhealth/hubbub-main/commit/80d5e20008b49db9a4724c4ebf33997fb24ca8dd) Fix missing message on file size validation [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [cb7991e](https://github.com/hubbubhealth/hubbub-main/commit/cb7991eb11a98a25268fc659f32077b0aad4577e) Localise messages on RegistrationsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [608577e](https://github.com/hubbubhealth/hubbub-main/commit/608577efe534904b7dc698b4caee0d3a6727eecb) update spec [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [e9cd6f6](https://github.com/hubbubhealth/hubbub-main/commit/e9cd6f6a4d259568cb6d8ea9d1ea8dde1aaab4fb) increase length for player comments [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [22786f1](https://github.com/hubbubhealth/hubbub-main/commit/22786f1a0fc6af19d5dda19fe46226bf4d3cce51) increase extended comment length [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+
 ## release-3839..release-3842 
 
 * [ed0fdbd](https://github.com/hubbubhealth/hubbub-main/commit/ed0fdbdedb773affacaef53eb93ed2db1b48a39f) Merge pull request 3842 from hubbubhealth jv sponsor badge incentives flash messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
