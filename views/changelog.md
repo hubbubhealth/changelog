@@ -1,5 +1,23 @@
 # Changelog
 
+## release-3862..release-3894 
+
+* [e8c3cbe](https://github.com/hubbubhealth/hubbub-main/commit/e8c3cbe3c94f27c9864252d8d216c8b095635a70) Merge pull request 3894 from hubbubhealth js 3861 fix coach edit series challenge [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [0eaca15](https://github.com/hubbubhealth/hubbub-main/commit/0eaca1564c2e56d43dc5eeba3551a63ed1250336) Merge pull request 3917 from hubbubhealth mt habits [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [0e3a531](https://github.com/hubbubhealth/hubbub-main/commit/0e3a5310cf3dc503dad24e0168fafe56c5fe6f74) Tweak module definitions to fix load order problem in Prod Staging envs [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [d2fc493](https://github.com/hubbubhealth/hubbub-main/commit/d2fc493f3fad804cc201057fe066f3b5bc3f1447) Remove mass assignment option for relationship ids [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [36e8d38](https://github.com/hubbubhealth/hubbub-main/commit/36e8d381c67f87327c964353366a7450ae952b25) Genericize index method [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [2be25d2](https://github.com/hubbubhealth/hubbub-main/commit/2be25d250fc87fea4c24448a74adda411924e4f1) Update schema.rb [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [76dee2d](https://github.com/hubbubhealth/hubbub-main/commit/76dee2d2a532f5f3000689f7481c90ab6b6b6d96) Add feature flag protecting Habits endpoints in production [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [494138a](https://github.com/hubbubhealth/hubbub-main/commit/494138afe95d7d3b708b42ee2750b61598bc8ff0) Move outcome seeds into rake task from migration [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [4f24cb4](https://github.com/hubbubhealth/hubbub-main/commit/4f24cb4ed95d776c0491f102747572a743c1754d) Tweak into RESTful architecture [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [5b55099](https://github.com/hubbubhealth/hubbub-main/commit/5b5509988f53f88ace2410d58157fd852f3e9907) A few answers questions API endpoints [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [7f3e140](https://github.com/hubbubhealth/hubbub-main/commit/7f3e14030bf23dae7eb2e2646105c8cb813f0e21) Add questions index to API [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [7c925ea](https://github.com/hubbubhealth/hubbub-main/commit/7c925eaedda1fd878d6c6b541edb5c8cbebdb887) Add seed questions [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [8b321d1](https://github.com/hubbubhealth/hubbub-main/commit/8b321d193679c4b1bba79ddfc68705a38d4d073c) Add question answer structure to habit [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [29fc0fb](https://github.com/hubbubhealth/hubbub-main/commit/29fc0fb5b1ecde1f8a997aded624451c71aa3af3) Convert Habits work to Rails 4 [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [14d0672](https://github.com/hubbubhealth/hubbub-main/commit/14d0672a0b2ee123770cecd570432d0b4f4a534d) fix broken coach edit challenge in series [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3842..release-3862 
 
 * [61a162f](https://github.com/hubbubhealth/hubbub-main/commit/61a162fd70b88bbdf41d07226a00389dfa6e5999) Merge pull request 3862 from hubbubhealth jv registrations controller messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
