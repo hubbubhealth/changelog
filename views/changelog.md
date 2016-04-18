@@ -1,5 +1,16 @@
 # Changelog
 
+## release-3899..release-3966 
+
+* [b6df22c](https://github.com/hubbubhealth/hubbub-main/commit/b6df22ce5ddfaa9ef1da679cc294bdff9855dd83) Merge pull request 3966 from hubbubhealth js fix csrf get request spec failures [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [d9fb441](https://github.com/hubbubhealth/hubbub-main/commit/d9fb441b56cf6417f19a6bf506f9fb9af65953b7) fix csrf protection spec failures [jeff stringer](mailto:jeff@hubbubhealth.com)
+
+## release-3894..release-3899 
+
+* [f7a9c16](https://github.com/hubbubhealth/hubbub-main/commit/f7a9c165f66a0d92adcc8def615aefd18dfec3c4) Merge pull request 3899 from hubbubhealth js 3673 add company logo for pub ch on user ch history [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [ae51b0e](https://github.com/hubbubhealth/hubbub-main/commit/ae51b0e7c9fcace521bb809fd6069cdc6fc4f3bb) always show sponsor logo if it s present [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [19ae3d2](https://github.com/hubbubhealth/hubbub-main/commit/19ae3d23101e9905d7df8d8434c4b2b1db21e2d8) first let s fix this horrible spacing to make file readable [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3862..release-3894 
 
 * [e8c3cbe](https://github.com/hubbubhealth/hubbub-main/commit/e8c3cbe3c94f27c9864252d8d216c8b095635a70) Merge pull request 3894 from hubbubhealth js 3861 fix coach edit series challenge [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
