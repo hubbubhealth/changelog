@@ -15962,7 +15962,7 @@
 * [c7fa50e](https://github.com/hubbubhealth/hubbub-main/commit/c7fa50ed6155d08e4d9b729dcf1e7576752e84da) Merge branch sprint of github.com healthengine projectv into sprint [Gerad Davis](mailto:geraddavis@gmail.com)
 * [414c7df](https://github.com/hubbubhealth/hubbub-main/commit/414c7dfb1c9a069c7ffe30bed3c9982f1bb1f133) june challenge assets [Gerad Davis](mailto:geraddavis@gmail.com)
 * [e43bd71](https://github.com/hubbubhealth/hubbub-main/commit/e43bd71f1405f178a404270d3a3d7fe46d3ab118) Squashed commit of the following [yalestar](mailto:yalestar@gmail.com)
-* [f335047](https://github.com/hubbubhealth/hubbub-main/commit/f33504799b8ceff6cd347114f02001d271294d69) more Onlife enhancementation [yalestar](mailto:yalestar@gmail.com)
+* [f3350479](https://github.com/hubbubhealth/hubbub-main/commit/f33504799b8ceff6cd347114f02001d271294d69) more Onlife enhancementation [yalestar](mailto:yalestar@gmail.com)
 * [7db6886](https://github.com/hubbubhealth/hubbub-main/commit/7db6886eae8526bef6a9ce382f182d24f876eb05) Initial GreenGoose card registration sign up flow for web and mobile [Nate Borrebach](mailto:nateb2@gmail.com)
 * [97ac6fb](https://github.com/hubbubhealth/hubbub-main/commit/97ac6fb9ff5464d58736839a51736325a87b27c4) added delay handling of updating proof_stream iamge with proof value [Ben Higgins](mailto:explosis@gmail.com)
 * [d254a87](https://github.com/hubbubhealth/hubbub-main/commit/d254a8735fbf9b18ce24366346a66f04c397f572) added helper method for copying prove it photos to resized version [Ben Higgins](mailto:explosis@gmail.com)
