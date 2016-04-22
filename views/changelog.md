@@ -1,5 +1,10 @@
 # Changelog
 
+## release-3983..release-3985 
+
+* [886fb3c](https://github.com/hubbubhealth/hubbub-main/commit/886fb3c82f3702b79800ffb7435ef77b4f1bbe79) Merge pull request 3985 from hubbubhealth js 3984 fix assert error spec syntax [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [3559189](https://github.com/hubbubhealth/hubbub-main/commit/35591890944f40a7bd51030ef615a1b294100821) replace assert_error syntax [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3952..release-3983 
 
 * [258a979](https://github.com/hubbubhealth/hubbub-main/commit/258a979dd8a574d3ce2c20ff873f245e811be551) Merge pull request 3983 from hubbubhealth js 3980 fix for rspec action_view failure [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
