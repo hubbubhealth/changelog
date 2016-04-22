@@ -1,5 +1,15 @@
 # Changelog
 
+## release-3952..release-3983 
+
+* [258a979](https://github.com/hubbubhealth/hubbub-main/commit/258a979dd8a574d3ce2c20ff873f245e811be551) Merge pull request 3983 from hubbubhealth js 3980 fix for rspec action_view failure [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [0ca7243](https://github.com/hubbubhealth/hubbub-main/commit/0ca72436ee7eb21a6a81c9c475e18e7c2ace9dc1) Merge pull request 3949 from hubbubhealth mt tweak chart urls for locale [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [4e9c9af](https://github.com/hubbubhealth/hubbub-main/commit/4e9c9af3fdec6fcf05cc1e54c18b0a4cf274d227) Merge pull request 4033 from hubbubhealth mo en es yaml base [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [8d4a56e](https://github.com/hubbubhealth/hubbub-main/commit/8d4a56eff72b4513d4b9eceb7f7371d9097c2717) Tweak chart URLs for compatibility with locale param [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [44e90b5](https://github.com/hubbubhealth/hubbub-main/commit/44e90b580f727c4f0d518e7a63f0506bb5564cc3) I18N base root sorted with VIM algorithm [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [7387b41](https://github.com/hubbubhealth/hubbub-main/commit/7387b418f3116eb288688dbbedf781f1af4fa949) I18n en es base files root keys sorted remove duplicates [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [642f727](https://github.com/hubbubhealth/hubbub-main/commit/642f7271fd924b4bb0415600236e785ee8633938) add rspec action_view monkey_patch to spec_helper to cache error [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3966..release-3952 
 
 * [917aec3](https://github.com/hubbubhealth/hubbub-main/commit/917aec3bd41a940e81fbdaee74a5e9da0e75e44f) Merge pull request 3952 from hubbubhealth ld 3951 not modern browsers [Loren Delamarter](mailto:loren.delamarter@gmail.com)
