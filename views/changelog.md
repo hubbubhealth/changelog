@@ -1,5 +1,14 @@
 # Changelog
 
+## release-3944..release-3908 
+
+* [1feb4fe](https://github.com/hubbubhealth/hubbub-main/commit/1feb4fe8e2c5557d04d472116c74dc503e1b8276) Merge pull request 3908 from hubbubhealth jv subscriptions flash messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [b17fdff](https://github.com/hubbubhealth/hubbub-main/commit/b17fdff48f93e156de1214a7cb20d791df239683) Remove destroy link on sponsors list page [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [8d244d1](https://github.com/hubbubhealth/hubbub-main/commit/8d244d1115d63fcc3ba19c8cf15940eb08432f3e) Merge pull request 4043 from hubbubhealth mt 4035 last_activity_is_float [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [ae06f43](https://github.com/hubbubhealth/hubbub-main/commit/ae06f43146a77b2f054479c783f3403f81025ce5) Switch from to_i to to_f for participants in API [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [77bdd9c](https://github.com/hubbubhealth/hubbub-main/commit/77bdd9c75f5251dd874bc578e9fd7aa5df544bbf) Use lazy lookup for localisation messages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [b369d95](https://github.com/hubbubhealth/hubbub-main/commit/b369d95a1a1baf6b60d8982cc4776f47342ba276) Localise flash messages on SubscriptionsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3985..release-3944 
 
 * [dc59f46](https://github.com/hubbubhealth/hubbub-main/commit/dc59f463f5848b0104038be72652addced5c460e) Merge pull request 3944 from hubbubhealth le momentjs [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
