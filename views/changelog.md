@@ -1,5 +1,31 @@
 # Changelog
 
+## release-3985..release-3944 
+
+* [dc59f46](https://github.com/hubbubhealth/hubbub-main/commit/dc59f463f5848b0104038be72652addced5c460e) Merge pull request 3944 from hubbubhealth le momentjs [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [53fb7f4](https://github.com/hubbubhealth/hubbub-main/commit/53fb7f417d7a30fb5b012b396101a6cfd517dc7d) Merge pull request 3888 from hubbubhealth jv badges controller flash messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [d1e1215](https://github.com/hubbubhealth/hubbub-main/commit/d1e12159a8eab1acda31815a54616cfd73c70875) Merge pull request 4000 from hubbubhealth mt aria callback hotfix [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [8700a5d](https://github.com/hubbubhealth/hubbub-main/commit/8700a5d44859a5b19f35cb4db4a607c1e6323edd) Add Aria callback specifier to API device connect workflow [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [658d119](https://github.com/hubbubhealth/hubbub-main/commit/658d119f7741de27b64e8e6022bec8d40a6825a4) Add env option to skip locale [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [e226f2a](https://github.com/hubbubhealth/hubbub-main/commit/e226f2a9db3d350fdb670a12177b1a8df3788cf3) Override default_url_options at fitbit controller level [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [ee98d87](https://github.com/hubbubhealth/hubbub-main/commit/ee98d87bda528bf063d61fa9888632a04419aa69) Remove query params from Fitbit callback URLs [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [f5a9724](https://github.com/hubbubhealth/hubbub-main/commit/f5a97248157ff19d37ba7b2bedc885d0b4251b57) Attempt to skip locale setting for fitbit auth callback [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [385e528](https://github.com/hubbubhealth/hubbub-main/commit/385e5287682329592330a0b2df9ca4c605fb76f5) Aria controller should use its own callback URL [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [d512d59](https://github.com/hubbubhealth/hubbub-main/commit/d512d59db93d41817685cf75d5bb4a362dfea7c2) include time tag on timestamp stylesheets [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [6d40643](https://github.com/hubbubhealth/hubbub-main/commit/6d406430e3c473ad07bdc899617491a3b98b579d) return your employees eky [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [6529001](https://github.com/hubbubhealth/hubbub-main/commit/6529001985d465cf154dd48cc61c79436720e5fe) remove mergeconflicts bad resolution on es.yml [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [245f459](https://github.com/hubbubhealth/hubbub-main/commit/245f45979638db21cae9e413245a1f40d67f1561) fix time margin for timestamps wearabnles clases [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [f6b3f86](https://github.com/hubbubhealth/hubbub-main/commit/f6b3f8675267cfb34d4c6e6e784da9379249d648) enable time in words for challenge controller [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [6007e55](https://github.com/hubbubhealth/hubbub-main/commit/6007e5554ce57dc80a16577a10c5e915d058e67b) fix missing i18n key [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [4f24010](https://github.com/hubbubhealth/hubbub-main/commit/4f24010b06303f294bbf42ed00bf0b7fd4b58558) remove unecesay parenthesis [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [1b8c7f1](https://github.com/hubbubhealth/hubbub-main/commit/1b8c7f1ee67dfc2d419034b2933ce837eaec13e5) replace method timestamp_span for time_in_words_tags [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [7a1821c](https://github.com/hubbubhealth/hubbub-main/commit/7a1821c212e49cc5f77451b8ac795ff7c2f2189c) spec helper for time_in_words_tag [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [2c448c2](https://github.com/hubbubhealth/hubbub-main/commit/2c448c2fa00a37d98ef6c81742c14a08d232225b) helper for time in words tag [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [0d85c7e](https://github.com/hubbubhealth/hubbub-main/commit/0d85c7e25ac78df650d13322a914cbbf82dbbbe9) stylesheet corrections for time tags [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [8e9e268](https://github.com/hubbubhealth/hubbub-main/commit/8e9e2687015878e1275c5dd9dc28023143b5e38b) include momentjs and javscript for time conversion [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [6475da3](https://github.com/hubbubhealth/hubbub-main/commit/6475da38553624b9871a435f62d60c21e4d54f1c) Add spanish keys [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [4da7a4c](https://github.com/hubbubhealth/hubbub-main/commit/4da7a4c0c9baf04d15de19c07b595fcb35e3be54) Localise flash messages for BadgesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3983..release-3985 
 
 * [886fb3c](https://github.com/hubbubhealth/hubbub-main/commit/886fb3c82f3702b79800ffb7435ef77b4f1bbe79) Merge pull request 3985 from hubbubhealth js 3984 fix assert error spec syntax [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
