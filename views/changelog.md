@@ -1,5 +1,11 @@
 # Changelog
 
+## release-3908..release-3957 
+
+* [f88df31](https://github.com/hubbubhealth/hubbub-main/commit/f88df31136eee8918e9a9954baf95295d0096675) Merge pull request 3957 from hubbubhealth js 3946 modify or remove activerecord taken scopes [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [8311392](https://github.com/hubbubhealth/hubbub-main/commit/831139291dd29bfc7cd87d4179d26f19a16df792) rename Conversation ransack to meta_search [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [f79cfed](https://github.com/hubbubhealth/hubbub-main/commit/f79cfed90be653f18faa975dbb18b506f65865e5) remove unused ChallengeStreamEntry joins [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3944..release-3908 
 
 * [1feb4fe](https://github.com/hubbubhealth/hubbub-main/commit/1feb4fe8e2c5557d04d472116c74dc503e1b8276) Merge pull request 3908 from hubbubhealth jv subscriptions flash messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
