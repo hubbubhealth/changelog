@@ -1,5 +1,30 @@
 # Changelog
 
+## release-4070..release-4044 
+
+* [1915a47](https://github.com/hubbubhealth/hubbub-main/commit/1915a47b62a0b93848a341d11cac1ab7694845f7) Merge pull request 4044 from hubbubhealth ld 4037 proof url [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [cd2b802](https://github.com/hubbubhealth/hubbub-main/commit/cd2b8025a0b2f81588005e3987afcc478449c7c6) Fix up the rspec [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [3270678](https://github.com/hubbubhealth/hubbub-main/commit/3270678fbc600f37f3b8f62ec290965e96d2e479) Add proof_url to the reusable challenge partial. Also add to my_challenges partial [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [9817ef4](https://github.com/hubbubhealth/hubbub-main/commit/9817ef4a950ccfcd87061d140e111c9affa3d96c) Test three endpoints for the proof_url attribute [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [c5cc382](https://github.com/hubbubhealth/hubbub-main/commit/c5cc382234c162e30b00627348c1648b1ed2cfde) Test getting the proof_url from the upload_link helper method [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
+## release-4048..release-4070 
+
+* [80026ff](https://github.com/hubbubhealth/hubbub-main/commit/80026ff8565082e1affef38d7a76dd75b4e95ba0) Merge pull request 4070 from hubbubhealth le 4064 [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [51a4a5d](https://github.com/hubbubhealth/hubbub-main/commit/51a4a5dc080e46a35e9893736d58ee4df6aca7e0) Merge pull request 3877 from hubbubhealth le review apps [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [54370d2](https://github.com/hubbubhealth/hubbub-main/commit/54370d28f9c6910504e1c565fa48dec1c7df957e) Merge pull request 4048 from hubbubhealth gd 3629 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [4381a43](https://github.com/hubbubhealth/hubbub-main/commit/4381a434f025ef73d12d47d943d92d7aecbfebc1) Added padding to replies in challenge stream in mobile web [Gerad Davis](mailto:geraddavis@gmail.com)
+* [a891348](https://github.com/hubbubhealth/hubbub-main/commit/a891348b896dff4049d3e94de3c9a19f84d724de) styles for 500 word count. Resolves 3629 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [237281f](https://github.com/hubbubhealth/hubbub-main/commit/237281f7eeb4ffb8dac667ed7f544bfad2371fd7) wip 1 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [bc708bc](https://github.com/hubbubhealth/hubbub-main/commit/bc708bcafa1ac9a371f8c2b05432e9f400cf4420) rescue from nil values in body widget pie js [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [83808d7](https://github.com/hubbubhealth/hubbub-main/commit/83808d7a0dad8e645e5040394f37041e02efbbaf) match app.json variables with config .env [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [7497338](https://github.com/hubbubhealth/hubbub-main/commit/7497338b2ac94bb5d67a8dc30e0e7599da36741e) heroku app.json file [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
+## release-3957..release-4048 
+
+* [5a1ae11](https://github.com/hubbubhealth/hubbub-main/commit/5a1ae11979af466e9c66a5e47fdd5d13790c99db) Merge pull request 4060 from hubbubhealth mo remove welcome unused routes [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [87dc0e2](https://github.com/hubbubhealth/hubbub-main/commit/87dc0e299a2db024a9312ae895a3d10d1cc949cb) Remove unexistent routes for the welcome controller [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
 ## release-3908..release-3957 
 
 * [f88df31](https://github.com/hubbubhealth/hubbub-main/commit/f88df31136eee8918e9a9954baf95295d0096675) Merge pull request 3957 from hubbubhealth js 3946 modify or remove activerecord taken scopes [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
