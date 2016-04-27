@@ -1,5 +1,30 @@
 # Changelog
 
+## release-3979..release-4042 
+
+* [7f6df4f](https://github.com/hubbubhealth/hubbub-main/commit/7f6df4fa122b22fb70bee2293cfc35490b98bf04) Merge pull request 4042 from hubbubhealth mt 3624 new relic custom params [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [4d6548d](https://github.com/hubbubhealth/hubbub-main/commit/4d6548d27fc1a9bb793668c7e783eecad01e25ed) Merge pull request 4085 from hubbubhealth mo 4084 coach comments [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [086f041](https://github.com/hubbubhealth/hubbub-main/commit/086f0416067496a1c0802575ef59167065ff84dc) Fix formatting of coach comments [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [9229541](https://github.com/hubbubhealth/hubbub-main/commit/9229541ad705a77cfd38ba0daef7b48b9d5350e7) Replace NewRelic Agent.add_custom_parameters with add_custom_attributes [Mark Tabler](mailto:mark@hubbubhealth.com)
+
+## release-4044..release-3979 
+
+* [bd1f0d9](https://github.com/hubbubhealth/hubbub-main/commit/bd1f0d989394b037ea6fc5788d95286875be01a5) Merge pull request 3979 from hubbubhealth jv fix locked wellness index data job [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [9330a12](https://github.com/hubbubhealth/hubbub-main/commit/9330a121da543141c426fbd1cfd366b08047403f) Merge pull request 4082 from hubbubhealth le custom headers devise [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [72ab892](https://github.com/hubbubhealth/hubbub-main/commit/72ab892d2438e049e6471e903ebe7aadbe5e284a) Replace raw SQL [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [34e0121](https://github.com/hubbubhealth/hubbub-main/commit/34e0121a796bf5df4ebea4e1b21909819ed136ac) move mailer helper to concern [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [b0639ba](https://github.com/hubbubhealth/hubbub-main/commit/b0639bab32b6b32e61beee5ef71a21a1ca5ed392) Merge pull request 4063 from hubbubhealth mo 4062 fix css href [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [bc8b4dc](https://github.com/hubbubhealth/hubbub-main/commit/bc8b4dc9c6ac7a4a5c25f41273a2b73f3ffcd35c) Change previous map to each [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [fc34797](https://github.com/hubbubhealth/hubbub-main/commit/fc347979bcd13745255edac6ded5f9ab8df1db2c) setup headers on devise 3.5 mailers [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [dd9e3f2](https://github.com/hubbubhealth/hubbub-main/commit/dd9e3f2abf4b923f36d1401c1f1317597f5872db) Specs for WellnessIndex platform_average [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [6ff9afc](https://github.com/hubbubhealth/hubbub-main/commit/6ff9afc0f724aa22c61f0464ba20ef497c8ebf82) Use redis to store averages batch calculation [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [e2c0fe1](https://github.com/hubbubhealth/hubbub-main/commit/e2c0fe1bf124ebb813e4fe3f5cea30bd0f78e074) Fix all static error pages should have an absolute url for the errors.css [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [5820d38](https://github.com/hubbubhealth/hubbub-main/commit/5820d381c72f0307454bfbf3186395144feb276c) Create missing factory and fix spec [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [a75cdae](https://github.com/hubbubhealth/hubbub-main/commit/a75cdae54d9bc0a68adf037d69611d6b6e23112a) wellness index average point querie in batches [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [af64788](https://github.com/hubbubhealth/hubbub-main/commit/af64788ff5e9a7d84704e0de0c4654cb46fcce9b) Add specs for WellnessIndex calculate_platform_averages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [4915a42](https://github.com/hubbubhealth/hubbub-main/commit/4915a42a306180a3047cd75fc1cf581c2b71de9a) Rename variable to stakeholders_ids [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [623e036](https://github.com/hubbubhealth/hubbub-main/commit/623e0361dde638610456ccfb46fe2150dab8fa76) Pluck active users ids [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-4070..release-4044 
 
 * [1915a47](https://github.com/hubbubhealth/hubbub-main/commit/1915a47b62a0b93848a341d11cac1ab7694845f7) Merge pull request 4044 from hubbubhealth ld 4037 proof url [Loren Delamarter](mailto:loren.delamarter@gmail.com)
@@ -364,17 +389,12 @@
 * [0ec66f5](https://github.com/hubbubhealth/hubbub-main/commit/0ec66f5624ed1c3fa73e6cf61960e30d5f465e72) add sponsor_association_selection to system_promotion [jeff stringer](mailto:jeff@hubbubhealth.com)
 * [84d34fa](https://github.com/hubbubhealth/hubbub-main/commit/84d34fa7baaaf84bb14dbb42a34ec629f4933a84) update forms [jeff stringer](mailto:jeff@hubbubhealth.com)
 
-## release-3879..release-3874 
+## release-3903..release-3874 
 
 * [f82e6b6](https://github.com/hubbubhealth/hubbub-main/commit/f82e6b656555f7ce617eabe20454b450eeb2e694) Merge pull request 3874 from hubbubhealth gd 3870 [Gerad Davis](mailto:geraddavis@gmail.com)
 * [20c424e](https://github.com/hubbubhealth/hubbub-main/commit/20c424e2ddab4f8ef7d95333637d078c52b4645e) Conditionally use the fast_avatar method [Loren Delamarter](mailto:loren.delamarter@gmail.com)
 * [490c42d](https://github.com/hubbubhealth/hubbub-main/commit/490c42dfc10f7f8f49f7c707ed8c0c98f36fa8f7) Merge pull request 3867 from hubbubhealth mw issue 3757 [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
 * [2c72093](https://github.com/hubbubhealth/hubbub-main/commit/2c7209311bd5058497359bb66c48fd6cc468f2cd) remove gowalla references from codebase [Matt Wire](mailto:matt.wire@hubbubhealth.com)
-* [bd11e40](https://github.com/hubbubhealth/hubbub-main/commit/bd11e40afb7d5212eeecf31774190e0a59d975eb) Merge pull request 3903 from hubbubhealth mw missing attr move count and friends [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
-* [b1f4973](https://github.com/hubbubhealth/hubbub-main/commit/b1f49732cb769467bc5ca8f367b3c04393dfe39d) add the attrs its expecting to the pseudo object [Matt Wire](mailto:matt.wire@hubbubhealth.com)
-* [25c4499](https://github.com/hubbubhealth/hubbub-main/commit/25c449960222cd505886f9deb5c1a2632bcb39c2) Merge pull request 3895 from hubbubhealth mw issue 3893 comprehensive ilike query times out [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
-* [c7f66bb](https://github.com/hubbubhealth/hubbub-main/commit/c7f66bbeda1dd0b4e50a83da9de29fad0c1fa8c0) do not perform ilike query against empty string [Matt Wire](mailto:matt.wire@hubbubhealth.com)
-* [7ca2c65](https://github.com/hubbubhealth/hubbub-main/commit/7ca2c651bbc5a905a71e7d729764b9d311ac679c) Merge pull request 3889 from hubbubhealth mw issue 3883 [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
 * [375116a](https://github.com/hubbubhealth/hubbub-main/commit/375116ac683d4563780f8640946cf92a10dd321d) Copy edit to the april contest email [Gerad Davis](mailto:geraddavis@gmail.com)
 * [b3ef233](https://github.com/hubbubhealth/hubbub-main/commit/b3ef233b1653fe19b7ad7349a73f1d2d7681762a) Fix lite_user_data to return abs path for avatars [Loren Delamarter](mailto:loren.delamarter@gmail.com)
 * [246e940](https://github.com/hubbubhealth/hubbub-main/commit/246e940995901a89b6c8f1e861ec267831837198) Add a little test [Loren Delamarter](mailto:loren.delamarter@gmail.com)
@@ -382,6 +402,14 @@
 * [0c298eb](https://github.com/hubbubhealth/hubbub-main/commit/0c298eb821696478dee7d0578b7494c0af4ed495) Set HOST HOST_URL during initialization [Loren Delamarter](mailto:loren.delamarter@gmail.com)
 * [ea0090f](https://github.com/hubbubhealth/hubbub-main/commit/ea0090f4841f0d01f3d5ad0ec20a565b8495bd52) fix for broken preview avatar [Gerad Davis](mailto:geraddavis@gmail.com)
 * [4382f7f](https://github.com/hubbubhealth/hubbub-main/commit/4382f7f6c5156a794db88ecc16c5907c71df993f) Fix for broken images related to the Rails 4 upgrade. Resolves 3870 [Gerad Davis](mailto:geraddavis@gmail.com)
+
+## release-3879..release-3903 
+
+* [bd11e40](https://github.com/hubbubhealth/hubbub-main/commit/bd11e40afb7d5212eeecf31774190e0a59d975eb) Merge pull request 3903 from hubbubhealth mw missing attr move count and friends [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [b1f4973](https://github.com/hubbubhealth/hubbub-main/commit/b1f49732cb769467bc5ca8f367b3c04393dfe39d) add the attrs its expecting to the pseudo object [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [25c4499](https://github.com/hubbubhealth/hubbub-main/commit/25c449960222cd505886f9deb5c1a2632bcb39c2) Merge pull request 3895 from hubbubhealth mw issue 3893 comprehensive ilike query times out [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [c7f66bb](https://github.com/hubbubhealth/hubbub-main/commit/c7f66bbeda1dd0b4e50a83da9de29fad0c1fa8c0) do not perform ilike query against empty string [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [7ca2c65](https://github.com/hubbubhealth/hubbub-main/commit/7ca2c651bbc5a905a71e7d729764b9d311ac679c) Merge pull request 3889 from hubbubhealth mw issue 3883 [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
 * [6440931](https://github.com/hubbubhealth/hubbub-main/commit/64409312fbd3024c355fb579b9193ed0900f125e) move that down one [Matt Wire](mailto:matt.wire@hubbubhealth.com)
 * [5c059ff](https://github.com/hubbubhealth/hubbub-main/commit/5c059ffa8753efcfdd24bce9bfb8f31408e85619) add more descriptors to specs [Matt Wire](mailto:matt.wire@hubbubhealth.com)
 * [42f8202](https://github.com/hubbubhealth/hubbub-main/commit/42f8202769ad003b8e400b791f742d9c425a12a2) refactor specs to be cleaner and faster which fixes failures [Matt Wire](mailto:matt.wire@hubbubhealth.com)
