@@ -7,23 +7,26 @@
 * [086f041](https://github.com/hubbubhealth/hubbub-main/commit/086f0416067496a1c0802575ef59167065ff84dc) Fix formatting of coach comments [Michel Ocon](mailto:michel.ocon@unosquare.com)
 * [9229541](https://github.com/hubbubhealth/hubbub-main/commit/9229541ad705a77cfd38ba0daef7b48b9d5350e7) Replace NewRelic Agent.add_custom_parameters with add_custom_attributes [Mark Tabler](mailto:mark@hubbubhealth.com)
 
-## release-4044..release-3979 
+## release-4031..release-3979 
 
 * [bd1f0d9](https://github.com/hubbubhealth/hubbub-main/commit/bd1f0d989394b037ea6fc5788d95286875be01a5) Merge pull request 3979 from hubbubhealth jv fix locked wellness index data job [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
-* [9330a12](https://github.com/hubbubhealth/hubbub-main/commit/9330a121da543141c426fbd1cfd366b08047403f) Merge pull request 4082 from hubbubhealth le custom headers devise [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
 * [72ab892](https://github.com/hubbubhealth/hubbub-main/commit/72ab892d2438e049e6471e903ebe7aadbe5e284a) Replace raw SQL [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
-* [34e0121](https://github.com/hubbubhealth/hubbub-main/commit/34e0121a796bf5df4ebea4e1b21909819ed136ac) move mailer helper to concern [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
-* [b0639ba](https://github.com/hubbubhealth/hubbub-main/commit/b0639bab32b6b32e61beee5ef71a21a1ca5ed392) Merge pull request 4063 from hubbubhealth mo 4062 fix css href [Michel Ocon](mailto:soun.xrt@gmail.com)
 * [bc8b4dc](https://github.com/hubbubhealth/hubbub-main/commit/bc8b4dc9c6ac7a4a5c25f41273a2b73f3ffcd35c) Change previous map to each [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
-* [fc34797](https://github.com/hubbubhealth/hubbub-main/commit/fc347979bcd13745255edac6ded5f9ab8df1db2c) setup headers on devise 3.5 mailers [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
 * [dd9e3f2](https://github.com/hubbubhealth/hubbub-main/commit/dd9e3f2abf4b923f36d1401c1f1317597f5872db) Specs for WellnessIndex platform_average [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
 * [6ff9afc](https://github.com/hubbubhealth/hubbub-main/commit/6ff9afc0f724aa22c61f0464ba20ef497c8ebf82) Use redis to store averages batch calculation [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
-* [e2c0fe1](https://github.com/hubbubhealth/hubbub-main/commit/e2c0fe1bf124ebb813e4fe3f5cea30bd0f78e074) Fix all static error pages should have an absolute url for the errors.css [Michel Ocon](mailto:michel.ocon@unosquare.com)
 * [5820d38](https://github.com/hubbubhealth/hubbub-main/commit/5820d381c72f0307454bfbf3186395144feb276c) Create missing factory and fix spec [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
 * [a75cdae](https://github.com/hubbubhealth/hubbub-main/commit/a75cdae54d9bc0a68adf037d69611d6b6e23112a) wellness index average point querie in batches [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
 * [af64788](https://github.com/hubbubhealth/hubbub-main/commit/af64788ff5e9a7d84704e0de0c4654cb46fcce9b) Add specs for WellnessIndex calculate_platform_averages [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
 * [4915a42](https://github.com/hubbubhealth/hubbub-main/commit/4915a42a306180a3047cd75fc1cf581c2b71de9a) Rename variable to stakeholders_ids [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
 * [623e036](https://github.com/hubbubhealth/hubbub-main/commit/623e0361dde638610456ccfb46fe2150dab8fa76) Pluck active users ids [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
+## release-4044..release-4031 
+
+* [9330a12](https://github.com/hubbubhealth/hubbub-main/commit/9330a121da543141c426fbd1cfd366b08047403f) Merge pull request 4082 from hubbubhealth le custom headers devise [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [34e0121](https://github.com/hubbubhealth/hubbub-main/commit/34e0121a796bf5df4ebea4e1b21909819ed136ac) move mailer helper to concern [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [b0639ba](https://github.com/hubbubhealth/hubbub-main/commit/b0639bab32b6b32e61beee5ef71a21a1ca5ed392) Merge pull request 4063 from hubbubhealth mo 4062 fix css href [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [fc34797](https://github.com/hubbubhealth/hubbub-main/commit/fc347979bcd13745255edac6ded5f9ab8df1db2c) setup headers on devise 3.5 mailers [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [e2c0fe1](https://github.com/hubbubhealth/hubbub-main/commit/e2c0fe1bf124ebb813e4fe3f5cea30bd0f78e074) Fix all static error pages should have an absolute url for the errors.css [Michel Ocon](mailto:michel.ocon@unosquare.com)
 
 ## release-4070..release-4044 
 
