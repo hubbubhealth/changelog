@@ -1,5 +1,24 @@
 # Changelog
 
+## release-4042..release-3924 
+
+* [ae3b122](https://github.com/hubbubhealth/hubbub-main/commit/ae3b1226fada94de6c146c0b9a6915ca95b634a3) Merge pull request 3924 from hubbubhealth jv localise flash messages for controllers [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [60cbd48](https://github.com/hubbubhealth/hubbub-main/commit/60cbd48fa426b0c29b14598ba2c2be76d35d8fbb) Merge pull request 4023 from hubbubhealth le language migrations [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [d5e5309](https://github.com/hubbubhealth/hubbub-main/commit/d5e5309ad33b42cab1498e425f5e5bfa0ed1198c) Merge pull request 4059 from hubbubhealth mw 4041 add tags to challenge search [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [4faac8b](https://github.com/hubbubhealth/hubbub-main/commit/4faac8bac2e3834f0d8e55874adc93c2c3f52b9e) change syntax for sql injection [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [6249c89](https://github.com/hubbubhealth/hubbub-main/commit/6249c89bf74e4cc515c874e8f673874606124208) Added spanish keys to en.yml [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [30d14cf](https://github.com/hubbubhealth/hubbub-main/commit/30d14cf9e44c4f8f546872086d81dfdb5aca163f) Localise flash messages for CoachingTransactionsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [ffdf0d1](https://github.com/hubbubhealth/hubbub-main/commit/ffdf0d14277ea36abf375ba6a9200b195ebb0bef) Localise flash messages for CoachingPlansController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [352f02b](https://github.com/hubbubhealth/hubbub-main/commit/352f02b3ce549e3246c505ab66d88dc447fbd452) Localise flash messages on CoachingAccountsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [86819c3](https://github.com/hubbubhealth/hubbub-main/commit/86819c3663f3fe241faadd473dfa207662a5dab8) Localise flash messages on ChallengeSeriesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [9e6855e](https://github.com/hubbubhealth/hubbub-main/commit/9e6855e96517fccfa23f0106adef3188cec363c7) Localise flash messages on BiometricScreeningsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [9e52dba](https://github.com/hubbubhealth/hubbub-main/commit/9e52dba47e6b4e31a3201bedf6bfb84565b63ab5) Merge pull request 4031 from hubbubhealth gd 4021 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [f74d948](https://github.com/hubbubhealth/hubbub-main/commit/f74d948eb034ecf9053871e45c77b420c1533e27) Removed Highcharts watermark from User Body Widget pie charts [Gerad Davis](mailto:geraddavis@gmail.com)
+* [dd92771](https://github.com/hubbubhealth/hubbub-main/commit/dd92771ec4fcf291c7d4bbfde48f3081547abc61) add tag search to API and clean up logic [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [8e76ffd](https://github.com/hubbubhealth/hubbub-main/commit/8e76ffd98f731ba93e45f279219e44a95efb82c8) include tags to challenge search [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [615e47c](https://github.com/hubbubhealth/hubbub-main/commit/615e47cbdf711590796d28bf1f5b8e6af0cfde62) Moved app over to Highcharts gem and adjusted chart styles. Resolves 4021 [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [4958443](https://github.com/hubbubhealth/hubbub-main/commit/4958443a2a7c77e849a6bbb9f4faca531d24561e) include language column on user and sponsor [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-3979..release-4042 
 
 * [7f6df4f](https://github.com/hubbubhealth/hubbub-main/commit/7f6df4fa122b22fb70bee2293cfc35490b98bf04) Merge pull request 4042 from hubbubhealth mt 3624 new relic custom params [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
