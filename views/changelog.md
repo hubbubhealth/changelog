@@ -1,5 +1,18 @@
 # Changelog
 
+## release-3924..release-4078 
+
+* [995bd95](https://github.com/hubbubhealth/hubbub-main/commit/995bd95a9474e34733e06763c4121ffe1ae8db04) Merge pull request 3978 from hubbubhealth mt habits [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [2a7721c](https://github.com/hubbubhealth/hubbub-main/commit/2a7721c17e9f37996b91f01e34a7b9e5eacfc621) Remove internationalization spec I18n is going a different direction [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [88f2ff3](https://github.com/hubbubhealth/hubbub-main/commit/88f2ff327f19d9f8dfe67fe4e82bb9a156fe8c7a) Return results with root JSON key [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [b52b8f8](https://github.com/hubbubhealth/hubbub-main/commit/b52b8f8847dbe0a62d0ddb5d68f6fe4c61e8b00c) Add translation specs [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [0382c9c](https://github.com/hubbubhealth/hubbub-main/commit/0382c9cab572207c6023c3a2f5bca7f03209bfb7) Enable locale in Habits API [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [15f37a1](https://github.com/hubbubhealth/hubbub-main/commit/15f37a162e74ff7c5e245d5fff76ff40d3355edb) Add id to serialized JSON fields for Habit objects [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [6faae2a](https://github.com/hubbubhealth/hubbub-main/commit/6faae2ae0915f8e8558b86a689f316204ac08564) Generalize AnswersController add to specs [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [270d5dc](https://github.com/hubbubhealth/hubbub-main/commit/270d5dc8ef92119cc70019a1854990bd87f50c12) Add docs to shared habits examples [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [96a7e08](https://github.com/hubbubhealth/hubbub-main/commit/96a7e0826cdf95cf80942b45ce8f1b8f426927d0) Shared specs for Habit controllers [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [6690dbb](https://github.com/hubbubhealth/hubbub-main/commit/6690dbb0e75f2071df5540bfd7bf79687a368737) Shared specs for Habit controllers [Mark Tabler](mailto:mark@hubbubhealth.com)
+
 ## release-4042..release-3924 
 
 * [ae3b122](https://github.com/hubbubhealth/hubbub-main/commit/ae3b1226fada94de6c146c0b9a6915ca95b634a3) Merge pull request 3924 from hubbubhealth jv localise flash messages for controllers [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
