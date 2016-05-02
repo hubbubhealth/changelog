@@ -1,5 +1,28 @@
 # Changelog
 
+## release-3947..release-3950 
+
+* [1a7dd6e](https://github.com/hubbubhealth/hubbub-main/commit/1a7dd6e20a0569be860ecee92168ef23db70fc43) Merge pull request 3950 from hubbubhealth mo 3928 localization company [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [07d5102](https://github.com/hubbubhealth/hubbub-main/commit/07d510227cbe1899a6117c653c03d5d4a3e23860) Localization Company fix missing accent spanish [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [deef2e8](https://github.com/hubbubhealth/hubbub-main/commit/deef2e8041c55b45d785d9466eff34e1c6681353) Localization of Company Page [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4078..release-3947 
+
+* [8dfc933](https://github.com/hubbubhealth/hubbub-main/commit/8dfc933db3babf5062feb02a653f617c4f9b8ceb) Merge pull request 3947 from hubbubhealth ac coaches localization [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [888a905](https://github.com/hubbubhealth/hubbub-main/commit/888a9056e501cfc79dca7c328c25ae3867a21725) Fixing pr comments [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [cc016c6](https://github.com/hubbubhealth/hubbub-main/commit/cc016c6d684fb723e75b974bfb09ce63cc2b9a20) Fixes rebase conficts [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [9f241bb](https://github.com/hubbubhealth/hubbub-main/commit/9f241bbcbe2d70573ca01c62d485be672ce90f1b) Fixes typo [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [c7feafd](https://github.com/hubbubhealth/hubbub-main/commit/c7feafd729599c2c3380f69a17bfd79208c9be9f) Moves health coach keys to match the master changes [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [fc222b4](https://github.com/hubbubhealth/hubbub-main/commit/fc222b4520081f04102823285675c9d7b0a6b63d) Fixes spaces and accents [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [943f73e](https://github.com/hubbubhealth/hubbub-main/commit/943f73e73859c1608947c52a35a5673b6856a4e9) Adds rest of spanish keys in coaches [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [c6174f5](https://github.com/hubbubhealth/hubbub-main/commit/c6174f5dbb6e3d3cd857b81961454d0620af141b) Adds spanish keys for index v2 [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [450eb23](https://github.com/hubbubhealth/hubbub-main/commit/450eb237e9d11bd757c93be1098d211c4752d8bb) First approach on spanish keys for coaches localization [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [4b406af](https://github.com/hubbubhealth/hubbub-main/commit/4b406af31b45f51cac9586ceb51553b60e50af8f) Adds keys for show coach page [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [437d2d6](https://github.com/hubbubhealth/hubbub-main/commit/437d2d64271be199c26aabd6d975ec1b6d7d12b1) Adds missing key in index v3 [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [7da4d3e](https://github.com/hubbubhealth/hubbub-main/commit/7da4d3ee15f477f57661cc8655310b09bc5cd756) Adds keys for message partial [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [64ad5d8](https://github.com/hubbubhealth/hubbub-main/commit/64ad5d882fe03bbdfcf71dfc83dea614058c6568) Adds keys for index v2 [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [8cd9972](https://github.com/hubbubhealth/hubbub-main/commit/8cd9972a5e2a1f9c367f5d19a7a00114983d05b9) Adds keys for indexv3 [Alejandra](mailto:alejandra.cernas@unosquare.com)
+
 ## release-3924..release-4078 
 
 * [995bd95](https://github.com/hubbubhealth/hubbub-main/commit/995bd95a9474e34733e06763c4121ffe1ae8db04) Merge pull request 3978 from hubbubhealth mt habits [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
