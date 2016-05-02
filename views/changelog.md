@@ -16415,7 +16415,7 @@
 * [c05d21b](https://github.com/hubbubhealth/hubbub-main/commit/c05d21b8ddd68912c3ce01a670673aacff0a0d0d) Changed Hubbub Health to Hubbub created shortcut for m dot [Gerad Davis](mailto:geraddavis@gmail.com)
 * [f05347b](https://github.com/hubbubhealth/hubbub-main/commit/f05347b1347a95dfe2a7818c6983906bf3abe357) removed unused files no QA intervention needed [yalestar](mailto:yalestar@gmail.com)
 * [993a940](https://github.com/hubbubhealth/hubbub-main/commit/993a94086b288bf40fc792b400cc0fd17870e874) locale issue with number_to_human [Ben Higgins](mailto:explosis@gmail.com)
-* [cba95af](https://github.com/hubbubhealth/hubbub-main/commit/cba95afbfc06060f38e791da66a326a6bcb4f13d) fix for format_large_number in the helper [Ben Higgins](mailto:explosis@gmail.com)
+* [cba95afb](https://github.com/hubbubhealth/hubbub-main/commit/cba95afbfc06060f38e791da66a326a6bcb4f13d) fix for format_large_number in the helper [Ben Higgins](mailto:explosis@gmail.com)
 * [e7d93ff](https://github.com/hubbubhealth/hubbub-main/commit/e7d93ffd28df4f854cb9f100582aa14aa5e87617) more debugging for qa api problems [Ben Higgins](mailto:explosis@gmail.com)
 * [a7ee6f2](https://github.com/hubbubhealth/hubbub-main/commit/a7ee6f217e5262c56c3f2a95f7797f7e48d1f409) Merge branch sprint of github.com healthengine projectv into sprint [Ben Higgins](mailto:explosis@gmail.com)
 * [585c6a7](https://github.com/hubbubhealth/hubbub-main/commit/585c6a7b9397d4b8a1fd5e35a08789f6f7848a7a) fix for nil player stats values [Ben Higgins](mailto:explosis@gmail.com)
