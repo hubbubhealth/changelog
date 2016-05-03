@@ -1,5 +1,11 @@
 # Changelog
 
+## release-4104..release-3961 
+
+* [c086b2a](https://github.com/hubbubhealth/hubbub-main/commit/c086b2aa61d338fd631f9d01dadfedecb076351c) Merge pull request 3961 from hubbubhealth js 3958 fix state machine errors [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [96511a3](https://github.com/hubbubhealth/hubbub-main/commit/96511a3f815e109e61615b448d3fe672ad0a37e1) add monkey patch to make around_validation public [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [44374e9](https://github.com/hubbubhealth/hubbub-main/commit/44374e94d1d6d974927c1bbe3a3406f2e11a68a5) update state_machine to 1.2.0 [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3938..release-4104 
 
 * [8066e72](https://github.com/hubbubhealth/hubbub-main/commit/8066e726871bbe6468967faf43c9dc9d2fc16db8) Merge pull request 4104 from hubbubhealth le momenjs mobile [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
