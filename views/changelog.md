@@ -1,5 +1,12 @@
 # Changelog
 
+## release-3938..release-4104 
+
+* [8066e72](https://github.com/hubbubhealth/hubbub-main/commit/8066e726871bbe6468967faf43c9dc9d2fc16db8) Merge pull request 4104 from hubbubhealth le momenjs mobile [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [5f6fa9f](https://github.com/hubbubhealth/hubbub-main/commit/5f6fa9f4033a083080ad97acea528d56f0141ecb) Merge pull request 3816 from hubbubhealth le moves [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [d55ede3](https://github.com/hubbubhealth/hubbub-main/commit/d55ede300696ab9e36253481cfb13f66609e90a9) enable moves app callback via web or app [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [41ff1a0](https://github.com/hubbubhealth/hubbub-main/commit/41ff1a0546480eae348e4b38e8cf6e00ec80f869) include momentjs in mobile js manifest [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-3982..release-3938 
 
 * [2d236ae](https://github.com/hubbubhealth/hubbub-main/commit/2d236aef846668fe4cd4e76bfad4e94bc5112ee8) Merge pull request 3938 from hubbubhealth js 3906 automate producers quarterly report [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
