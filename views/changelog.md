@@ -1,5 +1,34 @@
 # Changelog
 
+## release-3982..release-3938 
+
+* [2d236ae](https://github.com/hubbubhealth/hubbub-main/commit/2d236aef846668fe4cd4e76bfad4e94bc5112ee8) Merge pull request 3938 from hubbubhealth js 3906 automate producers quarterly report [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [ffff8e5](https://github.com/hubbubhealth/hubbub-main/commit/ffff8e5bd4c8c0f2fb2df5cd04ec15fcf5f32796) remove duplicate lines in config locales en.yml [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [7f67446](https://github.com/hubbubhealth/hubbub-main/commit/7f6744600d49ead7e4d4f59a8bec677d0825dda2) update specs [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [63aaf2d](https://github.com/hubbubhealth/hubbub-main/commit/63aaf2dbca0260d7052e399f427525434c0ec4c4) convert sponsor_ids to integers [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [e911c67](https://github.com/hubbubhealth/hubbub-main/commit/e911c676863dcc059a5220d57d939e816781e798) update specs code to not show all associated subs of parent [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [07c4e96](https://github.com/hubbubhealth/hubbub-main/commit/07c4e967a995bf9aac1d536afed28a0e460a143a) add env variable for producers dairy ids [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [952d5f6](https://github.com/hubbubhealth/hubbub-main/commit/952d5f6a74a6fa8f4bd5fd23c68bbb6495dd1420) change qa sponsor_ids to 102 110 [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [f7f686b](https://github.com/hubbubhealth/hubbub-main/commit/f7f686b88d7c9a00192a75f41d42b74801ad8c06) change qa sponsor ids [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [2f208e8](https://github.com/hubbubhealth/hubbub-main/commit/2f208e8f9d84b509882369fc083b2eaa8569e392) move sponsor_id log to .csv action and create private method [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [f95e239](https://github.com/hubbubhealth/hubbub-main/commit/f95e239e0939a0c793b63856442063de3629f4ed) remove extraneous error handling and hardcode sponsor_ids [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [a3bac6a](https://github.com/hubbubhealth/hubbub-main/commit/a3bac6a131b169d0dff1731db0bada52d729847a) modify error message [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [fc1cc9f](https://github.com/hubbubhealth/hubbub-main/commit/fc1cc9fc1d232ef5bf5ff9703d3dac2d5428bc6d) fix wrong key reference [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [bd15afd](https://github.com/hubbubhealth/hubbub-main/commit/bd15afd7050ce8dbd575cb18ad615d0ed8cb3a3d) add a datepicker [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [0a29253](https://github.com/hubbubhealth/hubbub-main/commit/0a292532e4dfacc5cc70ac66cc214dd74f70df1e) clean up after code review [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [1ceaa8e](https://github.com/hubbubhealth/hubbub-main/commit/1ceaa8e180cee34e069c01545c00eb410720f880) remove bang [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [23a7fe4](https://github.com/hubbubhealth/hubbub-main/commit/23a7fe4407b78b307429d9827ae5a035d9e219cc) modify logic to obtain players [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [b0cef78](https://github.com/hubbubhealth/hubbub-main/commit/b0cef788a9f3ea00fce0f22b26254ba6a7f0f3d9) move platform user to outer scope [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [cfc608d](https://github.com/hubbubhealth/hubbub-main/commit/cfc608d0e4f1b82bd6bd2e427251aaf37754e173) add hardcoded user_id ref for platform admin [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [9e44afd](https://github.com/hubbubhealth/hubbub-main/commit/9e44afdd74cbcd8cc2b2d03eb81193c20ecf16e4) fix failing spec [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [5539702](https://github.com/hubbubhealth/hubbub-main/commit/55397025e1142de394b683ee5253a20d3c5433fe) remove extraneous directory and files [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [197b144](https://github.com/hubbubhealth/hubbub-main/commit/197b144b0f4ebf7fd9b0406a7f31d36f25dcc6e3) add failure message to en.yml [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [e637e11](https://github.com/hubbubhealth/hubbub-main/commit/e637e11c50e9f1b69e4d4e723e4fca8603923e14) add new views [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [53ad7a4](https://github.com/hubbubhealth/hubbub-main/commit/53ad7a4c163453a1fbc5f1ac35224c28bb8db361) add logic to reports_controller.rb [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [f724f66](https://github.com/hubbubhealth/hubbub-main/commit/f724f6626012049e69d3d46ff31fd9bf27b8eb64) add new routes [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [8fdbad1](https://github.com/hubbubhealth/hubbub-main/commit/8fdbad13f15f2caf7373c8cd4c628060360f00b1) add model player_challenges_completion_reporter_spec.rb [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [b66d449](https://github.com/hubbubhealth/hubbub-main/commit/b66d449e0760c30db50d233528f90104d83f8125) add specs for player_challenges_completion_reporter_spec.rb [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3950..release-3982 
 
 * [5a3db76](https://github.com/hubbubhealth/hubbub-main/commit/5a3db76348cfdea71e5338098b6436d394c8ec74) Merge pull request 3982 from hubbubhealth ld trending chart data [Loren Delamarter](mailto:loren.delamarter@gmail.com)
