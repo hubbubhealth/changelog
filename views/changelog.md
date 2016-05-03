@@ -1,5 +1,10 @@
 # Changelog
 
+## release-3961..release-3971 
+
+* [c3121e9](https://github.com/hubbubhealth/hubbub-main/commit/c3121e96b9a397730a2465ea8a99dd76c3a1df20) Merge pull request 3971 from hubbubhealth js 3970 fix broken challenge promotion controller in rails 4.1.x [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [d8b032b](https://github.com/hubbubhealth/hubbub-main/commit/d8b032bd4284681ad530b6a994e530d036b00bd8) fix broken challenge_promotion_controller_spec.rb in rails 4.1.x [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-4104..release-3961 
 
 * [c086b2a](https://github.com/hubbubhealth/hubbub-main/commit/c086b2aa61d338fd631f9d01dadfedecb076351c) Merge pull request 3961 from hubbubhealth js 3958 fix state machine errors [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
