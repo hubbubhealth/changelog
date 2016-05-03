@@ -1,5 +1,11 @@
 # Changelog
 
+## release-3950..release-3982 
+
+* [5a3db76](https://github.com/hubbubhealth/hubbub-main/commit/5a3db76348cfdea71e5338098b6436d394c8ec74) Merge pull request 3982 from hubbubhealth ld trending chart data [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [a64aa81](https://github.com/hubbubhealth/hubbub-main/commit/a64aa812b180660a86c1c60e9667db5252e79419) Add some logging to each method that will be spun off to a background DJ [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [693ae2b](https://github.com/hubbubhealth/hubbub-main/commit/693ae2b23e7635f0e5493db031317d3ddd1ec32d) Only generate trending chart data for active Sponsors [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
 ## release-3947..release-3950 
 
 * [1a7dd6e](https://github.com/hubbubhealth/hubbub-main/commit/1a7dd6e20a0569be860ecee92168ef23db70fc43) Merge pull request 3950 from hubbubhealth mo 3928 localization company [Michel Ocon](mailto:soun.xrt@gmail.com)
