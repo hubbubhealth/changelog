@@ -1,5 +1,14 @@
 # Changelog
 
+## release-3965..release-4080 
+
+* [54dc97c](https://github.com/hubbubhealth/hubbub-main/commit/54dc97c6b1a98e2cf89f1803bd9840ea9e10900d) Merge pull request 4080 from hubbubhealth js 4045 fix user challenge history hubbub logo [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [0608b40](https://github.com/hubbubhealth/hubbub-main/commit/0608b40a1f8f96941fedb75636d759414d1a7660) break up long lines [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [807b17b](https://github.com/hubbubhealth/hubbub-main/commit/807b17ba790f482f742f0a9c46c7dd93849cadff) simplify view by creating hubbub_sponsored method [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [2df299a](https://github.com/hubbubhealth/hubbub-main/commit/2df299af09719c4e3103050546c3e31ba0973626) only show logo under name if platform challenge [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [0419fe6](https://github.com/hubbubhealth/hubbub-main/commit/0419fe6e6c24aa8863c7d587948a243d9777a194) do not show logo for hubbub created [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [fd4aab5](https://github.com/hubbubhealth/hubbub-main/commit/fd4aab59a8f5c8a36efdcee1336ef2bae46ca7f2) wip [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-3971..release-3965 
 
 * [1c0e8c3](https://github.com/hubbubhealth/hubbub-main/commit/1c0e8c3ff2b28a02c21d7c3e1b24416bb0abbdae) Merge pull request 3965 from hubbubhealth jv localise inbox messages page [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
