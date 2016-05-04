@@ -1,5 +1,15 @@
 # Changelog
 
+## release-3971..release-3965 
+
+* [1c0e8c3](https://github.com/hubbubhealth/hubbub-main/commit/1c0e8c3ff2b28a02c21d7c3e1b24416bb0abbdae) Merge pull request 3965 from hubbubhealth jv localise inbox messages page [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [b0d0c08](https://github.com/hubbubhealth/hubbub-main/commit/b0d0c086bba505e1327f5215c05c9e0ae55c3953) Fix missing translation on sponsor broadcast [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [0db73a6](https://github.com/hubbubhealth/hubbub-main/commit/0db73a6d8335f3b94f6b4ba4e80263aeadbfc8bc) Move message localisation key to correct namespace [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [ff7aad2](https://github.com/hubbubhealth/hubbub-main/commit/ff7aad27ad4179419d63a8e67d5e192a8ca04d43) Fix overlapped text of inbox menu items [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [223827f](https://github.com/hubbubhealth/hubbub-main/commit/223827fb03ef086602b373104fe4e783f9234881) Capitalize root localisation keys [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [5dc5985](https://github.com/hubbubhealth/hubbub-main/commit/5dc59859fb1ed8dc0e028d5b6ac6916c2367d27a) sort some root keys on en.yml file [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [8628488](https://github.com/hubbubhealth/hubbub-main/commit/862848841fe81ce839543be26a166fab292ea536) Localise inbox page [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3961..release-3971 
 
 * [c3121e9](https://github.com/hubbubhealth/hubbub-main/commit/c3121e96b9a397730a2465ea8a99dd76c3a1df20) Merge pull request 3971 from hubbubhealth js 3970 fix broken challenge promotion controller in rails 4.1.x [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
