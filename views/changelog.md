@@ -1,5 +1,10 @@
 # Changelog
 
+## release-4157..release-4154 
+
+* [5db4580](https://github.com/hubbubhealth/hubbub-main/commit/5db4580d55283fef1a828fa20db3b058661b8900) Merge pull request 4154 from hubbubhealth mo 4139 missing chart [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [9f366e5](https://github.com/hubbubhealth/hubbub-main/commit/9f366e55b587648ab155cbf6db4aa6a2aa565b16) Fix Sponsor Health Graphs [Michel Ocon](mailto:soun.xrt@gmail.com)
+
 ## release-4080..release-4157 
 
 * [ce4f5a8](https://github.com/hubbubhealth/hubbub-main/commit/ce4f5a8a476c5b86f68e9491dd63d124995f33f6) Merge pull request 4157 from hubbubhealth ld 4039 challenge slug migration [Loren Delamarter](mailto:loren.delamarter@gmail.com)
