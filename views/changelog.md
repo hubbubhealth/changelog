@@ -1,5 +1,11 @@
 # Changelog
 
+## release-4154..release-4152 
+
+* [84d2b2e](https://github.com/hubbubhealth/hubbub-main/commit/84d2b2e31bfc9000c63a09c238275e71e1ee0fec) Merge pull request 4152 from hubbubhealth gd 4138 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [f8323b3](https://github.com/hubbubhealth/hubbub-main/commit/f8323b3548a91e73002ab31e3d3840cc7078f847) gold challenge icons for mobile web [Gerad Davis](mailto:geraddavis@gmail.com)
+* [2abe833](https://github.com/hubbubhealth/hubbub-main/commit/2abe833a6b70dfefdef15473beb6bc7b6b3762fd) May contest. Resolves 4138t [Gerad Davis](mailto:geraddavis@gmail.com)
+
 ## release-4157..release-4154 
 
 * [5db4580](https://github.com/hubbubhealth/hubbub-main/commit/5db4580d55283fef1a828fa20db3b058661b8900) Merge pull request 4154 from hubbubhealth mo 4139 missing chart [Michel Ocon](mailto:soun.xrt@gmail.com)
