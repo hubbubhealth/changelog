@@ -1,5 +1,13 @@
 # Changelog
 
+## release-4080..release-4157 
+
+* [ce4f5a8](https://github.com/hubbubhealth/hubbub-main/commit/ce4f5a8a476c5b86f68e9491dd63d124995f33f6) Merge pull request 4157 from hubbubhealth ld 4039 challenge slug migration [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [367135d](https://github.com/hubbubhealth/hubbub-main/commit/367135da362e7b60d1f0613d95b64e793c82d594) Update schema.rb for 2 column composit index [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [99897a0](https://github.com/hubbubhealth/hubbub-main/commit/99897a083a26ea78297e4a3d64b6f9af2201a85c) Switch to a 2 column composite index [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [f2859bf](https://github.com/hubbubhealth/hubbub-main/commit/f2859bfd6a8b86bfa2acd901a4104adb3633aa39) Migration for slug_en as varchar 255 column add composite index and run without a wrapping transaction. 4039 [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [b9ef2c1](https://github.com/hubbubhealth/hubbub-main/commit/b9ef2c115c56921dae94bbe56124a6740e5c7e58) Add slug_en column and index to challenges table. 4039 [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
 ## release-3965..release-4080 
 
 * [54dc97c](https://github.com/hubbubhealth/hubbub-main/commit/54dc97c6b1a98e2cf89f1803bd9840ea9e10900d) Merge pull request 4080 from hubbubhealth js 4045 fix user challenge history hubbub logo [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
