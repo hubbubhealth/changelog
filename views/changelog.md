@@ -1,5 +1,11 @@
 # Changelog
 
+## release-4152..release-3977 
+
+* [6f3631d](https://github.com/hubbubhealth/hubbub-main/commit/6f3631d5bc3bd42c3fb026381bf777508a2b96e9) Merge pull request 3977 from hubbubhealth js 3976 fix for breaking reward accounts controller [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [75ad87b](https://github.com/hubbubhealth/hubbub-main/commit/75ad87bb54e34be605e1287dce7922c0ab2591cf) refactor fix to replicate logic of previous code [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [ea4ec1e](https://github.com/hubbubhealth/hubbub-main/commit/ea4ec1e0270c9a711847d3baed0e881f751f8d5b) use find_or_create_by in reward_account.rb [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-4154..release-4152 
 
 * [84d2b2e](https://github.com/hubbubhealth/hubbub-main/commit/84d2b2e31bfc9000c63a09c238275e71e1ee0fec) Merge pull request 4152 from hubbubhealth gd 4138 [Gerad Davis](mailto:geraddavis@gmail.com)
