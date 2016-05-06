@@ -1,5 +1,10 @@
 # Changelog
 
+## release-4094..release-4179 
+
+* [431e233](https://github.com/hubbubhealth/hubbub-main/commit/431e233b3714629da34558d7f0d5a80ae11cf3af) Merge pull request 4179 from hubbubhealth jv fix missing loading gif asset [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [84744cc](https://github.com/hubbubhealth/hubbub-main/commit/84744cce205546a21ca0b6b594731e6da3562ec8) Use image_url helper to load asset with fingerprint [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-4165..release-4094 
 
 * [aa2d315](https://github.com/hubbubhealth/hubbub-main/commit/aa2d3153e9906a1597309d8e72bdfb4ef227b3f5) Merge pull request 4094 from hubbubhealth ac 4076 friendship invitations controller [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
