@@ -1,5 +1,11 @@
 # Changelog
 
+## release-3891..release-4165 
+
+* [aeb85ec](https://github.com/hubbubhealth/hubbub-main/commit/aeb85ec7544e281a39a258820a1b499d514e286d) Merge pull request 4165 from hubbubhealth ld 4039 challenge slug code [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [c9d90ed](https://github.com/hubbubhealth/hubbub-main/commit/c9d90ed7f15936addebf912fbd05688f989e6e3e) makin the tests pass [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [c059a1f](https://github.com/hubbubhealth/hubbub-main/commit/c059a1f6a355ef839d87d557b0179018202384bc) Generate a unique slug for the challenge via before_save. closes 4039 [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
 ## release-3977..release-3891 
 
 * [3a7dc9b](https://github.com/hubbubhealth/hubbub-main/commit/3a7dc9b156a052f5e62b971641dc97a22819c090) Merge pull request 3891 from hubbubhealth ac mailer localization [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
