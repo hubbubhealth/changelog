@@ -1,5 +1,12 @@
 # Changelog
 
+## release-4165..release-4094 
+
+* [aa2d315](https://github.com/hubbubhealth/hubbub-main/commit/aa2d3153e9906a1597309d8e72bdfb4ef227b3f5) Merge pull request 4094 from hubbubhealth ac 4076 friendship invitations controller [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [0b1ce6b](https://github.com/hubbubhealth/hubbub-main/commit/0b1ce6b36dc018301ba4a77300ac0acbe96fa5f0) Whitelistening strong params [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [8e4e4d7](https://github.com/hubbubhealth/hubbub-main/commit/8e4e4d77af6b13aad4b04cd9ff4d96b9bb8880b4) Renames strong params method [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [e72183b](https://github.com/hubbubhealth/hubbub-main/commit/e72183bb2cb41bc0cb67b380eb88bcaa2e2da06f) Fixes mass assigment of friendship params [Alejandra](mailto:alejandra.cernas@unosquare.com)
+
 ## release-3891..release-4165 
 
 * [aeb85ec](https://github.com/hubbubhealth/hubbub-main/commit/aeb85ec7544e281a39a258820a1b499d514e286d) Merge pull request 4165 from hubbubhealth ld 4039 challenge slug code [Loren Delamarter](mailto:loren.delamarter@gmail.com)
