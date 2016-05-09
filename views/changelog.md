@@ -1,5 +1,10 @@
 # Changelog
 
+## release-3994..release-4095 
+
+* [3c1b828](https://github.com/hubbubhealth/hubbub-main/commit/3c1b8288d6330ace595a418e8c2cc2fbb8505ae6) Merge pull request 4095 from hubbubhealth mo 4090 term use of context security [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [246780a](https://github.com/hubbubhealth/hubbub-main/commit/246780a834061914eee7618a0729b5be72d78456) Improvement security term of use content read file function [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
 ## release-3964..release-3994 
 
 * [73885fb](https://github.com/hubbubhealth/hubbub-main/commit/73885fba7da0f9efaa22a60aa90af469a82d8a8d) Merge pull request 3994 from hubbubhealth js 3993 fix user belongs to role user rapport [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
