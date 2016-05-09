@@ -1,5 +1,28 @@
 # Changelog
 
+## release-4179..release-3964 
+
+* [09311eb](https://github.com/hubbubhealth/hubbub-main/commit/09311ebeb9d7e272cb798208ee4d83ede221f9a9) Merge pull request 3964 from hubbubhealth le friends page [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [58340f1](https://github.com/hubbubhealth/hubbub-main/commit/58340f1ee1894de152c2111bd90a8fcbf395a9b2) Merge pull request 4162 from hubbubhealth le dos sponsors [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [11f151e](https://github.com/hubbubhealth/hubbub-main/commit/11f151ebd203e993a57977a9ce5a3f0ad852cce7) Merge pull request 4174 from hubbubhealth le dos registrations [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [f9213d0](https://github.com/hubbubhealth/hubbub-main/commit/f9213d07030951714e7e4f3422d81c4f0ed8d821) restore missing class name [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [fb57414](https://github.com/hubbubhealth/hubbub-main/commit/fb574144e87c6dd3330e9c0fa06720aecc130938) add missing key edit_profile [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [62acb17](https://github.com/hubbubhealth/hubbub-main/commit/62acb174e4a68f6af19de137888aa317702d3811) fix mergeconflicts from last rebase [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [301507a](https://github.com/hubbubhealth/hubbub-main/commit/301507aebe75f7b336149064361886986794e139) fix broken yml from rebase [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [a6e12ad](https://github.com/hubbubhealth/hubbub-main/commit/a6e12adcc8dee88b958cdd5367e346f791a22914) typofixes for friends page spanish translations [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [d038440](https://github.com/hubbubhealth/hubbub-main/commit/d038440ce7778112fe2bfbf6bef16873b405b54c) restore missing keys after the rebase [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [484f21d](https://github.com/hubbubhealth/hubbub-main/commit/484f21d7f102501b915abc14b4c7b521254fca4d) aditional localization in friends partials [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [1085691](https://github.com/hubbubhealth/hubbub-main/commit/10856913573138183b94845171d98c7b105a6b62) localization on firends partials find tell and view all friends [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [a73a6e2](https://github.com/hubbubhealth/hubbub-main/commit/a73a6e20af7a758282700809777170ee1fe5b814) replace old symbols for render partial parameters in search users [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [c44e6fc](https://github.com/hubbubhealth/hubbub-main/commit/c44e6fc117ea39adda8504a6770cbb46ba89a48a) localization on friend mobile views [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [7e654f2](https://github.com/hubbubhealth/hubbub-main/commit/7e654f214c8aded2203d6188bb3723bdf855e3a7) localization on friend view [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [eefa893](https://github.com/hubbubhealth/hubbub-main/commit/eefa8936d2aa75bb8a8bc385ad0d0ef1c8f72c3e) friend en and es i18n keys [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [cd2dd8e](https://github.com/hubbubhealth/hubbub-main/commit/cd2dd8ebf9de66998f8e7b01bdbd36890810f3c7) ensure fallback on validate attribute action from registrations controller [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [450b611](https://github.com/hubbubhealth/hubbub-main/commit/450b611a8f41c939276a55d9381fef71cc162af1) test DoS in registration controller [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [795d17a](https://github.com/hubbubhealth/hubbub-main/commit/795d17af52549425dabbdf96ea4c1fda6b0c17d9) safe call downcase if is not present [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [d6a0b61](https://github.com/hubbubhealth/hubbub-main/commit/d6a0b6138a433fa0d5db492c32ed846cc78e49bc) improve spec to fail on nil values [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [514ba1b](https://github.com/hubbubhealth/hubbub-main/commit/514ba1b9e826401c8d05ad52c389747e322d2e33) spec for Denial of Service over sponsor dashboard [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-4094..release-4179 
 
 * [431e233](https://github.com/hubbubhealth/hubbub-main/commit/431e233b3714629da34558d7f0d5a80ae11cf3af) Merge pull request 4179 from hubbubhealth jv fix missing loading gif asset [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
