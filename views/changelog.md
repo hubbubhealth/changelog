@@ -1,5 +1,10 @@
 # Changelog
 
+## release-3964..release-3994 
+
+* [73885fb](https://github.com/hubbubhealth/hubbub-main/commit/73885fba7da0f9efaa22a60aa90af469a82d8a8d) Merge pull request 3994 from hubbubhealth js 3993 fix user belongs to role user rapport [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [f51ae51](https://github.com/hubbubhealth/hubbub-main/commit/f51ae51417634546f9be7c17ef53c12d73bd46f7) add inverse_of false to belongs_to user on role_user [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-4179..release-3964 
 
 * [09311eb](https://github.com/hubbubhealth/hubbub-main/commit/09311ebeb9d7e272cb798208ee4d83ede221f9a9) Merge pull request 3964 from hubbubhealth le friends page [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
