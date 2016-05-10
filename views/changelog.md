@@ -1,5 +1,15 @@
 # Changelog
 
+## release-4095..release-4189 
+
+* [6fcf519](https://github.com/hubbubhealth/hubbub-main/commit/6fcf519b90e2adc27a1080fd16f0bc6fdfabdf71) Merge pull request 4189 from hubbubhealth jv fix missing team defaul image [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [4456d1e](https://github.com/hubbubhealth/hubbub-main/commit/4456d1e2ad3cdf057cbb6b65b5ceda61036c63d5) Swap medium and large images to correct directory [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [7071ce4](https://github.com/hubbubhealth/hubbub-main/commit/7071ce47d7a53124d41511157c9f02bb5b08a211) Copy images to public folder in order to work with API [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [13cb85b](https://github.com/hubbubhealth/hubbub-main/commit/13cb85bd404fb70d7a7a5a1d039e80a2397d6722) Use default_url with interpolations [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [ee586c6](https://github.com/hubbubhealth/hubbub-main/commit/ee586c669f5c9dd2b496f6bd687c2a1d3544548e) move default medium image to public folder [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [a10b120](https://github.com/hubbubhealth/hubbub-main/commit/a10b1209f121f7f7213a010b372e11260398abd6) Merge pull request 4201 from hubbubhealth jv fix broken registrations controller spec [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [b2d1fd9](https://github.com/hubbubhealth/hubbub-main/commit/b2d1fd9f33fcf07c0f531b80d114c9d5d402e3d0) Test image upload on user registration [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-3994..release-4095 
 
 * [3c1b828](https://github.com/hubbubhealth/hubbub-main/commit/3c1b8288d6330ace595a418e8c2cc2fbb8505ae6) Merge pull request 4095 from hubbubhealth mo 4090 term use of context security [Michel Ocon](mailto:soun.xrt@gmail.com)
