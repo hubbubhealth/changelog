@@ -1,5 +1,13 @@
 # Changelog
 
+## release-4019..release-4206 
+
+* [5e6bdd0](https://github.com/hubbubhealth/hubbub-main/commit/5e6bdd0bf45df5afa6e2b31b19ae698c43285e08) Merge pull request 4206 from hubbubhealth ac 4205 mailer missing translation [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [cced1a9](https://github.com/hubbubhealth/hubbub-main/commit/cced1a94e2908e4da9e864be99f0d436662a8088) Evens spanish text [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [315a67f](https://github.com/hubbubhealth/hubbub-main/commit/315a67fabc7e1fcdf3ffe419188e82f76900ba4b) Adds missing subscription translation [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [49dc11e](https://github.com/hubbubhealth/hubbub-main/commit/49dc11ed0d8da09fd375b136e2713a37658e66c0) Fixes douplicated key and typo in es version [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [66e046e](https://github.com/hubbubhealth/hubbub-main/commit/66e046e42775af8920e9616871cbf791b2dc8731) Fixes douplicated key and typo [Alejandra](mailto:alejandra.cernas@unosquare.com)
+
 ## release-4189..release-4019 
 
 * [705723c](https://github.com/hubbubhealth/hubbub-main/commit/705723c1810be6a331f5ba105755282267c3acaa) Merge pull request 4019 from hubbubhealth le enable locale [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
