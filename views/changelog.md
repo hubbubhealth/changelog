@@ -1,5 +1,14 @@
 # Changelog
 
+## release-4189..release-4019 
+
+* [705723c](https://github.com/hubbubhealth/hubbub-main/commit/705723c1810be6a331f5ba105755282267c3acaa) Merge pull request 4019 from hubbubhealth le enable locale [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [de49277](https://github.com/hubbubhealth/hubbub-main/commit/de49277453cbc50375d18ad019e33df07ccf5838) fix broken tests [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [a3e2ecf](https://github.com/hubbubhealth/hubbub-main/commit/a3e2ecf63f44acfdb8c763a7f338f1b40243b2bf) disable ip and header detection [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [5c7c3d0](https://github.com/hubbubhealth/hubbub-main/commit/5c7c3d0ad29db521805aca589f33620d58e1e169) enable locales [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [c546d87](https://github.com/hubbubhealth/hubbub-main/commit/c546d87ebf8a72055a2c44cf78b547cf61627f8f) include geoip db [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [f053e5c](https://github.com/hubbubhealth/hubbub-main/commit/f053e5c647256458544495609d50b41db9b62833) countries list with currency and languages aviable [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-4095..release-4189 
 
 * [6fcf519](https://github.com/hubbubhealth/hubbub-main/commit/6fcf519b90e2adc27a1080fd16f0bc6fdfabdf71) Merge pull request 4189 from hubbubhealth jv fix missing team defaul image [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
