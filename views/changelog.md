@@ -1,5 +1,11 @@
 # Changelog
 
+## release-4176..release-4207 
+
+* [c985d73](https://github.com/hubbubhealth/hubbub-main/commit/c985d73911e29285fb2b88ba9684ef800faa4fe4) Merge pull request 4207 from hubbubhealth jv fix biometric icon missing image [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [7d9921b](https://github.com/hubbubhealth/hubbub-main/commit/7d9921b07521f57030eb036f00cc08d58e1a8c20) added specs for biometric_indicator_url [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [b38e677](https://github.com/hubbubhealth/hubbub-main/commit/b38e677f5e26547630651ecfa6dc52f4e94a2eee) Fix missing biometric icon url [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-4123..release-4176 
 
 * [083bc5e](https://github.com/hubbubhealth/hubbub-main/commit/083bc5e5dba49a7225211a85ae0d792ba56c39d2) Merge pull request 4176 from hubbubhealth js 4151 allow sponsor admin w o terms access in native [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
