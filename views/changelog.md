@@ -1,5 +1,10 @@
 # Changelog
 
+## release-4206..release-4123 
+
+* [ac6de24](https://github.com/hubbubhealth/hubbub-main/commit/ac6de247a9044b8854eb2553d94be20b6371ac5d) Merge pull request 4123 from hubbubhealth gd 3763 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [0b8d08a](https://github.com/hubbubhealth/hubbub-main/commit/0b8d08a751110db0e9d5f9ff3ef9da6379f52bb1) Challenge creation promote to styles [Gerad Davis](mailto:geraddavis@gmail.com)
+
 ## release-4019..release-4206 
 
 * [5e6bdd0](https://github.com/hubbubhealth/hubbub-main/commit/5e6bdd0bf45df5afa6e2b31b19ae698c43285e08) Merge pull request 4206 from hubbubhealth ac 4205 mailer missing translation [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
