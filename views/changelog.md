@@ -1,5 +1,14 @@
 # Changelog
 
+## release-3992..release-4175 
+
+* [2dbbce7](https://github.com/hubbubhealth/hubbub-main/commit/2dbbce7156948b7b6279a9f7eb313b69fcd76b9f) Merge pull request 4175 from hubbubhealth gd 4171 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [608a3f4](https://github.com/hubbubhealth/hubbub-main/commit/608a3f4c8c16113072fb3d902bb940e8d3100fdd) fix for mobile web team challenge checkin button [Gerad Davis](mailto:geraddavis@gmail.com)
+* [7a18836](https://github.com/hubbubhealth/hubbub-main/commit/7a188366608917e3947479438e0dcb8904a39d2b) Merge pull request 4069 from hubbubhealth le 4057 [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [b861ca9](https://github.com/hubbubhealth/hubbub-main/commit/b861ca9e8419658561b105811f7907a724e51130) Updated mobile challenge header styles. Removed old unused css_browser js file. Resolves 4171 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [53acc6f](https://github.com/hubbubhealth/hubbub-main/commit/53acc6f9baabda827502e7384bc37d2ea7d133c2) remove utc from DateTime object [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [a0a84b0](https://github.com/hubbubhealth/hubbub-main/commit/a0a84b0cd70c85331a6858bf75bd99fa48d8ee01) fix aditional arguments on to_time call [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-4207..release-3992 
 
 * [8a12279](https://github.com/hubbubhealth/hubbub-main/commit/8a12279be0cdb211adcdd4c739a05015793ef213) Merge pull request 3992 from hubbubhealth ac devise localization [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
