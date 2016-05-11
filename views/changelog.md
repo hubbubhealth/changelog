@@ -1,5 +1,29 @@
 # Changelog
 
+## release-4207..release-3992 
+
+* [8a12279](https://github.com/hubbubhealth/hubbub-main/commit/8a12279be0cdb211adcdd4c739a05015793ef213) Merge pull request 3992 from hubbubhealth ac devise localization [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [a29888e](https://github.com/hubbubhealth/hubbub-main/commit/a29888e26400a79cc9775311f8f413242a3bab92) Adds missing changes in edit [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [0996d9b](https://github.com/hubbubhealth/hubbub-main/commit/0996d9b69635bf57835de3823f23567359f3aed4) Fixes merge conflicts [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [9d2ca7f](https://github.com/hubbubhealth/hubbub-main/commit/9d2ca7f20ad6683d6b42dbfdc8da2a750ed23e1e) Adds attributes translations [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [2ead608](https://github.com/hubbubhealth/hubbub-main/commit/2ead6088715fea0ede4b3667262b2a52934725e8) Fixes identation [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [b86bb4a](https://github.com/hubbubhealth/hubbub-main/commit/b86bb4ac24794f08bb5df690489a6addaa548163) Fixes accents [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [8cb5afc](https://github.com/hubbubhealth/hubbub-main/commit/8cb5afc2741db76c71a69d5b63b16f2562927dd1) Fix missing key [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [60dfbf4](https://github.com/hubbubhealth/hubbub-main/commit/60dfbf4df760a6badca0e9ec13aa384a916b4e83) Solves rebase errors [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [ddad07c](https://github.com/hubbubhealth/hubbub-main/commit/ddad07c41d5f09827ce209a19062b69e0a9dd41e) Moves keys to devise file [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [cf4012d](https://github.com/hubbubhealth/hubbub-main/commit/cf4012dccf2dada2badf70625ee6d2504bd61532) Adds translations in mailers [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [3763724](https://github.com/hubbubhealth/hubbub-main/commit/3763724e3a61afbfe47bdc0fcb289016fbe993be) Adds translations for new [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [4ce15cf](https://github.com/hubbubhealth/hubbub-main/commit/4ce15cfa40f78373fa8b4b8e63a7a81333acea8f) Adds keys in registrations edit and mobile [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [a30c52e](https://github.com/hubbubhealth/hubbub-main/commit/a30c52e3e89348eb127595cd38d37c6c0b69347c) Fixes spanish key [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [39a168e](https://github.com/hubbubhealth/hubbub-main/commit/39a168e02e270440184c527231f9456c7936f2bf) Adds keys in unlocks [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [84f2270](https://github.com/hubbubhealth/hubbub-main/commit/84f2270a5b9df9ea5dc7ffa20eee9307f3fe2958) Adds keys in shared links [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [4311a42](https://github.com/hubbubhealth/hubbub-main/commit/4311a422104810fd461d0a67ea7937036d19b5aa) AAds keys for passwords [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [878fa31](https://github.com/hubbubhealth/hubbub-main/commit/878fa31dc2987476a9a9b7f4cb7cec3ae7fcde11) Adds keys for confimation [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [09bc096](https://github.com/hubbubhealth/hubbub-main/commit/09bc096f8366b2c63aeaecebd856076856b26c8a) Adds key in sessions new and password new [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [9820bd0](https://github.com/hubbubhealth/hubbub-main/commit/9820bd0ce454405f49fcfe5a7501fd8dc46c4bfb) Adds keys in sign in view [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [7efff6c](https://github.com/hubbubhealth/hubbub-main/commit/7efff6c0810933ab0e987c332d5a36f536076d1c) Adds keys in spanish [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [6ec3e27](https://github.com/hubbubhealth/hubbub-main/commit/6ec3e27ff3f43734e6a3ac23856303eb52e4c4da) Removes duplicated keys [Alejandra](mailto:alejandra.cernas@unosquare.com)
+
 ## release-4176..release-4207 
 
 * [c985d73](https://github.com/hubbubhealth/hubbub-main/commit/c985d73911e29285fb2b88ba9684ef800faa4fe4) Merge pull request 4207 from hubbubhealth jv fix biometric icon missing image [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
