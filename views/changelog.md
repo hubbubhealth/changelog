@@ -1,5 +1,14 @@
 # Changelog
 
+## release-4123..release-4176 
+
+* [083bc5e](https://github.com/hubbubhealth/hubbub-main/commit/083bc5e5dba49a7225211a85ae0d792ba56c39d2) Merge pull request 4176 from hubbubhealth js 4151 allow sponsor admin w o terms access in native [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [95d1315](https://github.com/hubbubhealth/hubbub-main/commit/95d1315b54568b00bea9eb722525df3eb19d48bd) allow logged in player user to signup as sponsor [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [3c72e5f](https://github.com/hubbubhealth/hubbub-main/commit/3c72e5f46fb67ed9f039a4c00c97ac37d5a8c6c4) add users sign in to HAPIs.paw file [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [d395c0c](https://github.com/hubbubhealth/hubbub-main/commit/d395c0cb6a81a6ffff5abe1c3fe7c6c5887be6fc) clean up [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [548c652](https://github.com/hubbubhealth/hubbub-main/commit/548c6525601d3316f2d466c82c2414900d04cd28) modify logic to accomodate sponsor_admin not in admin_mode [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [350d7a9](https://github.com/hubbubhealth/hubbub-main/commit/350d7a9900320c7535beec42c546227a949f984a) first let s clean up conditional statements [jeff stringer](mailto:jeff@hubbubhealth.com)
+
 ## release-4206..release-4123 
 
 * [ac6de24](https://github.com/hubbubhealth/hubbub-main/commit/ac6de247a9044b8854eb2553d94be20b6371ac5d) Merge pull request 4123 from hubbubhealth gd 3763 [Gerad Davis](mailto:geraddavis@gmail.com)
