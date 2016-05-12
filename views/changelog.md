@@ -1,5 +1,11 @@
 # Changelog
 
+## release-4136..release-4202 
+
+* [2badc9b](https://github.com/hubbubhealth/hubbub-main/commit/2badc9bc89c9cd6392303588f5b45f2005a1a04f) Merge pull request 4202 from hubbubhealth ld 4170 facebook missing email [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [065ccf0](https://github.com/hubbubhealth/hubbub-main/commit/065ccf0e6274ca95aa09b77d76fee9b786134ef0) resolve rebase conflict [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [618a428](https://github.com/hubbubhealth/hubbub-main/commit/618a428300752137d96c72219fce3dc269090c65) Handle user not supplying email from facebook. closes 4170 [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+
 ## release-4175..release-4136 
 
 * [c3ca368](https://github.com/hubbubhealth/hubbub-main/commit/c3ca3686fb0eab10345b8e204d6cbf2d40436a41) Merge pull request 4136 from hubbubhealth mo 4128 transaction aborted [Michel Ocon](mailto:soun.xrt@gmail.com)
