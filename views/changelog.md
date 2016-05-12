@@ -1,5 +1,10 @@
 # Changelog
 
+## release-4175..release-4136 
+
+* [c3ca368](https://github.com/hubbubhealth/hubbub-main/commit/c3ca3686fb0eab10345b8e204d6cbf2d40436a41) Merge pull request 4136 from hubbubhealth mo 4128 transaction aborted [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [175fe3f](https://github.com/hubbubhealth/hubbub-main/commit/175fe3f94eba75311aa5e02c7e8d0dc56aea87b5) ProjectV Badge Calculator stop ignoring SQL exceptions on calculate_badges method [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
 ## release-3992..release-4175 
 
 * [2dbbce7](https://github.com/hubbubhealth/hubbub-main/commit/2dbbce7156948b7b6279a9f7eb313b69fcd76b9f) Merge pull request 4175 from hubbubhealth gd 4171 [Gerad Davis](mailto:geraddavis@gmail.com)
