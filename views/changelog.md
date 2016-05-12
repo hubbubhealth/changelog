@@ -1,5 +1,26 @@
 # Changelog
 
+## release-4219..release-4220 
+
+* [7df52cf](https://github.com/hubbubhealth/hubbub-main/commit/7df52cf6083cbd0915b8516ac7cdb3a3707d6870) Merge pull request 4220 from hubbubhealth mo localization fix english key [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [5f56e6a](https://github.com/hubbubhealth/hubbub-main/commit/5f56e6a75fb9617dc97f71f83c3f3926ea15032c) Localization fix english key private challenge code [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4003..release-4219 
+
+* [351c818](https://github.com/hubbubhealth/hubbub-main/commit/351c818c2ce64febc46d8c9ff5404c60d0234095) Merge pull request 4219 from hubbubhealth mo fix spanish key [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [399fddb](https://github.com/hubbubhealth/hubbub-main/commit/399fddb82aa2744a1a598a2c85b1fbeece5c65c9) Localization fix english key coach says [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [3337504](https://github.com/hubbubhealth/hubbub-main/commit/33375044e0e4627536ccfd756d44494ed8565fc2) config circle ci to run the whole test suite [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [e381114](https://github.com/hubbubhealth/hubbub-main/commit/e381114dd1f124f238734b88f3c7d5bd301cb364) run only feature test on circle ci [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [7d1dca5](https://github.com/hubbubhealth/hubbub-main/commit/7d1dca582fe807539a2f3345aaa2f0eb6cf87828) models test on circle ci [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
+## release-4202..release-4003 
+
+* [e202dfe](https://github.com/hubbubhealth/hubbub-main/commit/e202dfe9f8f79c300cadc1f49163b2c8f2d65854) Merge pull request 4003 from hubbubhealth mo localization challenges [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [5364a15](https://github.com/hubbubhealth/hubbub-main/commit/5364a15c11b7ab6a80b4a62b5e4c93a38180eec7) Localization of challenges index show add missing keys [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [25629fa](https://github.com/hubbubhealth/hubbub-main/commit/25629fa0a9dc688bedd6b7d1448ad46dfb9f681d) Localization Challenge Stream Entry add missing keys [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [2138759](https://github.com/hubbubhealth/hubbub-main/commit/213875949ac460f2904bf7c3b1d8613bb8a4b946) Localization Challenges Change key for the quit menu element [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [95ef79f](https://github.com/hubbubhealth/hubbub-main/commit/95ef79fe0fbedf57e0ff8a3ff4558ed0e0910c57) Localization of Challenges Index and Show [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
 ## release-4136..release-4202 
 
 * [2badc9b](https://github.com/hubbubhealth/hubbub-main/commit/2badc9bc89c9cd6392303588f5b45f2005a1a04f) Merge pull request 4202 from hubbubhealth ld 4170 facebook missing email [Loren Delamarter](mailto:loren.delamarter@gmail.com)
