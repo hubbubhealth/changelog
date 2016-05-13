@@ -1,5 +1,18 @@
 # Changelog
 
+## release-4220..release-4075 
+
+* [b28c582](https://github.com/hubbubhealth/hubbub-main/commit/b28c582a78126fef198cd5c2fcb74c1c897f27e0) Merge pull request 4075 from hubbubhealth mo 4074 hubbub360 id nil [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [5f1e774](https://github.com/hubbubhealth/hubbub-main/commit/5f1e774284958a036d751dd6fde67539f5f3d0df) Hubbub360 Comparisons user should be logged before visiting the actions [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [a386dca](https://github.com/hubbubhealth/hubbub-main/commit/a386dcabfd52c2b77ca469b10b24db5151f306a9) Merge pull request 4006 from hubbubhealth jv flash messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [f71c86c](https://github.com/hubbubhealth/hubbub-main/commit/f71c86c500e3e4d872740c454e402195f550ed3b) Rename key to devices_title to avoid collision [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [c165e19](https://github.com/hubbubhealth/hubbub-main/commit/c165e190c4de4a48e51a699282c87908af2d2708) Localise flash messages on RewardAmazonCodesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [aab13b1](https://github.com/hubbubhealth/hubbub-main/commit/aab13b12de056c081f567438a1f712ffb07d94dc) Localise flash messages on HealthIndicatorsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [5589ce2](https://github.com/hubbubhealth/hubbub-main/commit/5589ce2de45654bb36667ee7b10715dd09b954cc) Localise flash messages for HealthCoachesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [f4333f6](https://github.com/hubbubhealth/hubbub-main/commit/f4333f682d0877aecd4b3c81e5d398625f862d12) Localise flash messages on DevicesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [9faef84](https://github.com/hubbubhealth/hubbub-main/commit/9faef84b3e0fbccd9180a2a624c0698fd17c96b5) Localise flash messages for CompanyNewsItemsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [f1e801d](https://github.com/hubbubhealth/hubbub-main/commit/f1e801dca5e316dedca7ab2bd37947d15754adef) CompanyNewsItemsController code cleanup [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
 ## release-4219..release-4220 
 
 * [7df52cf](https://github.com/hubbubhealth/hubbub-main/commit/7df52cf6083cbd0915b8516ac7cdb3a3707d6870) Merge pull request 4220 from hubbubhealth mo localization fix english key [Michel Ocon](mailto:soun.xrt@gmail.com)
