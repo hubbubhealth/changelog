@@ -1,5 +1,228 @@
 # Changelog
 
+## release-4292..release-4319 
+
+* [24fe011](https://github.com/hubbubhealth/hubbub-main/commit/24fe0116898dc6b61a2ad84f3489b005cb07e694) Merge pull request 4319 from hubbubhealth ac word in activity entry [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [b095df3](https://github.com/hubbubhealth/hubbub-main/commit/b095df332be57cdf1802919c83c18b7cf30cccb9) HOTFIX retore on rewards [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [9193ac4](https://github.com/hubbubhealth/hubbub-main/commit/9193ac4e7de7a87b445a4f472171c1ad177e1e8a) Prints joined key [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [f54cfc7](https://github.com/hubbubhealth/hubbub-main/commit/f54cfc73e46bea733fee5a0443ef8322e440edb3) Merge pull request 4105 from hubbubhealth mo 3351 city without numbers [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [3be5947](https://github.com/hubbubhealth/hubbub-main/commit/3be5947535c589f271d3409f94c8ee2afa8855d2) Merge pull request 4298 from hubbubhealth le localization corrections [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [3a12eac](https://github.com/hubbubhealth/hubbub-main/commit/3a12eac9fee54a866a86a85e1d07d9e3262f2b63) Merge pull request 4312 from hubbubhealth mw hotfix typo in locale badges [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [c5b3ac7](https://github.com/hubbubhealth/hubbub-main/commit/c5b3ac7b5d44476579eb12910e70e78296e9b82f) add badge to end of locale string [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [3d782ad](https://github.com/hubbubhealth/hubbub-main/commit/3d782ad4e1e632cb9bda8bc5c70eb4d0167a8e78) remove name from locale string [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [2c3a129](https://github.com/hubbubhealth/hubbub-main/commit/2c3a12966402ba7af450dffa6f17d7c6c2f504e2) Merge pull request 4309 from hubbubhealth jv fix activity stream error [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [e09d39a](https://github.com/hubbubhealth/hubbub-main/commit/e09d39a2e49dda025e2ea05eb6626faed934f57b) remove duplicated key [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [58fd662](https://github.com/hubbubhealth/hubbub-main/commit/58fd662ef00ba955c043fdd1e0b28d01ecf1795a) typo fix [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [e0fac8f](https://github.com/hubbubhealth/hubbub-main/commit/e0fac8f91224e157af6e977fc35783fccafa2649) Sponsor subscriptions add city validation for reward budges page [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [4b3517a](https://github.com/hubbubhealth/hubbub-main/commit/4b3517a43157e980838e7c3798f89ab22ea97cc3) Fix activity stream error on checked_into localization [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [385edae](https://github.com/hubbubhealth/hubbub-main/commit/385edae9b109dbd5ec4f1c58a82a10af7a648fd4) Sponsor subscriptions add city validation for related pages [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [ee84c2b](https://github.com/hubbubhealth/hubbub-main/commit/ee84c2be37d152ed78d7d69b0fc314a3bc15b1f5) amazon gc template localization [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [4d5fa34](https://github.com/hubbubhealth/hubbub-main/commit/4d5fa34d97056fd40ad786b041fefa862f1d715a) localized rewards page [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [c6a9d07](https://github.com/hubbubhealth/hubbub-main/commit/c6a9d0757afb280d977a69e1a0af2614fe22b0c6) localize js notice messages [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [3086d26](https://github.com/hubbubhealth/hubbub-main/commit/3086d26417dab587f498e559e9110cf87434aa2b) remove lowercase text modifier from coaches page [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [c8fba2c](https://github.com/hubbubhealth/hubbub-main/commit/c8fba2c083c698e800bd0946ce21caf19a846622) typofix include missing inverted bangs on spanish keys [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [5a799b2](https://github.com/hubbubhealth/hubbub-main/commit/5a799b28348fc8a0fa282a262904185c6e466c16) translate user_devise keys [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [884f2be](https://github.com/hubbubhealth/hubbub-main/commit/884f2be9cb7122cf444c8e0fdd4ead3350b9bd79) changelog url and sharebutton width [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [b3ec4c9](https://github.com/hubbubhealth/hubbub-main/commit/b3ec4c9ed7cf526eee0495b0a84a2f9d603736ca) promotion box text [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [c94571c](https://github.com/hubbubhealth/hubbub-main/commit/c94571c2b9ce645394e6baf51e5aa1bacba606ca) Sponsor subscriptions change the regex for city validation [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [a74fd18](https://github.com/hubbubhealth/hubbub-main/commit/a74fd1887e9688afabf8435cd32bd54d29f9c830) Sponsor subscriptions change the name of the city validator [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [cc42568](https://github.com/hubbubhealth/hubbub-main/commit/cc4256885cf79846c7c3678ed29272cca0df1b35) Sponsors subscriptions validator for address city [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [b04efb8](https://github.com/hubbubhealth/hubbub-main/commit/b04efb8b340e9fb0a8c6d3bd240ed446cc79081d) Subscription filter city should not allow numbers [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4269..release-4292 
+
+* [d0cdc4d](https://github.com/hubbubhealth/hubbub-main/commit/d0cdc4dda1ad2568be3a87de89b32a5e5967d0dc) Merge pull request 4292 from hubbubhealth mo 4286 agcod request id gen [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [a28d748](https://github.com/hubbubhealth/hubbub-main/commit/a28d7488ead8208fb35a96a415d59ce703b3110f) Merge pull request 4101 from hubbubhealth js remove activemodel forbidden attributes protection [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [3424423](https://github.com/hubbubhealth/hubbub-main/commit/3424423021fb9d1c0e6bbf95a4cac78d7e1383b7) remove remaining activemodel forbidden attributes protection [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [7153fce](https://github.com/hubbubhealth/hubbub-main/commit/7153fce7fbece9c983ae81bd2f0011b3e179f88f) wip [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [35f8bdc](https://github.com/hubbubhealth/hubbub-main/commit/35f8bdc314af83a93ad34484f1de78b897a6939e) Amazon Redemption Random Generator Using Base64 [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [abe4734](https://github.com/hubbubhealth/hubbub-main/commit/abe4734df92a1e2a9a33317317ae9fc1769de20b) Amazon Redemption Improvement Random Generator [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4097..release-4269 
+
+* [877a18b](https://github.com/hubbubhealth/hubbub-main/commit/877a18b253e5dbde5ac2e028de5d65820f3fce6b) Merge pull request 4269 from hubbubhealth jv various controllers flash messages localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [5711a7f](https://github.com/hubbubhealth/hubbub-main/commit/5711a7fafabba237d6ce815777dbd43f01e9eb82) Remove duplicated comments keys [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [c5f167c](https://github.com/hubbubhealth/hubbub-main/commit/c5f167c5959a8ab09c6c84d04b4c0bdda174290c) Fix coach says missing translation [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [40e293c](https://github.com/hubbubhealth/hubbub-main/commit/40e293cfabe1ed0a872a775c1f003fe20956552b) fix typo [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [8b71306](https://github.com/hubbubhealth/hubbub-main/commit/8b71306123501750b38855c388096c0834339dd7) fix translation key typo on for lazy lookup [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [c76e520](https://github.com/hubbubhealth/hubbub-main/commit/c76e5205c4b9725509dd627645c50b43792c8c18) Localize flash messages from UserChallengesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [410c837](https://github.com/hubbubhealth/hubbub-main/commit/410c8375a1d83b554dbe8be138681805d7cef572) Localization for UserChallengeController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [ccecdd0](https://github.com/hubbubhealth/hubbub-main/commit/ccecdd015eb5ca531c8979419a2c3e62ecc2f88b) Localization of UserChallengeActivitiesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [840d901](https://github.com/hubbubhealth/hubbub-main/commit/840d901fd5ff5dce0b8636a8a1368d904188ab0b) Localize flash messages for StatusUpdatesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [6e8a27a](https://github.com/hubbubhealth/hubbub-main/commit/6e8a27a03df19556bd308385f822f705c954614d) Localize flash messages on GooddayBaddayController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [7e9ebdb](https://github.com/hubbubhealth/hubbub-main/commit/7e9ebdb683837e8d74d030322c45b616200587cf) Localise flash messages on Comments controller [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
+## release-4271..release-4097 
+
+* [1683b12](https://github.com/hubbubhealth/hubbub-main/commit/1683b12d94d034c770cf4fd916f95e247f6a69d3) Merge pull request 4097 from hubbubhealth mo 4086 wellness indices strong params [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [fabca1e](https://github.com/hubbubhealth/hubbub-main/commit/fabca1e12f5bc32a0c7b1a48b4a3b2cc07651ed1) Merge pull request 4295 from hubbubhealth le parallel tests [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [618c7ac](https://github.com/hubbubhealth/hubbub-main/commit/618c7acd17fa6b7b4bc6a17d65d76589be989c29) fix sintax error [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [f475b56](https://github.com/hubbubhealth/hubbub-main/commit/f475b56fc22990d227bece2c106c70b8c78b7eb2) coment another broken test pending [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [2590937](https://github.com/hubbubhealth/hubbub-main/commit/25909378fc78ec8313b2c8c1c5c7a90b73dc4e31) remove pending test form jenkins skip [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [b5d109a](https://github.com/hubbubhealth/hubbub-main/commit/b5d109a2aa95efb82f6ce868e2026f4eff8c6b4d) remove seed and sponsor uniq names [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [ff12334](https://github.com/hubbubhealth/hubbub-main/commit/ff12334784112dae9c1700398a9207aa904c68b2) remove aditional tmp on ignore file [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [4b249d6](https://github.com/hubbubhealth/hubbub-main/commit/4b249d6fcd20d5d5e4ffde47392ad88774107f0a) force add tmp cache keep file [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [35f12ef](https://github.com/hubbubhealth/hubbub-main/commit/35f12ef88b657a1bc215a5671b08c7055b933cc2) updatew ignore file [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [64578cf](https://github.com/hubbubhealth/hubbub-main/commit/64578cfb0d2e7676da8d3baeb35bd3f566d815df) add knapsack report [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [ce4adbd](https://github.com/hubbubhealth/hubbub-main/commit/ce4adbd7fb067b20fd7c383ca087621f3fc99722) include knapsack gem to balance gems [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [4a130ad](https://github.com/hubbubhealth/hubbub-main/commit/4a130add1735f59aaceb5af6e225ea9df3564bec) setup ruby version [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [826009c](https://github.com/hubbubhealth/hubbub-main/commit/826009c6b6deefd11e866afda5b4739be96fdc7e) initial config for parallel testing [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [23a2d4c](https://github.com/hubbubhealth/hubbub-main/commit/23a2d4cd9a52d2b692e8e3d77a70bfab9dec9357) Wellness Indices Controller Add Strong Parameters [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4304..release-4271 
+
+* [05fa680](https://github.com/hubbubhealth/hubbub-main/commit/05fa6802fabb7975eb36095728a240be716571bf) Merge pull request 4271 from hubbubhealth mo 4264 foursquare update [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [9ff0cfa](https://github.com/hubbubhealth/hubbub-main/commit/9ff0cfa6a7a5b4064ea4197cac870843d12c02ff) Foursquare update fix should be post instead of get [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4058..release-4304 
+
+* [47111f5](https://github.com/hubbubhealth/hubbub-main/commit/47111f55a640a8a821f50ac0daf4a51e7c993948) Merge pull request 4304 from hubbubhealth ac 4302 [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [4a1e069](https://github.com/hubbubhealth/hubbub-main/commit/4a1e06902de4762f839216a54971aa99cb6d94d3) Adds missing variable [Alejandra](mailto:alejandra.cernas@unosquare.com)
+
+## release-4279..release-4058 
+
+* [6875353](https://github.com/hubbubhealth/hubbub-main/commit/687535309df7686f87a4b857627ca4310ca4abf3) Merge pull request 4058 from hubbubhealth ac segment poke mailer [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [5484a9f](https://github.com/hubbubhealth/hubbub-main/commit/5484a9f84c9750348535ab521683a42f825eecfd) Adds missing translation [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [189b952](https://github.com/hubbubhealth/hubbub-main/commit/189b952937bba2f97e4de2ace95ed8af267dd357) Refactors message notification takes out engagement poke notification [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [9cb5a6a](https://github.com/hubbubhealth/hubbub-main/commit/9cb5a6a0e624d29527cebb67287faf6f56ec5ad0) Merge pull request 4294 from hubbubhealth mt 4282 reduce logging [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [6cf44a9](https://github.com/hubbubhealth/hubbub-main/commit/6cf44a9c4da0c2ed82af9482c8cde4451d9f5f8a) Reduce log output in application controller [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [1997927](https://github.com/hubbubhealth/hubbub-main/commit/1997927dbbfc030429f923f3cd8295b6de3befb9) Merge pull request 4288 from hubbubhealth mw issue 4218 pg unique violation [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [8be65be](https://github.com/hubbubhealth/hubbub-main/commit/8be65bed0f0df48a4bcf622c2482cbe8a1ad5e95) do not need to set default value already set by db [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [e366765](https://github.com/hubbubhealth/hubbub-main/commit/e36676515aee65b2035df90e30d5d8c4a6077e93) quick refactor to stop violating pg uniqueness [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+
+## release-4254..release-4279 
+
+* [98a2d23](https://github.com/hubbubhealth/hubbub-main/commit/98a2d23ffb01b58c35e8b1a7a2d4854776d8edce) Merge pull request 4279 from hubbubhealth js 4265 fix for badges not firing [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [56bb8b4](https://github.com/hubbubhealth/hubbub-main/commit/56bb8b467453c39524bfc5cfcb4713dbe199f67c) Merge pull request 4277 from hubbubhealth mw 4276 challenge search form min char limitation [Matt Wire](mailto:boxofmattwire@users.noreply.github.com)
+* [fe08282](https://github.com/hubbubhealth/hubbub-main/commit/fe082820b9a71590a772498b69108a6c26ca9b18) add full path for key rails 4 controller lazy loading not working [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [61a9d5d](https://github.com/hubbubhealth/hubbub-main/commit/61a9d5dad1acdb52e0d310d965c488fa4502339c) fix I18n for lazy lookup [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [aab68b3](https://github.com/hubbubhealth/hubbub-main/commit/aab68b325baec1d067355f0eb72743cf73bda453) add internationalized error message for challenge search form too few chars [Matt Wire](mailto:matt.wire@hubbubhealth.com)
+* [f356ded](https://github.com/hubbubhealth/hubbub-main/commit/f356dedddd1c0e3952dfef4184dd8e3dcff46371) fix for firing sir tweetsalot and facebooker badges [jeff stringer](mailto:jeff@hubbubhealth.com)
+
+## release-4049..release-4254 
+
+* [0cd64fd](https://github.com/hubbubhealth/hubbub-main/commit/0cd64fdf35a0cd689053d2e864f191bd416487a5) Merge pull request 4254 from hubbubhealth mo jv challenge creation localisation [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [c17e5d7](https://github.com/hubbubhealth/hubbub-main/commit/c17e5d780f45cb71c0b7dac127d1dab12c6ff8eb) Remove optional translation key typo [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [4a16ee2](https://github.com/hubbubhealth/hubbub-main/commit/4a16ee238099d375d6f7cd90a94318dcd18266b1) Localization Challenges Create [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4145..release-4049 
+
+* [7c70ac0](https://github.com/hubbubhealth/hubbub-main/commit/7c70ac053de24387aef1f86536f8f6b3506c0375) Merge pull request 4049 from hubbubhealth mo 4027 mailer remove fistbump [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [c6f417d](https://github.com/hubbubhealth/hubbub-main/commit/c6f417dcb3cb542a14b5bcc2735d2baca25209d5) Remove unused code from message_notification mailer [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [20c4a16](https://github.com/hubbubhealth/hubbub-main/commit/20c4a16857bc0c567cb9c8b4a8b0ccb46914b76d) Merge pull request 4032 from hubbubhealth le remove email message add as friend [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [f9b4c6b](https://github.com/hubbubhealth/hubbub-main/commit/f9b4c6b15be2e1d26f56e9e5209e7b00e4630e2e) remove AddAsFriend email category from message_notification mailer [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
+## release-4223..release-4145 
+
+* [58650a1](https://github.com/hubbubhealth/hubbub-main/commit/58650a19912dfad790c7b5937e931f09a7bb05e1) Merge pull request 4145 from hubbubhealth jv localise flash messages various controllers [Jaime Victoria](mailto:jaime.victoria.90@gmail.com)
+* [427e2ab](https://github.com/hubbubhealth/hubbub-main/commit/427e2ab839b55f86a8ece636ecc1822fd7f2b3e0) remove old keys from mergeconflict [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [0ce9e50](https://github.com/hubbubhealth/hubbub-main/commit/0ce9e5067ddc565675d1eb2610c47689f60d9f58) Fix accent typos [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [18141ac](https://github.com/hubbubhealth/hubbub-main/commit/18141ac6e43210154de414b9dc82ff81aed1e2a4) Localise flash messages for CommentsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [bac08e4](https://github.com/hubbubhealth/hubbub-main/commit/bac08e4d6f296cda192afbaf57e26507f539dd3a) Localise flash messages for WelcomeController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [de92713](https://github.com/hubbubhealth/hubbub-main/commit/de9271384c1312bf8a601f9a3b1ff3db4c110f32) Localise flash messages for TeamsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [d7cf58b](https://github.com/hubbubhealth/hubbub-main/commit/d7cf58b0a8a64043f415283e0f1a03436ad1bd0e) Localise flash messages for SponsorsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [027a041](https://github.com/hubbubhealth/hubbub-main/commit/027a041ef6449539b32dd603ad274ebf320a2ba3) Localise flash messages for SignupStepsController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [db5b815](https://github.com/hubbubhealth/hubbub-main/commit/db5b8156bdc80a9079633fd19074387b1674a137) Localise flash messages for RewardAmazonCodesController [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+
+## release-4222..release-4223 
+
+* [e0827be](https://github.com/hubbubhealth/hubbub-main/commit/e0827bec9b2712b378e36dd6e6d670577b077da0) Merge pull request 4223 from hubbubhealth js 4209 fix update all assocation system promtions [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [e49c3b4](https://github.com/hubbubhealth/hubbub-main/commit/e49c3b412972a8e60070cd8dccb82b4b13883650) move update method to model layer [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [746bff5](https://github.com/hubbubhealth/hubbub-main/commit/746bff533bb595994232d84ff0fffa69241f909b) remove unnecessary setting of instance variables [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [b335229](https://github.com/hubbubhealth/hubbub-main/commit/b335229fde3998d8d996127a8432f0fdb5ef9803) clean up create action [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [132e468](https://github.com/hubbubhealth/hubbub-main/commit/132e468b32a9218b0c34a24d16f4f57f784da577) simplify update action by creating private method [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [6a8d3b5](https://github.com/hubbubhealth/hubbub-main/commit/6a8d3b518f15d447d007d56ef891b92434a91ead) add parent_promotion_id to system promotions [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [598eb4c](https://github.com/hubbubhealth/hubbub-main/commit/598eb4c683d6f98bd0533deb32100a5205d79c54) add code for updating multiple records [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [35e529f](https://github.com/hubbubhealth/hubbub-main/commit/35e529f64062b43ff78be04370891505dfcc0ae2) add spec to address updating multiple records [jeff stringer](mailto:jeff@hubbubhealth.com)
+
+## release-4240..release-4222 
+
+* [3ba4ae1](https://github.com/hubbubhealth/hubbub-main/commit/3ba4ae18639b32cd5051f7e9e705387f8bede5f5) Merge pull request 4222 from hubbubhealth js 4209 add parent promotion id to system promotions [Jeff Stringer](mailto:jeffstringer@users.noreply.github.com)
+* [0681aa2](https://github.com/hubbubhealth/hubbub-main/commit/0681aa25adc738b563d4c3fddc3c1cfebe38e556) add parent_promotion_id to system promotions [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [9d6eca9](https://github.com/hubbubhealth/hubbub-main/commit/9d6eca98aa75c0b5f5737d4cc2fe9fd91beff592) Merge pull request 4273 from hubbubhealth le fix agcod specs [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [49ca31b](https://github.com/hubbubhealth/hubbub-main/commit/49ca31b1eebe6e2533821742d43623d4340b2a21) fix broken test [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+* [f4da630](https://github.com/hubbubhealth/hubbub-main/commit/f4da63012a2c62d3ef3681552b651ef4dcd5d9f4) stub response for AGCOD api calls [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
+## release-4270..release-4240 
+
+* [b5231b0](https://github.com/hubbubhealth/hubbub-main/commit/b5231b075116fea7c96c5497c311ce5b90636228) Merge pull request 4240 from hubbubhealth gd 4182 [Gerad Davis](mailto:geraddavis@gmail.com)
+* [5375191](https://github.com/hubbubhealth/hubbub-main/commit/53751919ecb4f8341aeae57b76ce6fc6faede7fb) Downcase checkin_source before matching [Jaime Victoria](mailto:jaime.victoria@unosquare.com)
+* [56f4fd6](https://github.com/hubbubhealth/hubbub-main/commit/56f4fd601b67e68de3e36c6d820715093400aa86) Fix to display iPhone icon in activity stream. Resolves 4182 [Gerad Davis](mailto:geraddavis@gmail.com)
+
+## release-4253..release-4270 
+
+* [b11e73a](https://github.com/hubbubhealth/hubbub-main/commit/b11e73af689448ea5464182140f51c1a60f74abc) Merge pull request 4270 from hubbubhealth mo 4268 remove ben from platform admin notifications [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [fa23fb5](https://github.com/hubbubhealth/hubbub-main/commit/fa23fb5133f5ae3a68ba58baca2335d010f76ab8) Remove ben from platform admin notifications [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [84a95eb](https://github.com/hubbubhealth/hubbub-main/commit/84a95ebd4bdb853a10ffbaf6e44724a8cdaa4235) Merge pull request 4258 from hubbubhealth mt circle migrations [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [7160ca1](https://github.com/hubbubhealth/hubbub-main/commit/7160ca17086c268cca57e81fd873ce386d3e02eb) Merge pull request 4259 from hubbubhealth js add lorens schema change [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [3980332](https://github.com/hubbubhealth/hubbub-main/commit/398033214c95d21114aac9be381abbd51b698488) add lorens missing schema change [jeff stringer](mailto:jeff@hubbubhealth.com)
+* [6883ea3](https://github.com/hubbubhealth/hubbub-main/commit/6883ea348942b197eec6bfe97d9db99b7e64f98b) Circle needs to run migrations after loading schema but before running seeds [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [b9a1ec2](https://github.com/hubbubhealth/hubbub-main/commit/b9a1ec2eef24f50fc12ac635eb682b6c438a7e8d) Merge pull request 4237 from hubbubhealth mt rollback slug index [Loren Delamarter](mailto:loren.delamarter@gmail.com)
+* [08fb204](https://github.com/hubbubhealth/hubbub-main/commit/08fb204e704a61dbfa3815f1a1089c0b548e9885) Remove unique index from slug_en [Mark Tabler](mailto:mark@hubbubhealth.com)
+
+## release-4046..release-4253 
+
+* [83e9b1c](https://github.com/hubbubhealth/hubbub-main/commit/83e9b1c196be2a4298e5933aa989a5f04e7dfe4c) Merge pull request 4253 from hubbubhealth mt rails secret [Mark Tabler](mailto:m.tabler@fallingmanstudios.net)
+* [4db1c1d](https://github.com/hubbubhealth/hubbub-main/commit/4db1c1d012c0524193f399c90a61fb1874354197) Fix SECRET_KEY_BASE to properly use env vars [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [9d3a123](https://github.com/hubbubhealth/hubbub-main/commit/9d3a1232776f148fdcf90ef911ed33bd220ce56b) Prefer boot failure over default SECRET_TOKEN [Mark Tabler](mailto:mark@hubbubhealth.com)
+* [5a52f86](https://github.com/hubbubhealth/hubbub-main/commit/5a52f86a8ed72a57810ba7cd7457871d7c436742) Set Rails to look for a secret token in ENV first before defaulting to a new hard coded key [Mark Tabler](mailto:mark@hubbubhealth.com)
+
+## release-4024..release-4046 
+
+* [6b94a73](https://github.com/hubbubhealth/hubbub-main/commit/6b94a7393d242dadf681a409c21ad84ee230ce6e) Merge pull request 4046 from hubbubhealth mo 4028 mailer challenge results [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [39660d7](https://github.com/hubbubhealth/hubbub-main/commit/39660d7d973b1039c2c3f414951585501773a29e) Refactor message notification when subject is Wave the checkered flag fix parameter for method [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [7331918](https://github.com/hubbubhealth/hubbub-main/commit/7331918eb2541de07dcc23b8cc0969b209df50cd) Mailer fix plural spanish key [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [929dd90](https://github.com/hubbubhealth/hubbub-main/commit/929dd90a1d761f3963699e7e8389b9ba21428ea9) Message Notification Wave Checkered Flag Localization of challenge conclusion mailer [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [ff0e9af](https://github.com/hubbubhealth/hubbub-main/commit/ff0e9afb41484816c4d571563cd7e8e66c12b1be) Refactor message notification when subject is Wave the checkered flag [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4030..release-4024 
+
+* [8936bfe](https://github.com/hubbubhealth/hubbub-main/commit/8936bfe5dd803a6236f04fbd35c3f02e0d66bc0b) Merge pull request 4024 from hubbubhealth ac user challenge history page [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [2ed90c1](https://github.com/hubbubhealth/hubbub-main/commit/2ed90c108e919a4321769d3f57d5eb50bb30e6f3) Adds missing key [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [2cb703c](https://github.com/hubbubhealth/hubbub-main/commit/2cb703c71e1c155db8fccbe74544002458f5e02c) Fixes spanglish key [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [707426b](https://github.com/hubbubhealth/hubbub-main/commit/707426b592b3a15d22f5fce586d6b39bd1607f93) Adds specs for overall history view [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [3f6d3bc](https://github.com/hubbubhealth/hubbub-main/commit/3f6d3bc3099ef2af784e52637c595ae3d693309a) Adds test for history partial [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [62fbe80](https://github.com/hubbubhealth/hubbub-main/commit/62fbe80beb2ff50c80cad1cdce9027d651f6505c) Adds spec in filters tab avoids missing translation in joinability filter [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [5315f4a](https://github.com/hubbubhealth/hubbub-main/commit/5315f4afb990165e02725eb1a74d499f0f449ee7) Removes word [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [e89faca](https://github.com/hubbubhealth/hubbub-main/commit/e89facaf10ec5745942116b79083298c8cf0356a) Removes duplicated key [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [e7e9452](https://github.com/hubbubhealth/hubbub-main/commit/e7e9452d963307950c1ce5098a8870db14791db8) Adds spec for total measure to date with units [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [9a4f5a7](https://github.com/hubbubhealth/hubbub-main/commit/9a4f5a7dcc9bf046c1618fa0e04742d3551db74a) Fixes missing parenthesis [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [58626c6](https://github.com/hubbubhealth/hubbub-main/commit/58626c694b1c23fb6d8f022c99a99e4156d12fb1) Fixes pr comments [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [15fda6c](https://github.com/hubbubhealth/hubbub-main/commit/15fda6c4b02a153c08d64c8dc0220a8362eb640a) Fixes rebase changes [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [f17496f](https://github.com/hubbubhealth/hubbub-main/commit/f17496f37914c8aafb87f19bde5d18f8351d4d35) Adds translation for challenges with measurement units [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [bc91b3c](https://github.com/hubbubhealth/hubbub-main/commit/bc91b3c0105bdb8ab8c86a32ff6f612e98ed0ac0) Adds meassuerement units in spanish [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [4949d18](https://github.com/hubbubhealth/hubbub-main/commit/4949d181bdc429291e082df674b8e6e26f384822) Adds measurement units [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [3bc4425](https://github.com/hubbubhealth/hubbub-main/commit/3bc4425c49e873a7d6a52c0b0dd53646c266de39) Adds keys for individual menus [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [eb7065f](https://github.com/hubbubhealth/hubbub-main/commit/eb7065f86d4417eddc6f6b9d0f7fc4050a494f42) Adds html safe [Alejandra](mailto:alejandra.cernas@unosquare.com)
+* [a9dbc78](https://github.com/hubbubhealth/hubbub-main/commit/a9dbc785cd3df20801b59660446c939a6a42efcb) Adds localization for user challenge history page [Alejandra](mailto:alejandra.cernas@unosquare.com)
+
+## release-4251..release-4030 
+
+* [df60a72](https://github.com/hubbubhealth/hubbub-main/commit/df60a721b8199107cf5d3931f357cc0b7d743521) Merge pull request 4030 from hubbubhealth mo 3955 localization body widget [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [82e6553](https://github.com/hubbubhealth/hubbub-main/commit/82e6553026f6607532a9140714a4c35aef031809) Localization Bodywidge Change biometric screening key to biometric_screening_title [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [803f664](https://github.com/hubbubhealth/hubbub-main/commit/803f66485b005b01bc6edfde895c82c3455080e9) Localization of body widget change form h3 to h4 the title of gender and age graph [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [8e17539](https://github.com/hubbubhealth/hubbub-main/commit/8e1753956192555dcdfbc6e71d2457dd8b839aad) Sort keys after rebase to master [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [1ac9653](https://github.com/hubbubhealth/hubbub-main/commit/1ac96537740e4755c676be305433ef32fdc39bfd) Sort keys after rebase to master [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [1fe0c1a](https://github.com/hubbubhealth/hubbub-main/commit/1fe0c1a4e51a49a27d50d461328b3e6e464dd3a3) Localization body widget better handling for graph titles [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [c1afb9a](https://github.com/hubbubhealth/hubbub-main/commit/c1afb9a6aa6742f1fe4d053bb3b518ad71d583d5) Localization body widget add localization for graphs [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [9a73098](https://github.com/hubbubhealth/hubbub-main/commit/9a73098a41e119d09b7f99d7009100013222be92) Body widget localization Remove N A translation [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [4842b95](https://github.com/hubbubhealth/hubbub-main/commit/4842b95a7721bb2b48ad39a0cf153435547ffa1a) Localization Body Widget add translation for Gender title [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [533d187](https://github.com/hubbubhealth/hubbub-main/commit/533d187ec30a22eab16c31eed6a6421f19072799) Localization body widget add keys for health indicators names from db [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [a83c653](https://github.com/hubbubhealth/hubbub-main/commit/a83c653937b7a1da1454d4615e916647890a759e) Localization of body widget add translation for blood preasure monitor [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [17fd7bb](https://github.com/hubbubhealth/hubbub-main/commit/17fd7bb6c4d1503f0089a51ade00aab5a23c0397) Localization of body widget sort en es keys [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [06cfd3f](https://github.com/hubbubhealth/hubbub-main/commit/06cfd3fa415281e497bdfc9b1439b3fab6190f77) Localization of Body Widget [Michel Ocon](mailto:michel.ocon@unosquare.com)
+
+## release-4252..release-4251 
+
+* [1683719](https://github.com/hubbubhealth/hubbub-main/commit/1683719be977cb5fcb34c81f9ed3fd0b0e1e221e) Merge pull request 4251 from hubbubhealth ac 4250 [Alejandra Cernas](mailto:stephaniacernas@gmail.com)
+* [21317bf](https://github.com/hubbubhealth/hubbub-main/commit/21317bf0331ba97a7aec20e136b080ca75091a80) Deletes douplicated key [Alejandra](mailto:alejandra.cernas@unosquare.com)
+
+## release-4011..release-4252 
+
+* [e79924e](https://github.com/hubbubhealth/hubbub-main/commit/e79924e46d964ea487b5fb1c0146deb74843e108) Merge pull request 4252 from hubbubhealth mo hotfix challenge stream entry key [Michel Ocon](mailto:soun.xrt@gmail.com)
+* [e34a509](https://github.com/hubbubhealth/hubbub-main/commit/e34a50935701aa8ec8233b1e2cd51d670ffb02b3) Remove duplicated challenges key [Michel Ocon](mailto:michel.ocon@unosquare.com)
+* [c7410c8](https://github.com/hubbubhealth/hubbub-main/commit/c7410c8ce11177fba5cf0f7911f4ab799c6f487d) hotfix key name variariable for mobile views [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
+
 ## release-4241..release-4011 
 
 * [8e6e40f](https://github.com/hubbubhealth/hubbub-main/commit/8e6e40fe5bd9f9017a0fd06bd291ea588831e100) Merge pull request 4011 from hubbubhealth le hub feed [Luis Ezcurdia](mailto:ing.ezcurdia@gmail.com)
